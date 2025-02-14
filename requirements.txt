@@ -1,0 +1,8 @@
+loguru~=0.7.3
+PyGetWindow~=0.0.9
+adbutils~=2.8.0
+numpy~=1.24.4
+opencv-python~=4.10.0.84
+pywin32~=308
+pillow~=10.4.0
+PyAutoGUI~=0.9.54

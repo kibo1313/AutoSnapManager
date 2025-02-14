@@ -14,3 +14,5 @@ from actions.clicks.android.adb_touch import ADBTouch
 from managers.windows_manager import WindowsManager as Windows
 from managers.android_manager import AndroidManager as Android
 from managers.manager_config import ScreenCaps, Clicks, Matches
+
+__version__ = "0.1.0"

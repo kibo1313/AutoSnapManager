@@ -43,13 +43,13 @@ dev = [
 ]
 
 [project.scripts]
-autosnap = "asmanager.cli:main"
+autosnap = "asm.cli:main"
 
 [tool.setuptools]
-package-dir = { "" = "asmanager" }
+package-dir = { "" = "asm" }
 
 [tool.setuptools.packages.find]
-where = ["asmanager"]
+where = ["asm"]
 
 [tool.black]
 line-length = 88

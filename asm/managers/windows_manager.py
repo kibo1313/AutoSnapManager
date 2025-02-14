@@ -14,9 +14,9 @@ from utils.dpi_tools import set_dpi_awareness
 class WindowsManager(Manager):
     def __init__(self,
                  window_name: Optional[str] = None,
-                 screencap: Optional[Union[ScreenCaps, ScreenCap]] = None,
-                 match: Optional[Union[Matches, Match]] = None,
-                 click: Optional[Union[Clicks, Click]] = None
+                 screencap: Optional[Union[str, ScreenCaps, ScreenCap]] = None,
+                 match: Optional[Union[str, Matches, Match]] = None,
+                 click: Optional[Union[str, Clicks, Click]] = None
                  ):
         """
         初始化 WindowsManager 对象
@@ -90,13 +90,3 @@ class WindowsManager(Manager):
         return module(map_table, default_methods[0], System.Windows)(window_name=self.window_name) \
             if self.window_name else (
             module(map_table, default_methods[1], System.Windows)())
-
-
-if __name__ == "__main__":
-    manager = WindowsManager('智谱', ScreenCaps.Window)
-    # manager.screenshot()
-    # for i in manager._locate_center(
-    #         r"F:\python_project\Strange_ideas\AutoSnapManager\AutoSnapManager\resource\temp\tmp4D71.png"
-    # ):
-    #     pass
-    # manager.clickTo(100, 100)

@@ -1,0 +1,2 @@
+recursive-include asm\screencaps\android\bin *
+recursive-include asm\actions\clicks\android\bin *

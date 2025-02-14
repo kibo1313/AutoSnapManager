@@ -16,9 +16,9 @@ from utils.module_class import get_class_name, check_class_name, get_module_clas
 class AndroidManager(Manager):
     def __init__(self,
                  serial: Optional[str] = None,
-                 screencap: Optional[Union[ScreenCaps, ScreenCap]] = None,
-                 match: Optional[Union[Matches, Match]] = None,
-                 click: Optional[Union[Clicks, Touch]] = None
+                 screencap: Optional[Union[str, ScreenCaps, ScreenCap]] = None,
+                 match: Optional[Union[str, Matches, Match]] = None,
+                 click: Optional[Union[str, Clicks, Touch]] = None
                  ):
         logger.info(f"正在连接设备: {adb.connect(serial)}")
 
@@ -72,7 +72,7 @@ class AndroidManager(Manager):
         if isinstance(method, type) and issubclass(method, super_class):
             class_name = get_class_name(method)
             super_name = get_class_name(super_class)
-            check_class_name(CLASSMAP[super_name], System.Windows, class_name)
+            check_class_name(CLASSMAP[super_name], System.Android, class_name)
             return method(serial=self.serial)
 
         raise TypeError(f"传入的 '{method}' 参数未解析")

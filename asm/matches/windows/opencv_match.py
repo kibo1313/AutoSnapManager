@@ -221,24 +221,3 @@ class OpenCVMatch(Match):
                 f"匹配度: {value:.15f}")
 
             yield center_x, center_y
-
-
-if __name__ == "__main__":
-    import time
-
-    start = time.time()
-
-    m = OpenCVMatch()
-
-    # m.locate_center(
-    #     r"F:\python_project\Strange_ideas\AutoSnapManager\AutoSnapManager\resource\temp\tmp1DF1.png",
-    #     r"F:\python_project\Strange_ideas\AutoSnapManager\AutoSnapManager\resource\temp\tmp4D71.png")
-
-    for i in m.locate_center_repeated(
-            r"F:\python_project\Strange_ideas\AutoSnapManager\AutoSnapManager\resource\temp\tmp1DF1.png",
-            r"F:\python_project\Strange_ideas\AutoSnapManager\AutoSnapManager\resource\temp\tmpA322.png",
-            (2, 2)
-    ):
-        pass
-
-    print(time.time() - start)

@@ -1,0 +1,200 @@
+2025-02-03T00:00:38.637617+0800 INFO 设备信息: {
+    "id": 0,
+    "width": 2560,
+    "height": 1440,
+    "xdpi": 360.00,
+    "ydpi": 360.00,
+    "size": 10.06,
+    "density": 2.25,
+    "fps": 60.00,
+    "secure": true,
+    "rotation": 90
+}
+2025-02-03T00:00:38.724719+0800 INFO 启动命令: F:\python_project\Strange_ideas\Arknights\adb\platform-tools\adb.EXE -s 127.0.0.1:16384 shell LD_LIBRARY_PATH=/data/local/tmp /data/local/tmp/minicap -P 1440x2560@1440x2560/90 -Q 100 -r 60.0 -S
+2025-02-03T00:00:38.735840+0800 INFO minicap启动中: 3秒
+2025-02-03T00:00:39.736078+0800 INFO minicap启动中: 2秒
+2025-02-03T00:00:40.736622+0800 INFO minicap启动中: 1秒
+2025-02-03T00:00:41.737636+0800 INFO 已连接到 127.0.0.1:24660
+2025-02-03T00:00:41.737636+0800 INFO 数据流已启动
+2025-02-03T00:00:42.185777+0800 INFO 图片已保存至：F:\python_project\Strange_ideas\AutoSnapManager\AutoSnapManager/resource/temp/MiniCap_2025_02_03_000038.png
+2025-02-03T00:00:42.186758+0800 INFO 正在停止数据流
+2025-02-03T00:00:42.220037+0800 INFO Socket已关闭
+2025-02-03T00:00:42.222029+0800 INFO MiniCap 资源清理完成
+2025-02-03T00:16:54.637393+0800 INFO 设备信息: {
+    "id": 0,
+    "width": 2560,
+    "height": 1440,
+    "xdpi": 360.00,
+    "ydpi": 360.00,
+    "size": 10.06,
+    "density": 2.25,
+    "fps": 60.00,
+    "secure": true,
+    "rotation": 90
+}
+2025-02-03T00:16:54.724559+0800 INFO 启动命令: F:\python_project\Strange_ideas\Arknights\adb\platform-tools\adb.EXE -s 127.0.0.1:16384 shell LD_LIBRARY_PATH=/data/local/tmp /data/local/tmp/minicap -P 1440x2560@1440x2560/90 -Q 100 -r 60.0 -S
+2025-02-03T00:16:54.735705+0800 INFO minicap启动中: 3秒
+2025-02-03T00:16:55.737124+0800 INFO minicap启动中: 2秒
+2025-02-03T00:16:56.737417+0800 INFO minicap启动中: 1秒
+2025-02-03T00:16:57.748137+0800 INFO 已连接到 127.0.0.1:24660
+2025-02-03T00:16:57.749080+0800 INFO 数据流已启动
+2025-02-03T00:16:57.749080+0800 INFO banner {'version': 1, 'length': 24, 'pid': 8257, 'realWidth': 1440, 'realHeight': 2560, 'virtualWidth': 1440, 'virtualHeight': 2560, 'orientation': 90, 'quirks': 2}
+2025-02-03T00:16:58.143399+0800 INFO 图片已保存至：F:\python_project\Strange_ideas\AutoSnapManager\AutoSnapManager/resource/temp/MiniCap_2025_02_03_001654.png
+2025-02-03T00:16:58.144417+0800 INFO 正在停止数据流
+2025-02-03T00:16:58.184450+0800 INFO Socket已关闭
+2025-02-03T00:16:58.186403+0800 INFO MiniCap 资源清理完成
+2025-02-03T00:29:59.913534+0800 INFO 设备信息: {
+    "id": 0,
+    "width": 2560,
+    "height": 1440,
+    "xdpi": 360.00,
+    "ydpi": 360.00,
+    "size": 10.06,
+    "density": 2.25,
+    "fps": 60.00,
+    "secure": true,
+    "rotation": 90
+}
+2025-02-03T00:30:00.004388+0800 INFO 启动命令: F:\python_project\Strange_ideas\Arknights\adb\platform-tools\adb.EXE -s 127.0.0.1:16384 shell LD_LIBRARY_PATH=/data/local/tmp /data/local/tmp/minicap -P 1440x2560@1440x2560/90 -Q 100 -r 60.0 -S
+2025-02-03T00:30:00.020867+0800 INFO minicap启动中: 3秒
+2025-02-03T00:30:01.022153+0800 INFO minicap启动中: 2秒
+2025-02-03T00:30:02.022605+0800 INFO minicap启动中: 1秒
+2025-02-03T00:30:03.023507+0800 INFO 已连接到 127.0.0.1:24660
+2025-02-03T00:30:03.024526+0800 INFO 数据流已启动
+2025-02-03T00:30:03.025508+0800 INFO banner {'version': 1, 'length': 24, 'pid': 8373, 'realWidth': 1440, 'realHeight': 2560, 'virtualWidth': 1440, 'virtualHeight': 2560, 'orientation': 90, 'quirks': 2}
+2025-02-03T00:30:03.453625+0800 INFO 图片已保存至：F:\python_project\Strange_ideas\AutoSnapManager\AutoSnapManager/resource/temp/MiniCap_2025_02_03_002959.png
+2025-02-03T00:30:03.454606+0800 INFO 正在停止数据流
+2025-02-03T00:30:03.479237+0800 INFO Socket已关闭
+2025-02-03T00:30:03.480213+0800 DEBUG MiniCap 资源清理完成
+2025-02-03T00:30:33.693686+0800 INFO 设备信息: {
+    "id": 0,
+    "width": 2560,
+    "height": 1440,
+    "xdpi": 360.00,
+    "ydpi": 360.00,
+    "size": 10.06,
+    "density": 2.25,
+    "fps": 60.00,
+    "secure": true,
+    "rotation": 90
+}
+2025-02-03T00:30:34.297507+0800 INFO 图片已保存至：F:\python_project\Strange_ideas\AutoSnapManager\AutoSnapManager/resource/temp/MiniCap_2025_02_03_003033.png
+2025-02-03T00:30:34.298484+0800 DEBUG MiniCap 资源清理完成
+2025-02-03T00:30:45.804392+0800 INFO 设备信息: {
+    "id": 0,
+    "width": 2560,
+    "height": 1440,
+    "xdpi": 360.00,
+    "ydpi": 360.00,
+    "size": 10.06,
+    "density": 2.25,
+    "fps": 60.00,
+    "secure": true,
+    "rotation": 90
+}
+2025-02-03T00:30:46.378580+0800 INFO 图片已保存至：F:\python_project\Strange_ideas\AutoSnapManager\AutoSnapManager/resource/temp/MiniCap_2025_02_03_003045.png
+2025-02-03T00:30:46.378580+0800 DEBUG MiniCap 资源清理完成
+2025-02-03T20:32:46.789280+0800 ERROR 截图过程发生错误: 无法捕获窗口: 智谱清言 的图像！
+2025-02-03T20:32:53.738557+0800 INFO 图片已保存至：F:\python_project\Strange_ideas\AutoSnapManager\AutoSnapManager/resource/temp/WindowCap_2025_02_03_203253.png
+2025-02-03T20:32:53.739533+0800 DEBUG 运行时间：0.06521964073181152
+2025-02-03T20:58:30.542641+0800 ERROR 获取窗口失败: 未找到窗口: 智谱清言
+2025-02-03T21:48:16.423476+0800 INFO 窗口原始状态：<Win32Window left="20", top="131", width="1330", height="750", title="智谱清言">
+2025-02-03T21:48:17.455830+0800 INFO 窗口当前状态：<Win32Window left="0", top="0", width="1921", height="1080", title="智谱清言">
+2025-02-03T21:48:34.027267+0800 INFO 窗口原始状态：<Win32Window left="47", top="171", width="1150", height="793", title="智谱清言">
+2025-02-03T21:48:35.046240+0800 INFO 窗口当前状态：<Win32Window left="0", top="0", width="1921", height="1080", title="智谱清言">
+2025-02-03T21:49:33.188178+0800 INFO 窗口原始状态：<Win32Window left="-13", top="109", width="1153", height="716", title="智谱清言">
+2025-02-03T21:49:34.207896+0800 INFO 窗口当前状态：<Win32Window left="0", top="0", width="1281", height="720", title="智谱清言">
+2025-02-03T21:49:47.242422+0800 INFO 窗口原始状态：<Win32Window left="0", top="0", width="1281", height="720", title="智谱清言">
+2025-02-03T21:49:48.248744+0800 INFO 窗口当前状态：<Win32Window left="0", top="0", width="1280", height="720", title="智谱清言">
+2025-02-03T21:50:07.221764+0800 INFO 窗口原始状态：<Win32Window left="71", top="77", width="1280", height="720", title="智谱清言">
+2025-02-03T21:50:08.224850+0800 INFO 窗口当前状态：<Win32Window left="0", top="0", width="1280", height="720", title="智谱清言">
+2025-02-03T22:51:56.301751+0800 DEBUG 已使用基础DPI感知设置
+2025-02-03T22:55:11.786919+0800 DEBUG 调用 SetProcessDpiAwarenessContext 结果: 0
+2025-02-03T22:55:11.787895+0800 DEBUG 调用 SetProcessDpiAwareness 结果: 0
+2025-02-03T22:55:11.788874+0800 DEBUG 调用 SetProcessDPIAware 结果: 1
+2025-02-03T22:55:11.788874+0800 DEBUG 已使用基础DPI感知设置
+2025-02-03T22:55:55.172958+0800 DEBUG 调用 SetProcessDpiAwarenessContext 结果: 0
+2025-02-03T22:55:55.172958+0800 DEBUG 调用 SetProcessDpiAwareness 结果: 0
+2025-02-03T22:55:55.172958+0800 DEBUG 调用 SetProcessDPIAware 结果: 1
+2025-02-03T22:55:55.173961+0800 DEBUG 已使用基础DPI感知设置
+2025-02-03T22:59:06.038168+0800 DEBUG 调用 SetProcessDpiAwarenessContext 结果: 1
+2025-02-03T22:59:06.039143+0800 DEBUG 已使用DPI感知V2设置
+2025-02-03T23:00:52.547096+0800 DEBUG 调用 SetProcessDpiAwarenessContext 结果: 1
+2025-02-03T23:00:52.548077+0800 DEBUG 已使用DPI感知V2设置
+2025-02-03T23:04:43.637961+0800 DEBUG 调用 SetProcessDpiAwarenessContext 结果: 0
+2025-02-03T23:04:43.638937+0800 DEBUG 调用 SetProcessDpiAwareness 结果: 0
+2025-02-03T23:04:43.638937+0800 DEBUG 调用 SetProcessDPIAware 结果: 1
+2025-02-03T23:04:43.638937+0800 DEBUG 已使用基础DPI感知设置
+2025-02-03T23:05:05.333299+0800 DEBUG 调用 SetProcessDpiAwarenessContext 结果: 0
+2025-02-03T23:05:05.334305+0800 DEBUG 调用 SetProcessDpiAwareness 结果: 0
+2025-02-03T23:05:05.334305+0800 DEBUG 调用 SetProcessDPIAware 结果: 1
+2025-02-03T23:05:05.334305+0800 DEBUG 已使用基础DPI感知设置
+2025-02-03T23:05:32.584024+0800 DEBUG 调用 SetProcessDpiAwarenessContext 结果: 0
+2025-02-03T23:05:32.585053+0800 DEBUG 调用 SetProcessDpiAwareness 结果: 0
+2025-02-03T23:05:32.585053+0800 DEBUG 调用 SetProcessDPIAware 结果: 1
+2025-02-03T23:05:32.585874+0800 DEBUG 已使用基础DPI感知设置
+2025-02-03T23:06:25.075834+0800 DEBUG 调用 SetProcessDpiAwarenessContext 结果: 0
+2025-02-03T23:06:25.076774+0800 DEBUG 调用 SetProcessDpiAwareness 结果: 0
+2025-02-03T23:06:25.076774+0800 DEBUG 调用 SetProcessDPIAware 结果: 1
+2025-02-03T23:06:25.076774+0800 DEBUG 已使用基础DPI感知设置
+2025-02-03T23:06:42.167696+0800 DEBUG 调用 SetProcessDpiAwarenessContext 结果: 1
+2025-02-03T23:06:42.168673+0800 DEBUG 已使用DPI感知V2设置
+2025-02-03T23:09:36.191712+0800 DEBUG 调用 SetProcessDpiAwarenessContext 结果: 1
+2025-02-03T23:09:36.191712+0800 DEBUG 已使用DPI感知V2设置
+2025-02-03T23:10:46.305007+0800 DEBUG 调用 SetProcessDpiAwarenessContext 结果: 1
+2025-02-03T23:10:46.305876+0800 DEBUG 已使用DPI感知V2设置
+2025-02-03T23:11:48.316739+0800 DEBUG 调用 SetProcessDpiAwarenessContext 结果: 1
+2025-02-03T23:11:48.316739+0800 DEBUG 已使用DPI感知V2设置
+2025-02-03T23:22:45.514198+0800 DEBUG 调用 SetProcessDpiAwarenessContext 结果: 1
+2025-02-03T23:22:45.515248+0800 DEBUG 已使用DPI感知V2设置
+2025-02-03T23:22:54.240893+0800 DEBUG 调用 SetProcessDpiAwarenessContext 结果: 1
+2025-02-03T23:22:54.240893+0800 DEBUG 已使用DPI感知V1设置
+2025-02-03T23:22:59.056005+0800 DEBUG 调用 SetProcessDpiAwareness 结果: 0
+2025-02-03T23:22:59.056005+0800 DEBUG 调用 SetProcessDPIAware 结果: 1
+2025-02-03T23:22:59.056005+0800 DEBUG 已使用基础DPI感知设置
+2025-02-03T23:27:21.531278+0800 DEBUG 调用 SetProcessDpiAwarenessContext 结果: 1
+2025-02-03T23:27:21.531278+0800 DEBUG 已使用DPI感知V2设置
+2025-02-03T23:27:33.405209+0800 DEBUG 调用 SetProcessDpiAwarenessContext 结果: 1
+2025-02-03T23:27:33.406197+0800 DEBUG 已使用DPI感知V2设置
+2025-02-03T23:29:04.445169+0800 DEBUG 调用 SetProcessDpiAwareness 结果: 0
+2025-02-03T23:29:04.446150+0800 DEBUG 调用 SetProcessDPIAware 结果: 1
+2025-02-03T23:29:04.446150+0800 DEBUG 已使用基础DPI感知设置
+2025-02-03T23:30:57.872668+0800 DEBUG 调用 SetProcessDpiAwareness 结果: 0
+2025-02-03T23:30:57.872668+0800 DEBUG 调用 SetProcessDPIAware 结果: 1
+2025-02-03T23:30:57.872668+0800 DEBUG 已使用基础DPI感知设置
+2025-02-03T23:31:47.911079+0800 DEBUG 调用 SetProcessDpiAwareness 结果: 0
+2025-02-03T23:31:47.912053+0800 DEBUG 调用 SetProcessDPIAware 结果: 1
+2025-02-03T23:31:47.912053+0800 DEBUG 已使用基础DPI感知设置
+2025-02-03T23:37:22.394216+0800 DEBUG 调用 SetProcessDpiAwarenessContext 结果: 1
+2025-02-03T23:37:22.394768+0800 DEBUG 已使用DPI感知V2设置
+2025-02-03T23:37:38.945824+0800 DEBUG 调用 SetProcessDpiAwarenessContext 结果: 1
+2025-02-03T23:37:38.945824+0800 DEBUG 已使用基础DPI感知设置
+2025-02-03T23:38:50.698106+0800 DEBUG 调用 SetProcessDpiAwareness 结果: 0
+2025-02-03T23:39:00.045839+0800 DEBUG 调用 SetProcessDpiAwareness 结果: 0
+2025-02-03T23:39:58.611358+0800 DEBUG 调用 SetProcessDpiAwareness 结果: 0
+2025-02-03T23:40:08.182029+0800 DEBUG 调用 SetProcessDpiAwareness 结果: 0
+2025-02-03T23:40:15.574104+0800 DEBUG 调用 SetProcessDpiAwareness 结果: 0
+2025-02-03T23:40:17.421102+0800 DEBUG 调用 SetProcessDpiAwareness 结果: 0
+2025-02-03T23:42:07.095988+0800 DEBUG 调用 SetProcessDpiAwareness 结果: 0
+2025-02-03T23:42:07.095988+0800 DEBUG 已使用Shcore DPI感知设置
+2025-02-03T23:42:17.430177+0800 DEBUG 调用 SetProcessDpiAwarenessContext 结果: 1
+2025-02-03T23:42:17.430177+0800 DEBUG 已使用DPI感知V2设置
+2025-02-03T23:44:57.019348+0800 DEBUG 调用 SetProcessDpiAwarenessContext 结果: 1
+2025-02-03T23:44:57.020033+0800 DEBUG 已使用DPI感知V2设置
+2025-02-03T23:45:06.319940+0800 DEBUG 调用 SetProcessDpiAwareness 结果: 0
+2025-02-03T23:45:15.521433+0800 DEBUG 调用 SetProcessDpiAwareness 结果: 0
+2025-02-03T23:45:15.522447+0800 DEBUG 调用 SetProcessDPIAware 结果: 1
+2025-02-03T23:45:15.522447+0800 DEBUG 已使用基础DPI感知设置
+2025-02-03T23:45:37.917072+0800 DEBUG 调用 SetProcessDpiAwarenessContext 结果: 1
+2025-02-03T23:45:37.917072+0800 DEBUG 调用 SetProcessDpiAwarenessContext 结果: 0
+2025-02-03T23:45:37.917072+0800 DEBUG 已使用DPI感知V1设置
+2025-02-03T23:45:55.759080+0800 DEBUG 调用 SetProcessDpiAwarenessContext 结果: 1
+2025-02-03T23:45:55.759080+0800 DEBUG 已使用DPI感知V2设置
+2025-02-03T23:46:11.785200+0800 DEBUG 调用 SetProcessDpiAwarenessContext 结果: 1
+2025-02-03T23:46:11.786182+0800 DEBUG 已使用DPI感知V1设置
+2025-02-03T23:46:23.817165+0800 DEBUG 调用 SetProcessDpiAwarenessContext 结果: 1
+2025-02-03T23:46:23.817165+0800 DEBUG 调用 SetProcessDpiAwareness 结果: -2147024891
+2025-02-03T23:46:23.817165+0800 DEBUG 调用 SetProcessDPIAware 结果: 1
+2025-02-03T23:46:23.818142+0800 ERROR DPI感知设置失败
+2025-02-03T23:48:26.676747+0800 DEBUG 调用 SetProcessDpiAwarenessContext 结果: 1
+2025-02-03T23:48:26.676747+0800 DEBUG 已使用DPI感知V2设置

@@ -1,0 +1,2506 @@
+2025-02-02T00:59:29.771181+0800 INFO {
+    "id": 0,
+    "width": 2560,
+    "height": 1440,
+    "xdpi": 360.00,
+    "ydpi": 360.00,
+    "size": 10.06,
+    "density": 2.25,
+    "fps": 60.00,
+    "secure": true,
+    "rotation": 90
+}
+2025-02-02T00:59:29.793914+0800 INFO ['F:\\python_project\\Strange_ideas\\Arknights\\adb\\platform-tools\\adb.EXE', '-s', '127.0.0.1:16384', 'shell', 'LD_LIBRARY_PATH=/data/local/tmp', '/data/local/tmp/minicap', '-P', '1440x2560@1440x2560/90', '-Q', '100', '-r', '60.0', '-S']
+2025-02-02T00:59:29.800858+0800 INFO minicap connection takes a long time, please be patient.
+2025-02-02T00:59:29.800858+0800 INFO minicap starting by 3s
+2025-02-02T00:59:30.801358+0800 INFO minicap starting by 2s
+2025-02-02T00:59:31.802075+0800 INFO minicap starting by 1s
+2025-02-02T00:59:32.804815+0800 INFO 成功连接到 127.0.0.1:40206
+2025-02-02T00:59:32.804815+0800 INFO 线程已启动
+2025-02-02T00:59:32.805790+0800 INFO banner {'version': 1, 'length': 24, 'pid': 2816, 'realWidth': 1440, 'realHeight': 2560, 'virtualWidth': 1440, 'virtualHeight': 2560, 'orientation': 90, 'quirks': 2}
+2025-02-02T01:00:24.824867+0800 INFO {
+    "id": 0,
+    "width": 2560,
+    "height": 1440,
+    "xdpi": 360.00,
+    "ydpi": 360.00,
+    "size": 10.06,
+    "density": 2.25,
+    "fps": 60.00,
+    "secure": true,
+    "rotation": 90
+}
+2025-02-02T01:00:24.834797+0800 INFO ['F:\\python_project\\Strange_ideas\\Arknights\\adb\\platform-tools\\adb.EXE', '-s', '127.0.0.1:16384', 'shell', 'LD_LIBRARY_PATH=/data/local/tmp', '/data/local/tmp/minicap', '-P', '1440x2560@1440x2560/90', '-Q', '100', '-r', '60.0', '-S']
+2025-02-02T01:00:24.843185+0800 INFO minicap connection takes a long time, please be patient.
+2025-02-02T01:00:24.843185+0800 INFO minicap starting by 3s
+2025-02-02T01:00:25.844083+0800 INFO minicap starting by 2s
+2025-02-02T01:00:26.844419+0800 INFO minicap starting by 1s
+2025-02-02T01:00:27.856156+0800 INFO 成功连接到 127.0.0.1:40206
+2025-02-02T01:00:27.856156+0800 INFO 线程已启动
+2025-02-02T01:00:27.856156+0800 INFO banner {'version': 1, 'length': 24, 'pid': 2998, 'realWidth': 1440, 'realHeight': 2560, 'virtualWidth': 1440, 'virtualHeight': 2560, 'orientation': 90, 'quirks': 2}
+2025-02-02T01:01:21.241158+0800 INFO {
+    "id": 0,
+    "width": 2560,
+    "height": 1440,
+    "xdpi": 360.00,
+    "ydpi": 360.00,
+    "size": 10.06,
+    "density": 2.25,
+    "fps": 60.00,
+    "secure": true,
+    "rotation": 90
+}
+2025-02-02T01:01:21.255885+0800 INFO ['F:\\python_project\\Strange_ideas\\Arknights\\adb\\platform-tools\\adb.EXE', '-s', '127.0.0.1:16384', 'shell', 'LD_LIBRARY_PATH=/data/local/tmp', '/data/local/tmp/minicap', '-P', '1440x2560@1440x2560/90', '-Q', '100', '-r', '60.0', '-S']
+2025-02-02T01:01:21.264817+0800 INFO minicap connection takes a long time, please be patient.
+2025-02-02T01:01:21.264817+0800 INFO minicap starting by 3s
+2025-02-02T01:01:22.266525+0800 INFO minicap starting by 2s
+2025-02-02T01:01:23.267052+0800 INFO minicap starting by 1s
+2025-02-02T01:01:24.268960+0800 INFO 成功连接到 127.0.0.1:40206
+2025-02-02T01:01:24.268960+0800 INFO 线程已启动
+2025-02-02T01:01:24.268960+0800 INFO banner {'version': 1, 'length': 24, 'pid': 3032, 'realWidth': 1440, 'realHeight': 2560, 'virtualWidth': 1440, 'virtualHeight': 2560, 'orientation': 90, 'quirks': 2}
+2025-02-02T01:07:43.402820+0800 INFO {
+    "id": 0,
+    "width": 2560,
+    "height": 1440,
+    "xdpi": 360.00,
+    "ydpi": 360.00,
+    "size": 10.06,
+    "density": 2.25,
+    "fps": 60.00,
+    "secure": true,
+    "rotation": 90
+}
+2025-02-02T01:07:43.422643+0800 INFO ['F:\\python_project\\Strange_ideas\\Arknights\\adb\\platform-tools\\adb.EXE', '-s', '127.0.0.1:16384', 'shell', 'LD_LIBRARY_PATH=/data/local/tmp', '/data/local/tmp/minicap', '-P', '1440x2560@1440x2560/90', '-Q', '100', '-r', '60.0', '-S']
+2025-02-02T01:07:43.432100+0800 INFO minicap connection takes a long time, please be patient.
+2025-02-02T01:07:43.432100+0800 INFO minicap starting by 3s
+2025-02-02T01:07:44.432852+0800 INFO minicap starting by 2s
+2025-02-02T01:07:45.433001+0800 INFO minicap starting by 1s
+2025-02-02T01:07:46.434227+0800 INFO 成功连接到 127.0.0.1:40206
+2025-02-02T01:07:46.434227+0800 INFO 线程已启动
+2025-02-02T01:07:46.435177+0800 INFO banner {'version': 1, 'length': 24, 'pid': 3137, 'realWidth': 1440, 'realHeight': 2560, 'virtualWidth': 1440, 'virtualHeight': 2560, 'orientation': 90, 'quirks': 2}
+2025-02-02T01:08:45.498118+0800 INFO {
+    "id": 0,
+    "width": 2560,
+    "height": 1440,
+    "xdpi": 360.00,
+    "ydpi": 360.00,
+    "size": 10.06,
+    "density": 2.25,
+    "fps": 60.00,
+    "secure": true,
+    "rotation": 90
+}
+2025-02-02T01:08:45.507956+0800 INFO ['F:\\python_project\\Strange_ideas\\Arknights\\adb\\platform-tools\\adb.EXE', '-s', '127.0.0.1:16384', 'shell', 'LD_LIBRARY_PATH=/data/local/tmp', '/data/local/tmp/minicap', '-P', '1440x2560@1440x2560/90', '-Q', '100', '-r', '60.0', '-S']
+2025-02-02T01:08:45.515778+0800 INFO minicap connection takes a long time, please be patient.
+2025-02-02T01:08:45.515778+0800 INFO minicap starting by 3s
+2025-02-02T01:08:46.516129+0800 INFO minicap starting by 2s
+2025-02-02T01:08:47.516493+0800 INFO minicap starting by 1s
+2025-02-02T01:08:48.539335+0800 INFO 成功连接到 127.0.0.1:40206
+2025-02-02T01:08:48.539335+0800 INFO banner {'version': 1, 'length': 24, 'pid': 3176, 'realWidth': 1440, 'realHeight': 2560, 'virtualWidth': 1440, 'virtualHeight': 2560, 'orientation': 90, 'quirks': 2}
+2025-02-02T01:08:48.540280+0800 INFO 线程已启动
+2025-02-02T01:09:02.011549+0800 INFO {
+    "id": 0,
+    "width": 2560,
+    "height": 1440,
+    "xdpi": 360.00,
+    "ydpi": 360.00,
+    "size": 10.06,
+    "density": 2.25,
+    "fps": 60.00,
+    "secure": true,
+    "rotation": 90
+}
+2025-02-02T01:09:02.020905+0800 INFO ['F:\\python_project\\Strange_ideas\\Arknights\\adb\\platform-tools\\adb.EXE', '-s', '127.0.0.1:16384', 'shell', 'LD_LIBRARY_PATH=/data/local/tmp', '/data/local/tmp/minicap', '-P', '1440x2560@1440x2560/90', '-Q', '100', '-r', '60.0', '-S']
+2025-02-02T01:09:02.029311+0800 INFO minicap connection takes a long time, please be patient.
+2025-02-02T01:09:02.029311+0800 INFO minicap starting by 3s
+2025-02-02T01:09:03.029956+0800 INFO minicap starting by 2s
+2025-02-02T01:09:04.030073+0800 INFO minicap starting by 1s
+2025-02-02T01:09:05.031384+0800 INFO 成功连接到 127.0.0.1:40206
+2025-02-02T01:09:05.031384+0800 INFO 线程已启动
+2025-02-02T01:09:05.033302+0800 INFO banner {'version': 1, 'length': 24, 'pid': 3208, 'realWidth': 1440, 'realHeight': 2560, 'virtualWidth': 1440, 'virtualHeight': 2560, 'orientation': 90, 'quirks': 2}
+2025-02-02T01:09:05.106108+0800 ERROR Invalid JPG header
+2025-02-02T01:13:22.396207+0800 INFO {
+    "id": 0,
+    "width": 2560,
+    "height": 1440,
+    "xdpi": 360.00,
+    "ydpi": 360.00,
+    "size": 10.06,
+    "density": 2.25,
+    "fps": 60.00,
+    "secure": true,
+    "rotation": 90
+}
+2025-02-02T01:13:22.406088+0800 INFO ['F:\\python_project\\Strange_ideas\\Arknights\\adb\\platform-tools\\adb.EXE', '-s', '127.0.0.1:16384', 'shell', 'LD_LIBRARY_PATH=/data/local/tmp', '/data/local/tmp/minicap', '-P', '1440x2560@1440x2560/90', '-Q', '100', '-r', '60.0', '-S']
+2025-02-02T01:13:22.413277+0800 INFO minicap connection takes a long time, please be patient.
+2025-02-02T01:13:22.413277+0800 INFO minicap starting by 3s
+2025-02-02T01:13:23.414089+0800 INFO minicap starting by 2s
+2025-02-02T01:13:24.414182+0800 INFO minicap starting by 1s
+2025-02-02T01:13:25.415222+0800 INFO 成功连接到 127.0.0.1:40206
+2025-02-02T01:13:25.415952+0800 INFO 线程已启动
+2025-02-02T01:13:25.417151+0800 INFO banner {'version': 1, 'length': 24, 'pid': 3259, 'realWidth': 1440, 'realHeight': 2560, 'virtualWidth': 1440, 'virtualHeight': 2560, 'orientation': 90, 'quirks': 2}
+2025-02-02T01:13:25.525641+0800 ERROR Invalid JPG header
+2025-02-02T01:15:16.926255+0800 INFO {
+    "id": 0,
+    "width": 2560,
+    "height": 1440,
+    "xdpi": 360.00,
+    "ydpi": 360.00,
+    "size": 10.06,
+    "density": 2.25,
+    "fps": 60.00,
+    "secure": true,
+    "rotation": 90
+}
+2025-02-02T01:15:16.950047+0800 INFO ['F:\\python_project\\Strange_ideas\\Arknights\\adb\\platform-tools\\adb.EXE', '-s', '127.0.0.1:16384', 'shell', 'LD_LIBRARY_PATH=/data/local/tmp', '/data/local/tmp/minicap', '-P', '1440x2560@1440x2560/90', '-Q', '100', '-r', '60.0', '-S']
+2025-02-02T01:15:16.962827+0800 INFO minicap connection takes a long time, please be patient.
+2025-02-02T01:15:16.962827+0800 INFO minicap starting by 3s
+2025-02-02T01:15:17.963276+0800 INFO minicap starting by 2s
+2025-02-02T01:15:18.964077+0800 INFO minicap starting by 1s
+2025-02-02T01:15:19.964977+0800 INFO 成功连接到 127.0.0.1:40206
+2025-02-02T01:15:19.965952+0800 INFO 线程已启动
+2025-02-02T01:15:19.965952+0800 INFO banner {'version': 1, 'length': 24, 'pid': 3301, 'realWidth': 1440, 'realHeight': 2560, 'virtualWidth': 1440, 'virtualHeight': 2560, 'orientation': 90, 'quirks': 2}
+2025-02-02T01:15:20.044062+0800 ERROR Invalid JPG header
+2025-02-02T01:16:59.831228+0800 INFO {
+    "id": 0,
+    "width": 2560,
+    "height": 1440,
+    "xdpi": 360.00,
+    "ydpi": 360.00,
+    "size": 10.06,
+    "density": 2.25,
+    "fps": 60.00,
+    "secure": true,
+    "rotation": 90
+}
+2025-02-02T01:16:59.852102+0800 INFO ['F:\\python_project\\Strange_ideas\\Arknights\\adb\\platform-tools\\adb.EXE', '-s', '127.0.0.1:16384', 'shell', 'LD_LIBRARY_PATH=/data/local/tmp', '/data/local/tmp/minicap', '-P', '1440x2560@1440x2560/90', '-Q', '100', '-r', '60.0', '-S']
+2025-02-02T01:16:59.860002+0800 INFO minicap connection takes a long time, please be patient.
+2025-02-02T01:16:59.860002+0800 INFO minicap starting by 3s
+2025-02-02T01:17:00.860203+0800 INFO minicap starting by 2s
+2025-02-02T01:17:01.861082+0800 INFO minicap starting by 1s
+2025-02-02T01:17:02.882854+0800 INFO 成功连接到 127.0.0.1:40206
+2025-02-02T01:17:02.882854+0800 INFO 线程已启动
+2025-02-02T01:17:02.882854+0800 INFO banner {'version': 1, 'length': 24, 'pid': 3340, 'realWidth': 1440, 'realHeight': 2560, 'virtualWidth': 1440, 'virtualHeight': 2560, 'orientation': 90, 'quirks': 2}
+2025-02-02T01:34:14.705840+0800 INFO {
+    "id": 0,
+    "width": 2560,
+    "height": 1440,
+    "xdpi": 360.00,
+    "ydpi": 360.00,
+    "size": 10.06,
+    "density": 2.25,
+    "fps": 60.00,
+    "secure": true,
+    "rotation": 90
+}
+2025-02-02T01:34:14.719140+0800 INFO ['F:\\python_project\\Strange_ideas\\Arknights\\adb\\platform-tools\\adb.EXE', '-s', '127.0.0.1:16384', 'shell', 'LD_LIBRARY_PATH=/data/local/tmp', '/data/local/tmp/minicap', '-P', '1440x2560@1440x2560/90', '-Q', '100', '-r', '60.0', '-S']
+2025-02-02T01:34:14.726036+0800 INFO minicap connection takes a long time, please be patient.
+2025-02-02T01:34:14.726036+0800 INFO minicap starting by 3s
+2025-02-02T01:34:15.726226+0800 INFO minicap starting by 2s
+2025-02-02T01:34:16.726357+0800 INFO minicap starting by 1s
+2025-02-02T01:34:17.738320+0800 INFO 成功连接到 127.0.0.1:40206
+2025-02-02T01:34:17.738320+0800 INFO 线程已启动
+2025-02-02T01:34:17.739309+0800 INFO banner {'version': 1, 'length': 24, 'pid': 3453, 'realWidth': 1440, 'realHeight': 2560, 'virtualWidth': 1440, 'virtualHeight': 2560, 'orientation': 90, 'quirks': 2}
+2025-02-02T01:34:17.815841+0800 ERROR Invalid JPG header
+2025-02-02T01:39:23.669840+0800 INFO {
+    "id": 0,
+    "width": 2560,
+    "height": 1440,
+    "xdpi": 360.00,
+    "ydpi": 360.00,
+    "size": 10.06,
+    "density": 2.25,
+    "fps": 60.00,
+    "secure": true,
+    "rotation": 90
+}
+2025-02-02T01:39:23.690112+0800 INFO ['F:\\python_project\\Strange_ideas\\Arknights\\adb\\platform-tools\\adb.EXE', '-s', '127.0.0.1:16384', 'shell', 'LD_LIBRARY_PATH=/data/local/tmp', '/data/local/tmp/minicap', '-P', '1440x2560@1440x2560/90', '-Q', '100', '-r', '60.0', '-S']
+2025-02-02T01:39:23.698961+0800 INFO minicap connection takes a long time, please be patient.
+2025-02-02T01:39:23.698961+0800 INFO minicap starting by 3s
+2025-02-02T01:39:24.698998+0800 INFO minicap starting by 2s
+2025-02-02T01:39:25.699219+0800 INFO minicap starting by 1s
+2025-02-02T01:39:26.711064+0800 INFO 成功连接到 127.0.0.1:40206
+2025-02-02T01:39:26.711064+0800 INFO 线程已启动
+2025-02-02T01:39:26.711064+0800 INFO banner {'version': 1, 'length': 24, 'pid': 3538, 'realWidth': 1440, 'realHeight': 2560, 'virtualWidth': 1440, 'virtualHeight': 2560, 'orientation': 90, 'quirks': 2}
+2025-02-02T01:39:26.770390+0800 ERROR Invalid JPG header
+2025-02-02T01:41:13.344456+0800 INFO {
+    "id": 0,
+    "width": 2560,
+    "height": 1440,
+    "xdpi": 360.00,
+    "ydpi": 360.00,
+    "size": 10.06,
+    "density": 2.25,
+    "fps": 60.00,
+    "secure": true,
+    "rotation": 90
+}
+2025-02-02T01:41:13.364786+0800 INFO ['F:\\python_project\\Strange_ideas\\Arknights\\adb\\platform-tools\\adb.EXE', '-s', '127.0.0.1:16384', 'shell', 'LD_LIBRARY_PATH=/data/local/tmp', '/data/local/tmp/minicap', '-P', '1440x2560@1440x2560/90', '-Q', '100', '-r', '60.0', '-S']
+2025-02-02T01:41:13.371795+0800 INFO minicap connection takes a long time, please be patient.
+2025-02-02T01:41:13.372757+0800 INFO minicap starting by 3s
+2025-02-02T01:41:14.373138+0800 INFO minicap starting by 2s
+2025-02-02T01:41:15.373296+0800 INFO minicap starting by 1s
+2025-02-02T01:41:16.374887+0800 INFO 成功连接到 127.0.0.1:40206
+2025-02-02T01:41:16.374887+0800 INFO 线程已启动
+2025-02-02T01:41:16.375862+0800 INFO banner {'version': 1, 'length': 24, 'pid': 3576, 'realWidth': 1440, 'realHeight': 2560, 'virtualWidth': 1440, 'virtualHeight': 2560, 'orientation': 90, 'quirks': 2}
+2025-02-02T01:41:16.487599+0800 ERROR Invalid JPG header
+2025-02-02T01:41:33.407160+0800 INFO {
+    "id": 0,
+    "width": 2560,
+    "height": 1440,
+    "xdpi": 360.00,
+    "ydpi": 360.00,
+    "size": 10.06,
+    "density": 2.25,
+    "fps": 60.00,
+    "secure": true,
+    "rotation": 90
+}
+2025-02-02T01:41:33.425845+0800 INFO ['F:\\python_project\\Strange_ideas\\Arknights\\adb\\platform-tools\\adb.EXE', '-s', '127.0.0.1:16384', 'shell', 'LD_LIBRARY_PATH=/data/local/tmp', '/data/local/tmp/minicap', '-P', '1440x2560@1440x2560/90', '-Q', '100', '-r', '60.0', '-S']
+2025-02-02T01:41:33.434244+0800 INFO minicap connection takes a long time, please be patient.
+2025-02-02T01:41:33.435220+0800 INFO minicap starting by 3s
+2025-02-02T01:41:34.436055+0800 INFO minicap starting by 2s
+2025-02-02T01:41:35.436382+0800 INFO minicap starting by 1s
+2025-02-02T01:41:36.448893+0800 INFO 成功连接到 127.0.0.1:40206
+2025-02-02T01:41:36.448893+0800 INFO 线程已启动
+2025-02-02T01:41:36.448893+0800 INFO banner {'version': 1, 'length': 24, 'pid': 3614, 'realWidth': 1440, 'realHeight': 2560, 'virtualWidth': 1440, 'virtualHeight': 2560, 'orientation': 90, 'quirks': 2}
+2025-02-02T01:41:36.512225+0800 ERROR Invalid JPG header
+2025-02-02T01:42:00.553663+0800 INFO {
+    "id": 0,
+    "width": 2560,
+    "height": 1440,
+    "xdpi": 360.00,
+    "ydpi": 360.00,
+    "size": 10.06,
+    "density": 2.25,
+    "fps": 60.00,
+    "secure": true,
+    "rotation": 90
+}
+2025-02-02T01:42:00.575461+0800 INFO ['F:\\python_project\\Strange_ideas\\Arknights\\adb\\platform-tools\\adb.EXE', '-s', '127.0.0.1:16384', 'shell', 'LD_LIBRARY_PATH=/data/local/tmp', '/data/local/tmp/minicap', '-P', '1440x2560@1440x2560/90', '-Q', '100', '-r', '60.0', '-S']
+2025-02-02T01:42:00.583867+0800 INFO minicap connection takes a long time, please be patient.
+2025-02-02T01:42:00.583867+0800 INFO minicap starting by 3s
+2025-02-02T01:42:01.584318+0800 INFO minicap starting by 2s
+2025-02-02T01:42:02.584334+0800 INFO minicap starting by 1s
+2025-02-02T01:42:03.605761+0800 INFO 成功连接到 127.0.0.1:40206
+2025-02-02T01:42:03.605761+0800 INFO 线程已启动
+2025-02-02T01:42:03.605761+0800 INFO banner {'version': 1, 'length': 24, 'pid': 3646, 'realWidth': 1440, 'realHeight': 2560, 'virtualWidth': 1440, 'virtualHeight': 2560, 'orientation': 90, 'quirks': 2}
+2025-02-02T01:45:35.182183+0800 INFO {
+    "id": 0,
+    "width": 2560,
+    "height": 1440,
+    "xdpi": 360.00,
+    "ydpi": 360.00,
+    "size": 10.06,
+    "density": 2.25,
+    "fps": 60.00,
+    "secure": true,
+    "rotation": 90
+}
+2025-02-02T01:45:35.192115+0800 INFO ['F:\\python_project\\Strange_ideas\\Arknights\\adb\\platform-tools\\adb.EXE', '-s', '127.0.0.1:16384', 'shell', 'LD_LIBRARY_PATH=/data/local/tmp', '/data/local/tmp/minicap', '-P', '1440x2560@1440x2560/90', '-Q', '100', '-r', '60.0', '-S']
+2025-02-02T01:45:35.199050+0800 INFO minicap connection takes a long time, please be patient.
+2025-02-02T01:45:35.199050+0800 INFO minicap starting by 3s
+2025-02-02T01:45:36.200267+0800 INFO minicap starting by 2s
+2025-02-02T01:45:37.200907+0800 INFO minicap starting by 1s
+2025-02-02T01:45:38.201449+0800 INFO 成功连接到 127.0.0.1:40206
+2025-02-02T01:45:38.202429+0800 INFO 线程已启动
+2025-02-02T01:45:38.202429+0800 INFO banner {'version': 1, 'length': 24, 'pid': 3699, 'realWidth': 1440, 'realHeight': 2560, 'virtualWidth': 1440, 'virtualHeight': 2560, 'orientation': 90, 'quirks': 2}
+2025-02-02T01:47:26.589126+0800 INFO {
+    "id": 0,
+    "width": 2560,
+    "height": 1440,
+    "xdpi": 360.00,
+    "ydpi": 360.00,
+    "size": 10.06,
+    "density": 2.25,
+    "fps": 60.00,
+    "secure": true,
+    "rotation": 90
+}
+2025-02-02T01:47:26.599168+0800 INFO ['F:\\python_project\\Strange_ideas\\Arknights\\adb\\platform-tools\\adb.EXE', '-s', '127.0.0.1:16384', 'shell', 'LD_LIBRARY_PATH=/data/local/tmp', '/data/local/tmp/minicap', '-P', '1440x2560@1440x2560/90', '-Q', '100', '-r', '60.0', '-S']
+2025-02-02T01:47:26.606003+0800 INFO minicap connection takes a long time, please be patient.
+2025-02-02T01:47:26.606003+0800 INFO minicap starting by 3s
+2025-02-02T01:47:27.606166+0800 INFO minicap starting by 2s
+2025-02-02T01:47:28.607283+0800 INFO minicap starting by 1s
+2025-02-02T01:47:29.609209+0800 INFO 成功连接到 127.0.0.1:40206
+2025-02-02T01:47:29.609209+0800 INFO 线程已启动
+2025-02-02T01:47:29.610188+0800 INFO banner {'version': 1, 'length': 24, 'pid': 3784, 'realWidth': 1440, 'realHeight': 2560, 'virtualWidth': 1440, 'virtualHeight': 2560, 'orientation': 90, 'quirks': 2}
+2025-02-02T01:49:19.458242+0800 INFO {
+    "id": 0,
+    "width": 2560,
+    "height": 1440,
+    "xdpi": 360.00,
+    "ydpi": 360.00,
+    "size": 10.06,
+    "density": 2.25,
+    "fps": 60.00,
+    "secure": true,
+    "rotation": 90
+}
+2025-02-02T01:49:19.467102+0800 INFO ['F:\\python_project\\Strange_ideas\\Arknights\\adb\\platform-tools\\adb.EXE', '-s', '127.0.0.1:16384', 'shell', 'LD_LIBRARY_PATH=/data/local/tmp', '/data/local/tmp/minicap', '-P', '1440x2560@1440x2560/90', '-Q', '100', '-r', '60.0', '-S']
+2025-02-02T01:49:19.475990+0800 INFO minicap connection takes a long time, please be patient.
+2025-02-02T01:49:19.475990+0800 INFO minicap starting by 3s
+2025-02-02T01:49:20.477453+0800 INFO minicap starting by 2s
+2025-02-02T01:49:21.478349+0800 INFO minicap starting by 1s
+2025-02-02T01:49:22.480293+0800 INFO 成功连接到 127.0.0.1:40206
+2025-02-02T01:49:22.481277+0800 INFO 线程已启动
+2025-02-02T01:49:22.482246+0800 INFO banner {'version': 1, 'length': 24, 'pid': 3828, 'realWidth': 1440, 'realHeight': 2560, 'virtualWidth': 1440, 'virtualHeight': 2560, 'orientation': 90, 'quirks': 2}
+2025-02-02T01:49:46.013796+0800 INFO {
+    "id": 0,
+    "width": 2560,
+    "height": 1440,
+    "xdpi": 360.00,
+    "ydpi": 360.00,
+    "size": 10.06,
+    "density": 2.25,
+    "fps": 60.00,
+    "secure": true,
+    "rotation": 90
+}
+2025-02-02T01:49:46.024144+0800 INFO ['F:\\python_project\\Strange_ideas\\Arknights\\adb\\platform-tools\\adb.EXE', '-s', '127.0.0.1:16384', 'shell', 'LD_LIBRARY_PATH=/data/local/tmp', '/data/local/tmp/minicap', '-P', '1440x2560@1440x2560/90', '-Q', '100', '-r', '60.0', '-S']
+2025-02-02T01:49:46.033554+0800 INFO minicap connection takes a long time, please be patient.
+2025-02-02T01:49:46.033554+0800 INFO minicap starting by 3s
+2025-02-02T01:49:47.034321+0800 INFO minicap starting by 2s
+2025-02-02T01:49:48.035027+0800 INFO minicap starting by 1s
+2025-02-02T01:49:49.035835+0800 INFO 成功连接到 127.0.0.1:40206
+2025-02-02T01:49:49.035835+0800 INFO 线程已启动
+2025-02-02T01:49:49.037241+0800 INFO banner {'version': 1, 'length': 24, 'pid': 3862, 'realWidth': 1440, 'realHeight': 2560, 'virtualWidth': 1440, 'virtualHeight': 2560, 'orientation': 90, 'quirks': 2}
+2025-02-02T01:51:40.898221+0800 INFO {
+    "id": 0,
+    "width": 2560,
+    "height": 1440,
+    "xdpi": 360.00,
+    "ydpi": 360.00,
+    "size": 10.06,
+    "density": 2.25,
+    "fps": 60.00,
+    "secure": true,
+    "rotation": 90
+}
+2025-02-02T01:51:40.908061+0800 INFO ['F:\\python_project\\Strange_ideas\\Arknights\\adb\\platform-tools\\adb.EXE', '-s', '127.0.0.1:16384', 'shell', 'LD_LIBRARY_PATH=/data/local/tmp', '/data/local/tmp/minicap', '-P', '1440x2560@1440x2560/90', '-Q', '100', '-r', '60.0', '-S']
+2025-02-02T01:51:40.917580+0800 INFO minicap connection takes a long time, please be patient.
+2025-02-02T01:51:40.917580+0800 INFO minicap starting by 3s
+2025-02-02T01:51:41.917980+0800 INFO minicap starting by 2s
+2025-02-02T01:51:42.918378+0800 INFO minicap starting by 1s
+2025-02-02T01:51:43.929970+0800 INFO 成功连接到 127.0.0.1:40206
+2025-02-02T01:51:43.929970+0800 INFO 线程已启动
+2025-02-02T01:51:43.930960+0800 INFO banner {'version': 1, 'length': 24, 'pid': 3904, 'realWidth': 1440, 'realHeight': 2560, 'virtualWidth': 1440, 'virtualHeight': 2560, 'orientation': 90, 'quirks': 2}
+2025-02-02T01:52:02.839040+0800 INFO {
+    "id": 0,
+    "width": 2560,
+    "height": 1440,
+    "xdpi": 360.00,
+    "ydpi": 360.00,
+    "size": 10.06,
+    "density": 2.25,
+    "fps": 60.00,
+    "secure": true,
+    "rotation": 90
+}
+2025-02-02T01:52:02.850929+0800 INFO ['F:\\python_project\\Strange_ideas\\Arknights\\adb\\platform-tools\\adb.EXE', '-s', '127.0.0.1:16384', 'shell', 'LD_LIBRARY_PATH=/data/local/tmp', '/data/local/tmp/minicap', '-P', '1440x2560@1440x2560/90', '-Q', '100', '-r', '60.0', '-S']
+2025-02-02T01:52:02.859786+0800 INFO minicap connection takes a long time, please be patient.
+2025-02-02T01:52:02.860801+0800 INFO minicap starting by 3s
+2025-02-02T01:52:03.860999+0800 INFO minicap starting by 2s
+2025-02-02T01:52:04.861783+0800 INFO minicap starting by 1s
+2025-02-02T01:52:05.873666+0800 INFO 成功连接到 127.0.0.1:40206
+2025-02-02T01:52:05.873666+0800 INFO 线程已启动
+2025-02-02T01:52:05.873666+0800 INFO banner {'version': 1, 'length': 24, 'pid': 3938, 'realWidth': 1440, 'realHeight': 2560, 'virtualWidth': 1440, 'virtualHeight': 2560, 'orientation': 90, 'quirks': 2}
+2025-02-02T01:55:01.183668+0800 INFO {
+    "id": 0,
+    "width": 2560,
+    "height": 1440,
+    "xdpi": 360.00,
+    "ydpi": 360.00,
+    "size": 10.06,
+    "density": 2.25,
+    "fps": 60.00,
+    "secure": true,
+    "rotation": 90
+}
+2025-02-02T01:55:01.193117+0800 INFO ['F:\\python_project\\Strange_ideas\\Arknights\\adb\\platform-tools\\adb.EXE', '-s', '127.0.0.1:16384', 'shell', 'LD_LIBRARY_PATH=/data/local/tmp', '/data/local/tmp/minicap', '-P', '1440x2560@1440x2560/90', '-Q', '100', '-r', '60.0', '-S']
+2025-02-02T01:55:01.199675+0800 INFO minicap connection takes a long time, please be patient.
+2025-02-02T01:55:01.199675+0800 INFO minicap starting by 3s
+2025-02-02T01:55:02.200068+0800 INFO minicap starting by 2s
+2025-02-02T01:55:03.201034+0800 INFO minicap starting by 1s
+2025-02-02T01:55:04.201147+0800 INFO 成功连接到 127.0.0.1:40206
+2025-02-02T01:55:04.202139+0800 INFO 线程已启动
+2025-02-02T01:55:04.203101+0800 INFO banner {'version': 1, 'length': 24, 'pid': 3981, 'realWidth': 1440, 'realHeight': 2560, 'virtualWidth': 1440, 'virtualHeight': 2560, 'orientation': 90, 'quirks': 2}
+2025-02-02T01:56:38.849332+0800 INFO {
+    "id": 0,
+    "width": 2560,
+    "height": 1440,
+    "xdpi": 360.00,
+    "ydpi": 360.00,
+    "size": 10.06,
+    "density": 2.25,
+    "fps": 60.00,
+    "secure": true,
+    "rotation": 90
+}
+2025-02-02T01:56:38.870729+0800 INFO ['F:\\python_project\\Strange_ideas\\Arknights\\adb\\platform-tools\\adb.EXE', '-s', '127.0.0.1:16384', 'shell', 'LD_LIBRARY_PATH=/data/local/tmp', '/data/local/tmp/minicap', '-P', '1440x2560@1440x2560/90', '-Q', '100', '-r', '60.0', '-S']
+2025-02-02T01:56:38.883082+0800 INFO minicap connection takes a long time, please be patient.
+2025-02-02T01:56:38.883082+0800 INFO minicap starting by 3s
+2025-02-02T01:56:39.883858+0800 INFO minicap starting by 2s
+2025-02-02T01:56:40.883906+0800 INFO minicap starting by 1s
+2025-02-02T01:56:41.895393+0800 INFO 成功连接到 127.0.0.1:40206
+2025-02-02T01:56:41.896363+0800 INFO 线程已启动
+2025-02-02T01:56:41.896363+0800 INFO banner {'version': 1, 'length': 24, 'pid': 4027, 'realWidth': 1440, 'realHeight': 2560, 'virtualWidth': 1440, 'virtualHeight': 2560, 'orientation': 90, 'quirks': 2}
+2025-02-02T02:00:11.222171+0800 INFO {
+    "id": 0,
+    "width": 2560,
+    "height": 1440,
+    "xdpi": 360.00,
+    "ydpi": 360.00,
+    "size": 10.06,
+    "density": 2.25,
+    "fps": 60.00,
+    "secure": true,
+    "rotation": 90
+}
+2025-02-02T02:00:11.233000+0800 INFO ['F:\\python_project\\Strange_ideas\\Arknights\\adb\\platform-tools\\adb.EXE', '-s', '127.0.0.1:16384', 'shell', 'LD_LIBRARY_PATH=/data/local/tmp', '/data/local/tmp/minicap', '-P', '1440x2560@1440x2560/90', '-Q', '100', '-r', '60.0', '-S']
+2025-02-02T02:00:11.240191+0800 INFO minicap connection takes a long time, please be patient.
+2025-02-02T02:00:11.240191+0800 INFO minicap starting by 3s
+2025-02-02T02:00:12.240612+0800 INFO minicap starting by 2s
+2025-02-02T02:00:13.241318+0800 INFO minicap starting by 1s
+2025-02-02T02:00:14.242094+0800 INFO 成功连接到 127.0.0.1:40206
+2025-02-02T02:00:14.242094+0800 INFO 线程已启动
+2025-02-02T02:00:14.243599+0800 INFO banner {'version': 1, 'length': 24, 'pid': 4107, 'realWidth': 1440, 'realHeight': 2560, 'virtualWidth': 1440, 'virtualHeight': 2560, 'orientation': 90, 'quirks': 2}
+2025-02-02T02:01:01.472534+0800 INFO {
+    "id": 0,
+    "width": 2560,
+    "height": 1440,
+    "xdpi": 360.00,
+    "ydpi": 360.00,
+    "size": 10.06,
+    "density": 2.25,
+    "fps": 60.00,
+    "secure": true,
+    "rotation": 90
+}
+2025-02-02T02:01:01.487206+0800 INFO ['F:\\python_project\\Strange_ideas\\Arknights\\adb\\platform-tools\\adb.EXE', '-s', '127.0.0.1:16384', 'shell', 'LD_LIBRARY_PATH=/data/local/tmp', '/data/local/tmp/minicap', '-P', '1440x2560@1440x2560/90', '-Q', '100', '-r', '60.0', '-S']
+2025-02-02T02:01:01.496205+0800 INFO minicap connection takes a long time, please be patient.
+2025-02-02T02:01:01.496205+0800 INFO minicap starting by 3s
+2025-02-02T02:01:02.497101+0800 INFO minicap starting by 2s
+2025-02-02T02:01:03.497518+0800 INFO minicap starting by 1s
+2025-02-02T02:01:04.498983+0800 INFO 成功连接到 127.0.0.1:40206
+2025-02-02T02:01:04.498983+0800 INFO 线程已启动
+2025-02-02T02:01:04.498983+0800 INFO banner {'version': 1, 'length': 24, 'pid': 4145, 'realWidth': 1440, 'realHeight': 2560, 'virtualWidth': 1440, 'virtualHeight': 2560, 'orientation': 90, 'quirks': 2}
+2025-02-02T02:01:04.829852+0800 ERROR Invalid JPG header
+2025-02-02T02:01:34.483916+0800 INFO {
+    "id": 0,
+    "width": 2560,
+    "height": 1440,
+    "xdpi": 360.00,
+    "ydpi": 360.00,
+    "size": 10.06,
+    "density": 2.25,
+    "fps": 60.00,
+    "secure": true,
+    "rotation": 90
+}
+2025-02-02T02:01:34.506098+0800 INFO ['F:\\python_project\\Strange_ideas\\Arknights\\adb\\platform-tools\\adb.EXE', '-s', '127.0.0.1:16384', 'shell', 'LD_LIBRARY_PATH=/data/local/tmp', '/data/local/tmp/minicap', '-P', '1440x2560@1440x2560/90', '-Q', '100', '-r', '60.0', '-S']
+2025-02-02T02:01:34.519004+0800 INFO minicap connection takes a long time, please be patient.
+2025-02-02T02:01:34.519004+0800 INFO minicap starting by 3s
+2025-02-02T02:01:35.520299+0800 INFO minicap starting by 2s
+2025-02-02T02:01:36.521086+0800 INFO minicap starting by 1s
+2025-02-02T02:01:37.532809+0800 INFO 成功连接到 127.0.0.1:40206
+2025-02-02T02:01:37.533785+0800 INFO 线程已启动
+2025-02-02T02:01:37.534794+0800 INFO banner {'version': 1, 'length': 24, 'pid': 4179, 'realWidth': 1440, 'realHeight': 2560, 'virtualWidth': 1440, 'virtualHeight': 2560, 'orientation': 90, 'quirks': 2}
+2025-02-02T02:06:09.499929+0800 INFO {
+    "id": 0,
+    "width": 2560,
+    "height": 1440,
+    "xdpi": 360.00,
+    "ydpi": 360.00,
+    "size": 10.06,
+    "density": 2.25,
+    "fps": 60.00,
+    "secure": true,
+    "rotation": 90
+}
+2025-02-02T02:06:09.520884+0800 INFO ['F:\\python_project\\Strange_ideas\\Arknights\\adb\\platform-tools\\adb.EXE', '-s', '127.0.0.1:16384', 'shell', 'LD_LIBRARY_PATH=/data/local/tmp', '/data/local/tmp/minicap', '-P', '1440x2560@1440x2560/90', '-Q', '100', '-r', '60.0', '-S']
+2025-02-02T02:06:09.528322+0800 INFO minicap connection takes a long time, please be patient.
+2025-02-02T02:06:09.528322+0800 INFO minicap starting by 3s
+2025-02-02T02:06:10.528393+0800 INFO minicap starting by 2s
+2025-02-02T02:06:11.528891+0800 INFO minicap starting by 1s
+2025-02-02T02:06:12.531157+0800 INFO 成功连接到 127.0.0.1:40206
+2025-02-02T02:06:12.531157+0800 INFO 线程已启动
+2025-02-02T02:06:12.534086+0800 INFO banner {'version': 1, 'length': 24, 'pid': 4234, 'realWidth': 1440, 'realHeight': 2560, 'virtualWidth': 1440, 'virtualHeight': 2560, 'orientation': 90, 'quirks': 2}
+2025-02-02T02:08:42.814039+0800 INFO {
+    "id": 0,
+    "width": 2560,
+    "height": 1440,
+    "xdpi": 360.00,
+    "ydpi": 360.00,
+    "size": 10.06,
+    "density": 2.25,
+    "fps": 60.00,
+    "secure": true,
+    "rotation": 90
+}
+2025-02-02T02:08:42.838440+0800 INFO ['F:\\python_project\\Strange_ideas\\Arknights\\adb\\platform-tools\\adb.EXE', '-s', '127.0.0.1:16384', 'shell', 'LD_LIBRARY_PATH=/data/local/tmp', '/data/local/tmp/minicap', '-P', '1440x2560@1440x2560/90', '-Q', '100', '-r', '60.0', '-S']
+2025-02-02T02:08:42.847423+0800 INFO minicap connection takes a long time, please be patient.
+2025-02-02T02:08:42.847423+0800 INFO minicap starting by 3s
+2025-02-02T02:08:43.847510+0800 INFO minicap starting by 2s
+2025-02-02T02:08:44.847935+0800 INFO minicap starting by 1s
+2025-02-02T02:08:45.849231+0800 INFO 成功连接到 127.0.0.1:40206
+2025-02-02T02:08:45.849231+0800 INFO 线程已启动
+2025-02-02T02:08:45.850208+0800 INFO banner {'version': 1, 'length': 24, 'pid': 4275, 'realWidth': 1440, 'realHeight': 2560, 'virtualWidth': 1440, 'virtualHeight': 2560, 'orientation': 90, 'quirks': 2}
+2025-02-02T02:10:26.765202+0800 INFO {
+    "id": 0,
+    "width": 2560,
+    "height": 1440,
+    "xdpi": 360.00,
+    "ydpi": 360.00,
+    "size": 10.06,
+    "density": 2.25,
+    "fps": 60.00,
+    "secure": true,
+    "rotation": 90
+}
+2025-02-02T02:10:26.787966+0800 INFO ['F:\\python_project\\Strange_ideas\\Arknights\\adb\\platform-tools\\adb.EXE', '-s', '127.0.0.1:16384', 'shell', 'LD_LIBRARY_PATH=/data/local/tmp', '/data/local/tmp/minicap', '-P', '1440x2560@1440x2560/90', '-Q', '100', '-r', '60.0', '-S']
+2025-02-02T02:10:26.795784+0800 INFO minicap connection takes a long time, please be patient.
+2025-02-02T02:10:26.795784+0800 INFO minicap starting by 3s
+2025-02-02T02:10:27.795832+0800 INFO minicap starting by 2s
+2025-02-02T02:10:28.796102+0800 INFO minicap starting by 1s
+2025-02-02T02:10:29.797923+0800 INFO 成功连接到 127.0.0.1:40206
+2025-02-02T02:10:29.798829+0800 INFO 线程已启动
+2025-02-02T02:10:29.798829+0800 INFO banner {'version': 1, 'length': 24, 'pid': 4316, 'realWidth': 1440, 'realHeight': 2560, 'virtualWidth': 1440, 'virtualHeight': 2560, 'orientation': 90, 'quirks': 2}
+2025-02-02T02:11:09.459394+0800 INFO {
+    "id": 0,
+    "width": 2560,
+    "height": 1440,
+    "xdpi": 360.00,
+    "ydpi": 360.00,
+    "size": 10.06,
+    "density": 2.25,
+    "fps": 60.00,
+    "secure": true,
+    "rotation": 90
+}
+2025-02-02T02:11:09.483540+0800 INFO ['F:\\python_project\\Strange_ideas\\Arknights\\adb\\platform-tools\\adb.EXE', '-s', '127.0.0.1:16384', 'shell', 'LD_LIBRARY_PATH=/data/local/tmp', '/data/local/tmp/minicap', '-P', '1440x2560@1440x2560/90', '-Q', '100', '-r', '60.0', '-S']
+2025-02-02T02:11:09.497356+0800 INFO minicap connection takes a long time, please be patient.
+2025-02-02T02:11:09.497356+0800 INFO minicap starting by 3s
+2025-02-02T02:11:10.499300+0800 INFO minicap starting by 2s
+2025-02-02T02:11:11.499360+0800 INFO minicap starting by 1s
+2025-02-02T02:11:12.499970+0800 INFO 成功连接到 127.0.0.1:40206
+2025-02-02T02:11:12.500950+0800 INFO 线程已启动
+2025-02-02T02:11:12.500950+0800 INFO banner {'version': 1, 'length': 24, 'pid': 4349, 'realWidth': 1440, 'realHeight': 2560, 'virtualWidth': 1440, 'virtualHeight': 2560, 'orientation': 90, 'quirks': 2}
+2025-02-02T02:14:09.311336+0800 INFO {
+    "id": 0,
+    "width": 2560,
+    "height": 1440,
+    "xdpi": 360.00,
+    "ydpi": 360.00,
+    "size": 10.06,
+    "density": 2.25,
+    "fps": 60.00,
+    "secure": true,
+    "rotation": 90
+}
+2025-02-02T02:14:09.321684+0800 INFO ['F:\\python_project\\Strange_ideas\\Arknights\\adb\\platform-tools\\adb.EXE', '-s', '127.0.0.1:16384', 'shell', 'LD_LIBRARY_PATH=/data/local/tmp', '/data/local/tmp/minicap', '-P', '1440x2560@1440x2560/90', '-Q', '100', '-r', '60.0', '-S']
+2025-02-02T02:14:09.330058+0800 INFO minicap connection takes a long time, please be patient.
+2025-02-02T02:14:09.331035+0800 INFO minicap starting by 3s
+2025-02-02T02:14:10.331207+0800 INFO minicap starting by 2s
+2025-02-02T02:14:11.331352+0800 INFO minicap starting by 1s
+2025-02-02T02:14:12.332523+0800 INFO 成功连接到 127.0.0.1:40206
+2025-02-02T02:14:12.332523+0800 INFO 线程已启动
+2025-02-02T02:14:12.333501+0800 INFO banner {'version': 1, 'length': 24, 'pid': 4390, 'realWidth': 1440, 'realHeight': 2560, 'virtualWidth': 1440, 'virtualHeight': 2560, 'orientation': 90, 'quirks': 2}
+2025-02-02T02:16:34.014936+0800 INFO {
+    "id": 0,
+    "width": 2560,
+    "height": 1440,
+    "xdpi": 360.00,
+    "ydpi": 360.00,
+    "size": 10.06,
+    "density": 2.25,
+    "fps": 60.00,
+    "secure": true,
+    "rotation": 90
+}
+2025-02-02T02:16:34.035866+0800 INFO ['F:\\python_project\\Strange_ideas\\Arknights\\adb\\platform-tools\\adb.EXE', '-s', '127.0.0.1:16384', 'shell', 'LD_LIBRARY_PATH=/data/local/tmp', '/data/local/tmp/minicap', '-P', '1440x2560@1440x2560/90', '-Q', '100', '-r', '60.0', '-S']
+2025-02-02T02:16:34.043796+0800 INFO minicap connection takes a long time, please be patient.
+2025-02-02T02:16:34.044750+0800 INFO minicap starting by 3s
+2025-02-02T02:16:35.045069+0800 INFO minicap starting by 2s
+2025-02-02T02:16:36.045761+0800 INFO minicap starting by 1s
+2025-02-02T02:16:37.045881+0800 INFO 成功连接到 127.0.0.1:40206
+2025-02-02T02:16:37.047386+0800 INFO 线程已启动
+2025-02-02T02:16:37.048801+0800 INFO banner {'version': 1, 'length': 24, 'pid': 4440, 'realWidth': 1440, 'realHeight': 2560, 'virtualWidth': 1440, 'virtualHeight': 2560, 'orientation': 90, 'quirks': 2}
+2025-02-02T02:17:51.539907+0800 INFO {
+    "id": 0,
+    "width": 2560,
+    "height": 1440,
+    "xdpi": 360.00,
+    "ydpi": 360.00,
+    "size": 10.06,
+    "density": 2.25,
+    "fps": 60.00,
+    "secure": true,
+    "rotation": 90
+}
+2025-02-02T02:17:51.554462+0800 INFO ['F:\\python_project\\Strange_ideas\\Arknights\\adb\\platform-tools\\adb.EXE', '-s', '127.0.0.1:16384', 'shell', 'LD_LIBRARY_PATH=/data/local/tmp', '/data/local/tmp/minicap', '-P', '1440x2560@1440x2560/90', '-Q', '100', '-r', '60.0', '-S']
+2025-02-02T02:17:51.563854+0800 INFO minicap connection takes a long time, please be patient.
+2025-02-02T02:17:51.563854+0800 INFO minicap starting by 3s
+2025-02-02T02:17:52.564824+0800 INFO minicap starting by 2s
+2025-02-02T02:17:53.565253+0800 INFO minicap starting by 1s
+2025-02-02T02:17:54.565629+0800 INFO 成功连接到 127.0.0.1:40206
+2025-02-02T02:17:54.567139+0800 INFO 线程已启动
+2025-02-02T02:17:54.568184+0800 INFO banner {'version': 1, 'length': 24, 'pid': 4478, 'realWidth': 1440, 'realHeight': 2560, 'virtualWidth': 1440, 'virtualHeight': 2560, 'orientation': 90, 'quirks': 2}
+2025-02-02T02:18:23.101960+0800 INFO {
+    "id": 0,
+    "width": 2560,
+    "height": 1440,
+    "xdpi": 360.00,
+    "ydpi": 360.00,
+    "size": 10.06,
+    "density": 2.25,
+    "fps": 60.00,
+    "secure": true,
+    "rotation": 90
+}
+2025-02-02T02:18:23.114074+0800 INFO ['F:\\python_project\\Strange_ideas\\Arknights\\adb\\platform-tools\\adb.EXE', '-s', '127.0.0.1:16384', 'shell', 'LD_LIBRARY_PATH=/data/local/tmp', '/data/local/tmp/minicap', '-P', '1440x2560@1440x2560/90', '-Q', '100', '-r', '60.0', '-S']
+2025-02-02T02:18:23.121365+0800 INFO minicap connection takes a long time, please be patient.
+2025-02-02T02:18:23.121365+0800 INFO minicap starting by 3s
+2025-02-02T02:18:24.122887+0800 INFO minicap starting by 2s
+2025-02-02T02:18:25.123842+0800 INFO minicap starting by 1s
+2025-02-02T02:18:26.135084+0800 INFO 成功连接到 127.0.0.1:40206
+2025-02-02T02:18:26.136055+0800 INFO 线程已启动
+2025-02-02T02:18:26.136055+0800 INFO banner {'version': 1, 'length': 24, 'pid': 4512, 'realWidth': 1440, 'realHeight': 2560, 'virtualWidth': 1440, 'virtualHeight': 2560, 'orientation': 90, 'quirks': 2}
+2025-02-02T02:18:45.598177+0800 INFO {
+    "id": 0,
+    "width": 2560,
+    "height": 1440,
+    "xdpi": 360.00,
+    "ydpi": 360.00,
+    "size": 10.06,
+    "density": 2.25,
+    "fps": 60.00,
+    "secure": true,
+    "rotation": 90
+}
+2025-02-02T02:18:45.607530+0800 INFO ['F:\\python_project\\Strange_ideas\\Arknights\\adb\\platform-tools\\adb.EXE', '-s', '127.0.0.1:16384', 'shell', 'LD_LIBRARY_PATH=/data/local/tmp', '/data/local/tmp/minicap', '-P', '1440x2560@1440x2560/90', '-Q', '100', '-r', '60.0', '-S']
+2025-02-02T02:18:45.614958+0800 INFO minicap connection takes a long time, please be patient.
+2025-02-02T02:18:45.614958+0800 INFO minicap starting by 3s
+2025-02-02T02:18:46.615932+0800 INFO minicap starting by 2s
+2025-02-02T02:18:47.617252+0800 INFO minicap starting by 1s
+2025-02-02T02:18:48.618114+0800 INFO 成功连接到 127.0.0.1:40206
+2025-02-02T02:18:48.618988+0800 INFO 线程已启动
+2025-02-02T02:18:48.618988+0800 INFO banner {'version': 1, 'length': 24, 'pid': 4545, 'realWidth': 1440, 'realHeight': 2560, 'virtualWidth': 1440, 'virtualHeight': 2560, 'orientation': 90, 'quirks': 2}
+2025-02-02T02:19:27.036496+0800 INFO {
+    "id": 0,
+    "width": 2560,
+    "height": 1440,
+    "xdpi": 360.00,
+    "ydpi": 360.00,
+    "size": 10.06,
+    "density": 2.25,
+    "fps": 60.00,
+    "secure": true,
+    "rotation": 90
+}
+2025-02-02T02:19:27.045881+0800 INFO ['F:\\python_project\\Strange_ideas\\Arknights\\adb\\platform-tools\\adb.EXE', '-s', '127.0.0.1:16384', 'shell', 'LD_LIBRARY_PATH=/data/local/tmp', '/data/local/tmp/minicap', '-P', '1440x2560@1440x2560/90', '-Q', '100', '-r', '60.0', '-S']
+2025-02-02T02:19:27.053782+0800 INFO minicap connection takes a long time, please be patient.
+2025-02-02T02:19:27.053782+0800 INFO minicap starting by 3s
+2025-02-02T02:19:28.055035+0800 INFO minicap starting by 2s
+2025-02-02T02:19:29.055341+0800 INFO minicap starting by 1s
+2025-02-02T02:19:30.066230+0800 INFO 成功连接到 127.0.0.1:40206
+2025-02-02T02:19:30.067233+0800 INFO 线程已启动
+2025-02-02T02:19:30.067233+0800 INFO banner {'version': 1, 'length': 24, 'pid': 4577, 'realWidth': 1440, 'realHeight': 2560, 'virtualWidth': 1440, 'virtualHeight': 2560, 'orientation': 90, 'quirks': 2}
+2025-02-02T02:23:05.784176+0800 INFO {
+    "id": 0,
+    "width": 2560,
+    "height": 1440,
+    "xdpi": 360.00,
+    "ydpi": 360.00,
+    "size": 10.06,
+    "density": 2.25,
+    "fps": 60.00,
+    "secure": true,
+    "rotation": 90
+}
+2025-02-02T02:23:05.803163+0800 INFO ['F:\\python_project\\Strange_ideas\\Arknights\\adb\\platform-tools\\adb.EXE', '-s', '127.0.0.1:16384', 'shell', 'LD_LIBRARY_PATH=/data/local/tmp', '/data/local/tmp/minicap', '-P', '1440x2560@1440x2560/90', '-Q', '100', '-r', '60.0', '-S']
+2025-02-02T02:23:05.812630+0800 INFO minicap connection takes a long time, please be patient.
+2025-02-02T02:23:05.813619+0800 INFO minicap starting by 3s
+2025-02-02T02:23:06.814465+0800 INFO minicap starting by 2s
+2025-02-02T02:23:07.814849+0800 INFO minicap starting by 1s
+2025-02-02T02:23:08.815197+0800 INFO 成功连接到 127.0.0.1:40206
+2025-02-02T02:23:08.816176+0800 INFO 线程已启动
+2025-02-02T02:23:08.816176+0800 INFO banner {'version': 1, 'length': 24, 'pid': 4626, 'realWidth': 1440, 'realHeight': 2560, 'virtualWidth': 1440, 'virtualHeight': 2560, 'orientation': 90, 'quirks': 2}
+2025-02-02T02:24:42.073826+0800 INFO {
+    "id": 0,
+    "width": 2560,
+    "height": 1440,
+    "xdpi": 360.00,
+    "ydpi": 360.00,
+    "size": 10.06,
+    "density": 2.25,
+    "fps": 60.00,
+    "secure": true,
+    "rotation": 90
+}
+2025-02-02T02:24:42.093548+0800 INFO ['F:\\python_project\\Strange_ideas\\Arknights\\adb\\platform-tools\\adb.EXE', '-s', '127.0.0.1:16384', 'shell', 'LD_LIBRARY_PATH=/data/local/tmp', '/data/local/tmp/minicap', '-P', '1440x2560@1440x2560/90', '-Q', '100', '-r', '60.0', '-S']
+2025-02-02T02:24:42.100935+0800 INFO minicap connection takes a long time, please be patient.
+2025-02-02T02:24:42.100935+0800 INFO minicap starting by 3s
+2025-02-02T02:24:43.101073+0800 INFO minicap starting by 2s
+2025-02-02T02:24:44.101236+0800 INFO minicap starting by 1s
+2025-02-02T02:24:45.102170+0800 INFO 成功连接到 127.0.0.1:40206
+2025-02-02T02:24:45.103145+0800 INFO 线程已启动
+2025-02-02T02:24:45.104123+0800 INFO banner {'version': 1, 'length': 24, 'pid': 4669, 'realWidth': 1440, 'realHeight': 2560, 'virtualWidth': 1440, 'virtualHeight': 2560, 'orientation': 90, 'quirks': 2}
+2025-02-02T02:25:25.694590+0800 INFO {
+    "id": 0,
+    "width": 2560,
+    "height": 1440,
+    "xdpi": 360.00,
+    "ydpi": 360.00,
+    "size": 10.06,
+    "density": 2.25,
+    "fps": 60.00,
+    "secure": true,
+    "rotation": 90
+}
+2025-02-02T02:25:25.703930+0800 INFO ['F:\\python_project\\Strange_ideas\\Arknights\\adb\\platform-tools\\adb.EXE', '-s', '127.0.0.1:16384', 'shell', 'LD_LIBRARY_PATH=/data/local/tmp', '/data/local/tmp/minicap', '-P', '1440x2560@1440x2560/90', '-Q', '100', '-r', '60.0', '-S']
+2025-02-02T02:25:25.711190+0800 INFO minicap connection takes a long time, please be patient.
+2025-02-02T02:25:25.711190+0800 INFO minicap starting by 3s
+2025-02-02T02:25:26.712095+0800 INFO minicap starting by 2s
+2025-02-02T02:25:27.712972+0800 INFO minicap starting by 1s
+2025-02-02T02:25:28.715163+0800 INFO 成功连接到 127.0.0.1:40206
+2025-02-02T02:25:28.716142+0800 INFO 线程已启动
+2025-02-02T02:25:28.716142+0800 INFO banner {'version': 1, 'length': 24, 'pid': 4707, 'realWidth': 1440, 'realHeight': 2560, 'virtualWidth': 1440, 'virtualHeight': 2560, 'orientation': 90, 'quirks': 2}
+2025-02-02T02:26:57.975799+0800 INFO {
+    "id": 0,
+    "width": 2560,
+    "height": 1440,
+    "xdpi": 360.00,
+    "ydpi": 360.00,
+    "size": 10.06,
+    "density": 2.25,
+    "fps": 60.00,
+    "secure": true,
+    "rotation": 90
+}
+2025-02-02T02:26:58.004813+0800 INFO ['F:\\python_project\\Strange_ideas\\Arknights\\adb\\platform-tools\\adb.EXE', '-s', '127.0.0.1:16384', 'shell', 'LD_LIBRARY_PATH=/data/local/tmp', '/data/local/tmp/minicap', '-P', '1440x2560@1440x2560/90', '-Q', '100', '-r', '60.0', '-S']
+2025-02-02T02:26:58.018228+0800 INFO minicap connection takes a long time, please be patient.
+2025-02-02T02:26:58.018228+0800 INFO minicap starting by 3s
+2025-02-02T02:26:59.018369+0800 INFO minicap starting by 2s
+2025-02-02T02:27:00.019109+0800 INFO minicap starting by 1s
+2025-02-02T02:27:01.029830+0800 INFO 成功连接到 127.0.0.1:40206
+2025-02-02T02:27:01.030821+0800 INFO 线程已启动
+2025-02-02T02:27:01.031798+0800 INFO banner {'version': 1, 'length': 24, 'pid': 4750, 'realWidth': 1440, 'realHeight': 2560, 'virtualWidth': 1440, 'virtualHeight': 2560, 'orientation': 90, 'quirks': 2}
+2025-02-02T02:29:15.182528+0800 INFO {
+    "id": 0,
+    "width": 2560,
+    "height": 1440,
+    "xdpi": 360.00,
+    "ydpi": 360.00,
+    "size": 10.06,
+    "density": 2.25,
+    "fps": 60.00,
+    "secure": true,
+    "rotation": 90
+}
+2025-02-02T02:29:15.192847+0800 INFO ['F:\\python_project\\Strange_ideas\\Arknights\\adb\\platform-tools\\adb.EXE', '-s', '127.0.0.1:16384', 'shell', 'LD_LIBRARY_PATH=/data/local/tmp', '/data/local/tmp/minicap', '-P', '1440x2560@1440x2560/90', '-Q', '100', '-r', '60.0', '-S']
+2025-02-02T02:29:15.200878+0800 INFO minicap connection takes a long time, please be patient.
+2025-02-02T02:29:15.200878+0800 INFO minicap starting by 3s
+2025-02-02T02:29:16.201421+0800 INFO minicap starting by 2s
+2025-02-02T02:29:17.202210+0800 INFO minicap starting by 1s
+2025-02-02T02:29:18.223867+0800 INFO 成功连接到 127.0.0.1:40206
+2025-02-02T02:29:18.223867+0800 INFO 线程已启动
+2025-02-02T02:29:18.223867+0800 INFO banner {'version': 1, 'length': 24, 'pid': 4792, 'realWidth': 1440, 'realHeight': 2560, 'virtualWidth': 1440, 'virtualHeight': 2560, 'orientation': 90, 'quirks': 2}
+2025-02-02T02:30:50.291090+0800 INFO {
+    "id": 0,
+    "width": 2560,
+    "height": 1440,
+    "xdpi": 360.00,
+    "ydpi": 360.00,
+    "size": 10.06,
+    "density": 2.25,
+    "fps": 60.00,
+    "secure": true,
+    "rotation": 90
+}
+2025-02-02T02:30:50.300987+0800 INFO ['F:\\python_project\\Strange_ideas\\Arknights\\adb\\platform-tools\\adb.EXE', '-s', '127.0.0.1:16384', 'shell', 'LD_LIBRARY_PATH=/data/local/tmp', '/data/local/tmp/minicap', '-P', '1440x2560@1440x2560/90', '-Q', '100', '-r', '60.0', '-S']
+2025-02-02T02:30:50.308974+0800 INFO minicap connection takes a long time, please be patient.
+2025-02-02T02:30:50.308974+0800 INFO minicap starting by 3s
+2025-02-02T02:30:51.309032+0800 INFO minicap starting by 2s
+2025-02-02T02:30:52.309205+0800 INFO minicap starting by 1s
+2025-02-02T02:30:53.309227+0800 INFO 成功连接到 127.0.0.1:40206
+2025-02-02T02:30:53.311189+0800 INFO 线程已启动
+2025-02-02T02:30:53.311189+0800 INFO banner {'version': 1, 'length': 24, 'pid': 4834, 'realWidth': 1440, 'realHeight': 2560, 'virtualWidth': 1440, 'virtualHeight': 2560, 'orientation': 90, 'quirks': 2}
+2025-02-02T02:31:54.442840+0800 INFO {
+    "id": 0,
+    "width": 2560,
+    "height": 1440,
+    "xdpi": 360.00,
+    "ydpi": 360.00,
+    "size": 10.06,
+    "density": 2.25,
+    "fps": 60.00,
+    "secure": true,
+    "rotation": 90
+}
+2025-02-02T02:31:54.454183+0800 INFO ['F:\\python_project\\Strange_ideas\\Arknights\\adb\\platform-tools\\adb.EXE', '-s', '127.0.0.1:16384', 'shell', 'LD_LIBRARY_PATH=/data/local/tmp', '/data/local/tmp/minicap', '-P', '1440x2560@1440x2560/90', '-Q', '100', '-r', '60.0', '-S']
+2025-02-02T02:31:54.461180+0800 INFO minicap connection takes a long time, please be patient.
+2025-02-02T02:31:54.461180+0800 INFO minicap starting by 3s
+2025-02-02T02:31:55.461303+0800 INFO minicap starting by 2s
+2025-02-02T02:31:56.461442+0800 INFO minicap starting by 1s
+2025-02-02T02:31:57.463094+0800 INFO 成功连接到 127.0.0.1:40206
+2025-02-02T02:31:57.463094+0800 INFO 线程已启动
+2025-02-02T02:31:57.465053+0800 INFO banner {'version': 1, 'length': 24, 'pid': 4871, 'realWidth': 1440, 'realHeight': 2560, 'virtualWidth': 1440, 'virtualHeight': 2560, 'orientation': 90, 'quirks': 2}
+2025-02-02T02:33:40.143070+0800 INFO {
+    "id": 0,
+    "width": 2560,
+    "height": 1440,
+    "xdpi": 360.00,
+    "ydpi": 360.00,
+    "size": 10.06,
+    "density": 2.25,
+    "fps": 60.00,
+    "secure": true,
+    "rotation": 90
+}
+2025-02-02T02:33:40.153931+0800 INFO ['F:\\python_project\\Strange_ideas\\Arknights\\adb\\platform-tools\\adb.EXE', '-s', '127.0.0.1:16384', 'shell', 'LD_LIBRARY_PATH=/data/local/tmp', '/data/local/tmp/minicap', '-P', '1440x2560@1440x2560/90', '-Q', '100', '-r', '60.0', '-S']
+2025-02-02T02:33:40.160460+0800 INFO minicap connection takes a long time, please be patient.
+2025-02-02T02:33:40.160460+0800 INFO minicap starting by 3s
+2025-02-02T02:33:41.163027+0800 INFO minicap starting by 2s
+2025-02-02T02:33:42.163910+0800 INFO minicap starting by 1s
+2025-02-02T02:33:43.164440+0800 INFO 成功连接到 127.0.0.1:40206
+2025-02-02T02:33:43.165417+0800 INFO 线程已启动
+2025-02-02T02:33:43.165417+0800 INFO banner {'version': 1, 'length': 24, 'pid': 4909, 'realWidth': 1440, 'realHeight': 2560, 'virtualWidth': 1440, 'virtualHeight': 2560, 'orientation': 90, 'quirks': 2}
+2025-02-02T02:34:42.294065+0800 INFO {
+    "id": 0,
+    "width": 2560,
+    "height": 1440,
+    "xdpi": 360.00,
+    "ydpi": 360.00,
+    "size": 10.06,
+    "density": 2.25,
+    "fps": 60.00,
+    "secure": true,
+    "rotation": 90
+}
+2025-02-02T02:34:42.338621+0800 INFO ['F:\\python_project\\Strange_ideas\\Arknights\\adb\\platform-tools\\adb.EXE', '-s', '127.0.0.1:16384', 'shell', 'LD_LIBRARY_PATH=/data/local/tmp', '/data/local/tmp/minicap', '-P', '1440x2560@1440x2560/90', '-Q', '100', '-r', '60.0', '-S']
+2025-02-02T02:34:42.360049+0800 INFO minicap connection takes a long time, please be patient.
+2025-02-02T02:34:42.360049+0800 INFO minicap starting by 3s
+2025-02-02T02:34:43.361150+0800 INFO minicap starting by 2s
+2025-02-02T02:34:44.361520+0800 INFO minicap starting by 1s
+2025-02-02T02:34:45.372395+0800 INFO 成功连接到 127.0.0.1:40206
+2025-02-02T02:34:45.372395+0800 INFO banner {'version': 1, 'length': 24, 'pid': 4946, 'realWidth': 1440, 'realHeight': 2560, 'virtualWidth': 1440, 'virtualHeight': 2560, 'orientation': 90, 'quirks': 2}
+2025-02-02T02:34:45.372395+0800 INFO 线程已启动
+2025-02-02T02:36:39.969024+0800 INFO {
+    "id": 0,
+    "width": 2560,
+    "height": 1440,
+    "xdpi": 360.00,
+    "ydpi": 360.00,
+    "size": 10.06,
+    "density": 2.25,
+    "fps": 60.00,
+    "secure": true,
+    "rotation": 90
+}
+2025-02-02T02:36:39.992245+0800 INFO ['F:\\python_project\\Strange_ideas\\Arknights\\adb\\platform-tools\\adb.EXE', '-s', '127.0.0.1:16384', 'shell', 'LD_LIBRARY_PATH=/data/local/tmp', '/data/local/tmp/minicap', '-P', '1440x2560@1440x2560/90', '-Q', '100', '-r', '60.0', '-S']
+2025-02-02T02:36:39.999752+0800 INFO minicap connection takes a long time, please be patient.
+2025-02-02T02:36:40.000732+0800 INFO minicap starting by 3s
+2025-02-02T02:36:41.000949+0800 INFO minicap starting by 2s
+2025-02-02T02:36:42.001395+0800 INFO minicap starting by 1s
+2025-02-02T02:36:43.003109+0800 INFO 成功连接到 127.0.0.1:40206
+2025-02-02T02:36:43.003109+0800 INFO 线程已启动
+2025-02-02T02:36:43.004084+0800 INFO banner {'version': 1, 'length': 24, 'pid': 4991, 'realWidth': 1440, 'realHeight': 2560, 'virtualWidth': 1440, 'virtualHeight': 2560, 'orientation': 90, 'quirks': 2}
+2025-02-02T02:40:47.579151+0800 INFO {
+    "id": 0,
+    "width": 2560,
+    "height": 1440,
+    "xdpi": 360.00,
+    "ydpi": 360.00,
+    "size": 10.06,
+    "density": 2.25,
+    "fps": 60.00,
+    "secure": true,
+    "rotation": 90
+}
+2025-02-02T02:40:47.591131+0800 INFO ['F:\\python_project\\Strange_ideas\\Arknights\\adb\\platform-tools\\adb.EXE', '-s', '127.0.0.1:16384', 'shell', 'LD_LIBRARY_PATH=/data/local/tmp', '/data/local/tmp/minicap', '-P', '1440x2560@1440x2560/90', '-Q', '100', '-r', '60.0', '-S']
+2025-02-02T02:40:47.599975+0800 INFO minicap connection takes a long time, please be patient.
+2025-02-02T02:40:47.599975+0800 INFO minicap starting by 3s
+2025-02-02T02:40:48.600783+0800 INFO minicap starting by 2s
+2025-02-02T02:40:49.601368+0800 INFO minicap starting by 1s
+2025-02-02T02:40:50.602940+0800 INFO 成功连接到 127.0.0.1:40206
+2025-02-02T02:40:50.604890+0800 INFO 线程已启动
+2025-02-02T02:40:50.604890+0800 INFO banner {'version': 1, 'length': 24, 'pid': 5040, 'realWidth': 1440, 'realHeight': 2560, 'virtualWidth': 1440, 'virtualHeight': 2560, 'orientation': 90, 'quirks': 2}
+2025-02-02T02:41:02.059876+0800 INFO {
+    "id": 0,
+    "width": 2560,
+    "height": 1440,
+    "xdpi": 360.00,
+    "ydpi": 360.00,
+    "size": 10.06,
+    "density": 2.25,
+    "fps": 60.00,
+    "secure": true,
+    "rotation": 90
+}
+2025-02-02T02:41:02.071259+0800 INFO ['F:\\python_project\\Strange_ideas\\Arknights\\adb\\platform-tools\\adb.EXE', '-s', '127.0.0.1:16384', 'shell', 'LD_LIBRARY_PATH=/data/local/tmp', '/data/local/tmp/minicap', '-P', '1440x2560@1440x2560/90', '-Q', '100', '-r', '60.0', '-S']
+2025-02-02T02:41:02.080534+0800 INFO minicap connection takes a long time, please be patient.
+2025-02-02T02:41:02.081515+0800 INFO minicap starting by 3s
+2025-02-02T02:41:03.081936+0800 INFO minicap starting by 2s
+2025-02-02T02:41:04.082750+0800 INFO minicap starting by 1s
+2025-02-02T02:41:05.094179+0800 INFO 成功连接到 127.0.0.1:40206
+2025-02-02T02:41:05.095155+0800 INFO 线程已启动
+2025-02-02T02:41:05.096160+0800 INFO banner {'version': 1, 'length': 24, 'pid': 5075, 'realWidth': 1440, 'realHeight': 2560, 'virtualWidth': 1440, 'virtualHeight': 2560, 'orientation': 90, 'quirks': 2}
+2025-02-02T02:41:05.508220+0800 INFO 图片已保存至：F:\python_project\Strange_ideas\AutoSnapManager\AutoSnapManager/resource/temp/MiniCap_2025_02_02_024101.png
+2025-02-02T02:42:15.565175+0800 INFO {
+    "id": 0,
+    "width": 2560,
+    "height": 1440,
+    "xdpi": 360.00,
+    "ydpi": 360.00,
+    "size": 10.06,
+    "density": 2.25,
+    "fps": 60.00,
+    "secure": true,
+    "rotation": 90
+}
+2025-02-02T02:42:15.586099+0800 INFO ['F:\\python_project\\Strange_ideas\\Arknights\\adb\\platform-tools\\adb.EXE', '-s', '127.0.0.1:16384', 'shell', 'LD_LIBRARY_PATH=/data/local/tmp', '/data/local/tmp/minicap', '-P', '1440x2560@1440x2560/90', '-Q', '100', '-r', '60.0', '-S']
+2025-02-02T02:42:15.595521+0800 INFO minicap connection takes a long time, please be patient.
+2025-02-02T02:42:15.595521+0800 INFO minicap starting by 3s
+2025-02-02T02:42:16.596095+0800 INFO minicap starting by 2s
+2025-02-02T02:42:17.597564+0800 INFO minicap starting by 1s
+2025-02-02T02:42:18.609983+0800 INFO 成功连接到 127.0.0.1:40206
+2025-02-02T02:42:18.609983+0800 INFO 线程已启动
+2025-02-02T02:42:18.610959+0800 INFO banner {'version': 1, 'length': 24, 'pid': 5108, 'realWidth': 1440, 'realHeight': 2560, 'virtualWidth': 1440, 'virtualHeight': 2560, 'orientation': 90, 'quirks': 2}
+2025-02-02T02:42:19.076489+0800 INFO 图片已保存至：F:\python_project\Strange_ideas\AutoSnapManager\AutoSnapManager/resource/temp/MiniCap_2025_02_02_024215.png
+2025-02-02T02:42:47.565932+0800 INFO {
+    "id": 0,
+    "width": 2560,
+    "height": 1440,
+    "xdpi": 360.00,
+    "ydpi": 360.00,
+    "size": 10.06,
+    "density": 2.25,
+    "fps": 60.00,
+    "secure": true,
+    "rotation": 90
+}
+2025-02-02T02:42:47.575815+0800 INFO ['F:\\python_project\\Strange_ideas\\Arknights\\adb\\platform-tools\\adb.EXE', '-s', '127.0.0.1:16384', 'shell', 'LD_LIBRARY_PATH=/data/local/tmp', '/data/local/tmp/minicap', '-P', '1440x2560@1440x2560/90', '-Q', '100', '-r', '60.0', '-S']
+2025-02-02T02:42:47.589286+0800 INFO minicap connection takes a long time, please be patient.
+2025-02-02T02:42:47.589286+0800 INFO minicap starting by 3s
+2025-02-02T02:42:48.590400+0800 INFO minicap starting by 2s
+2025-02-02T02:44:45.442436+0800 INFO {
+    "id": 0,
+    "width": 2560,
+    "height": 1440,
+    "xdpi": 360.00,
+    "ydpi": 360.00,
+    "size": 10.06,
+    "density": 2.25,
+    "fps": 60.00,
+    "secure": true,
+    "rotation": 90
+}
+2025-02-02T02:44:45.453176+0800 INFO ['F:\\python_project\\Strange_ideas\\Arknights\\adb\\platform-tools\\adb.EXE', '-s', '127.0.0.1:16384', 'shell', 'LD_LIBRARY_PATH=/data/local/tmp', '/data/local/tmp/minicap', '-P', '1440x2560@1440x2560/90', '-Q', '100', '-r', '60.0', '-S']
+2025-02-02T02:44:45.460991+0800 INFO minicap connection takes a long time, please be patient.
+2025-02-02T02:44:45.460991+0800 INFO minicap starting by 3s
+2025-02-02T02:44:46.462190+0800 INFO minicap starting by 2s
+2025-02-02T02:44:47.462605+0800 INFO minicap starting by 1s
+2025-02-02T02:44:48.464233+0800 INFO 成功连接到 127.0.0.1:40206
+2025-02-02T02:44:48.465213+0800 INFO 线程已启动
+2025-02-02T02:44:48.466188+0800 INFO banner {'version': 1, 'length': 24, 'pid': 5180, 'realWidth': 1440, 'realHeight': 2560, 'virtualWidth': 1440, 'virtualHeight': 2560, 'orientation': 90, 'quirks': 2}
+2025-02-02T02:44:48.888818+0800 INFO 图片已保存至：F:\python_project\Strange_ideas\AutoSnapManager\AutoSnapManager/resource/temp/MiniCap_2025_02_02_024445.png
+2025-02-02T02:45:25.232911+0800 INFO {
+    "id": 0,
+    "width": 2560,
+    "height": 1440,
+    "xdpi": 360.00,
+    "ydpi": 360.00,
+    "size": 10.06,
+    "density": 2.25,
+    "fps": 60.00,
+    "secure": true,
+    "rotation": 90
+}
+2025-02-02T02:45:25.244631+0800 INFO ['F:\\python_project\\Strange_ideas\\Arknights\\adb\\platform-tools\\adb.EXE', '-s', '127.0.0.1:16384', 'shell', 'LD_LIBRARY_PATH=/data/local/tmp', '/data/local/tmp/minicap', '-P', '1440x2560@1440x2560/90', '-Q', '100', '-r', '60.0', '-S']
+2025-02-02T02:45:25.252441+0800 INFO minicap connection takes a long time, please be patient.
+2025-02-02T02:45:25.253425+0800 INFO minicap starting by 3s
+2025-02-02T02:45:26.254315+0800 INFO minicap starting by 2s
+2025-02-02T02:45:27.254555+0800 INFO minicap starting by 1s
+2025-02-02T02:45:28.265968+0800 INFO 成功连接到 127.0.0.1:40206
+2025-02-02T02:45:28.265968+0800 INFO 线程已启动
+2025-02-02T02:45:28.265968+0800 INFO banner {'version': 1, 'length': 24, 'pid': 5217, 'realWidth': 1440, 'realHeight': 2560, 'virtualWidth': 1440, 'virtualHeight': 2560, 'orientation': 90, 'quirks': 2}
+2025-02-02T02:45:28.649320+0800 INFO 图片已保存至：F:\python_project\Strange_ideas\AutoSnapManager\AutoSnapManager/resource/temp/MiniCap_2025_02_02_024525.png
+2025-02-02T02:46:11.609176+0800 INFO {
+    "id": 0,
+    "width": 2560,
+    "height": 1440,
+    "xdpi": 360.00,
+    "ydpi": 360.00,
+    "size": 10.06,
+    "density": 2.25,
+    "fps": 60.00,
+    "secure": true,
+    "rotation": 90
+}
+2025-02-02T02:46:11.630663+0800 INFO ['F:\\python_project\\Strange_ideas\\Arknights\\adb\\platform-tools\\adb.EXE', '-s', '127.0.0.1:16384', 'shell', 'LD_LIBRARY_PATH=/data/local/tmp', '/data/local/tmp/minicap', '-P', '1440x2560@1440x2560/90', '-Q', '100', '-r', '60.0', '-S']
+2025-02-02T02:46:11.639482+0800 INFO minicap connection takes a long time, please be patient.
+2025-02-02T02:46:11.639482+0800 INFO minicap starting by 3s
+2025-02-02T02:46:12.640366+0800 INFO minicap starting by 2s
+2025-02-02T02:46:13.640815+0800 INFO minicap starting by 1s
+2025-02-02T02:46:14.652803+0800 INFO 成功连接到 127.0.0.1:40206
+2025-02-02T02:46:14.653780+0800 INFO 线程已启动
+2025-02-02T02:46:14.654793+0800 INFO banner {'version': 1, 'length': 24, 'pid': 5255, 'realWidth': 1440, 'realHeight': 2560, 'virtualWidth': 1440, 'virtualHeight': 2560, 'orientation': 90, 'quirks': 2}
+2025-02-02T02:46:15.082029+0800 INFO 图片已保存至：F:\python_project\Strange_ideas\AutoSnapManager\AutoSnapManager/resource/temp/MiniCap_2025_02_02_024611.png
+2025-02-02T02:47:03.097320+0800 INFO {
+    "id": 0,
+    "width": 2560,
+    "height": 1440,
+    "xdpi": 360.00,
+    "ydpi": 360.00,
+    "size": 10.06,
+    "density": 2.25,
+    "fps": 60.00,
+    "secure": true,
+    "rotation": 90
+}
+2025-02-02T02:47:03.108067+0800 INFO ['F:\\python_project\\Strange_ideas\\Arknights\\adb\\platform-tools\\adb.EXE', '-s', '127.0.0.1:16384', 'shell', 'LD_LIBRARY_PATH=/data/local/tmp', '/data/local/tmp/minicap', '-P', '1440x2560@1440x2560/90', '-Q', '100', '-r', '60.0', '-S']
+2025-02-02T02:47:03.116859+0800 INFO minicap connection takes a long time, please be patient.
+2025-02-02T02:47:03.116859+0800 INFO minicap starting by 3s
+2025-02-02T02:47:04.117443+0800 INFO minicap starting by 2s
+2025-02-02T02:47:05.117666+0800 INFO minicap starting by 1s
+2025-02-02T02:47:06.119363+0800 INFO 成功连接到 127.0.0.1:40206
+2025-02-02T02:47:06.120328+0800 INFO 线程已启动
+2025-02-02T02:47:06.120328+0800 INFO banner {'version': 1, 'length': 24, 'pid': 5290, 'realWidth': 1440, 'realHeight': 2560, 'virtualWidth': 1440, 'virtualHeight': 2560, 'orientation': 90, 'quirks': 2}
+2025-02-02T02:47:06.527235+0800 INFO 图片已保存至：F:\python_project\Strange_ideas\AutoSnapManager\AutoSnapManager/resource/temp/MiniCap_2025_02_02_024702.png
+2025-02-02T02:48:03.469277+0800 INFO {
+    "id": 0,
+    "width": 2560,
+    "height": 1440,
+    "xdpi": 360.00,
+    "ydpi": 360.00,
+    "size": 10.06,
+    "density": 2.25,
+    "fps": 60.00,
+    "secure": true,
+    "rotation": 90
+}
+2025-02-02T02:48:03.481971+0800 INFO ['F:\\python_project\\Strange_ideas\\Arknights\\adb\\platform-tools\\adb.EXE', '-s', '127.0.0.1:16384', 'shell', 'LD_LIBRARY_PATH=/data/local/tmp', '/data/local/tmp/minicap', '-P', '1440x2560@1440x2560/90', '-Q', '100', '-r', '60.0', '-S']
+2025-02-02T02:48:03.492713+0800 INFO minicap connection takes a long time, please be patient.
+2025-02-02T02:48:03.492713+0800 INFO minicap starting by 3s
+2025-02-02T02:48:04.492737+0800 INFO minicap starting by 2s
+2025-02-02T02:48:05.493194+0800 INFO minicap starting by 1s
+2025-02-02T02:48:06.495075+0800 INFO 成功连接到 127.0.0.1:40206
+2025-02-02T02:48:06.495075+0800 INFO 线程已启动
+2025-02-02T02:48:06.496058+0800 INFO banner {'version': 1, 'length': 24, 'pid': 5324, 'realWidth': 1440, 'realHeight': 2560, 'virtualWidth': 1440, 'virtualHeight': 2560, 'orientation': 90, 'quirks': 2}
+2025-02-02T02:48:06.923076+0800 INFO 图片已保存至：F:\python_project\Strange_ideas\AutoSnapManager\AutoSnapManager/resource/temp/MiniCap_2025_02_02_024803.png
+2025-02-02T02:48:35.216207+0800 INFO {
+    "id": 0,
+    "width": 2560,
+    "height": 1440,
+    "xdpi": 360.00,
+    "ydpi": 360.00,
+    "size": 10.06,
+    "density": 2.25,
+    "fps": 60.00,
+    "secure": true,
+    "rotation": 90
+}
+2025-02-02T02:48:35.242570+0800 INFO ['F:\\python_project\\Strange_ideas\\Arknights\\adb\\platform-tools\\adb.EXE', '-s', '127.0.0.1:16384', 'shell', 'LD_LIBRARY_PATH=/data/local/tmp', '/data/local/tmp/minicap', '-P', '1440x2560@1440x2560/90', '-Q', '100', '-r', '60.0', '-S']
+2025-02-02T02:48:35.254295+0800 INFO minicap connection takes a long time, please be patient.
+2025-02-02T02:48:35.254295+0800 INFO minicap starting by 3s
+2025-02-02T02:48:36.255088+0800 INFO minicap starting by 2s
+2025-02-02T02:48:37.256046+0800 INFO minicap starting by 1s
+2025-02-02T02:48:38.257672+0800 INFO 成功连接到 127.0.0.1:40206
+2025-02-02T02:48:38.257672+0800 INFO 线程已启动
+2025-02-02T02:48:38.258648+0800 INFO banner {'version': 1, 'length': 24, 'pid': 5355, 'realWidth': 1440, 'realHeight': 2560, 'virtualWidth': 1440, 'virtualHeight': 2560, 'orientation': 90, 'quirks': 2}
+2025-02-02T02:48:38.649467+0800 INFO 图片已保存至：F:\python_project\Strange_ideas\AutoSnapManager\AutoSnapManager/resource/temp/MiniCap_2025_02_02_024835.png
+2025-02-02T02:48:47.632870+0800 INFO {
+    "id": 0,
+    "width": 2560,
+    "height": 1440,
+    "xdpi": 360.00,
+    "ydpi": 360.00,
+    "size": 10.06,
+    "density": 2.25,
+    "fps": 60.00,
+    "secure": true,
+    "rotation": 90
+}
+2025-02-02T02:48:47.653377+0800 INFO ['F:\\python_project\\Strange_ideas\\Arknights\\adb\\platform-tools\\adb.EXE', '-s', '127.0.0.1:16384', 'shell', 'LD_LIBRARY_PATH=/data/local/tmp', '/data/local/tmp/minicap', '-P', '1440x2560@1440x2560/90', '-Q', '100', '-r', '60.0', '-S']
+2025-02-02T02:48:47.659834+0800 INFO minicap connection takes a long time, please be patient.
+2025-02-02T02:48:47.659834+0800 INFO minicap starting by 3s
+2025-02-02T02:48:48.660786+0800 INFO minicap starting by 2s
+2025-02-02T02:48:49.660924+0800 INFO minicap starting by 1s
+2025-02-02T02:48:50.673612+0800 INFO 成功连接到 127.0.0.1:40206
+2025-02-02T02:48:50.673612+0800 INFO banner {'version': 1, 'length': 24, 'pid': 5389, 'realWidth': 1440, 'realHeight': 2560, 'virtualWidth': 1440, 'virtualHeight': 2560, 'orientation': 90, 'quirks': 2}
+2025-02-02T02:48:50.674589+0800 INFO 线程已启动
+2025-02-02T02:48:51.086437+0800 INFO 图片已保存至：F:\python_project\Strange_ideas\AutoSnapManager\AutoSnapManager/resource/temp/MiniCap_2025_02_02_024847.png
+2025-02-02T02:50:42.657777+0800 INFO {
+    "id": 0,
+    "width": 2560,
+    "height": 1440,
+    "xdpi": 360.00,
+    "ydpi": 360.00,
+    "size": 10.06,
+    "density": 2.25,
+    "fps": 60.00,
+    "secure": true,
+    "rotation": 90
+}
+2025-02-02T02:50:42.670068+0800 INFO ['F:\\python_project\\Strange_ideas\\Arknights\\adb\\platform-tools\\adb.EXE', '-s', '127.0.0.1:16384', 'shell', 'LD_LIBRARY_PATH=/data/local/tmp', '/data/local/tmp/minicap', '-P', '1440x2560@1440x2560/90', '-Q', '100', '-r', '60.0', '-S']
+2025-02-02T02:50:42.677878+0800 INFO minicap connection takes a long time, please be patient.
+2025-02-02T02:50:42.678857+0800 INFO minicap starting by 3s
+2025-02-02T02:50:43.679476+0800 INFO minicap starting by 2s
+2025-02-02T02:50:44.679909+0800 INFO minicap starting by 1s
+2025-02-02T02:50:45.690903+0800 INFO 成功连接到 127.0.0.1:40206
+2025-02-02T02:50:45.690903+0800 INFO 线程已启动
+2025-02-02T02:50:45.690903+0800 INFO banner {'version': 1, 'length': 24, 'pid': 5431, 'realWidth': 1440, 'realHeight': 2560, 'virtualWidth': 1440, 'virtualHeight': 2560, 'orientation': 90, 'quirks': 2}
+2025-02-02T02:51:14.434772+0800 INFO {
+    "id": 0,
+    "width": 2560,
+    "height": 1440,
+    "xdpi": 360.00,
+    "ydpi": 360.00,
+    "size": 10.06,
+    "density": 2.25,
+    "fps": 60.00,
+    "secure": true,
+    "rotation": 90
+}
+2025-02-02T02:51:14.447469+0800 INFO ['F:\\python_project\\Strange_ideas\\Arknights\\adb\\platform-tools\\adb.EXE', '-s', '127.0.0.1:16384', 'shell', 'LD_LIBRARY_PATH=/data/local/tmp', '/data/local/tmp/minicap', '-P', '1440x2560@1440x2560/90', '-Q', '100', '-r', '60.0', '-S']
+2025-02-02T02:51:14.455283+0800 INFO minicap connection takes a long time, please be patient.
+2025-02-02T02:51:14.455283+0800 INFO minicap starting by 3s
+2025-02-02T02:51:15.455555+0800 INFO minicap starting by 2s
+2025-02-02T02:51:16.456460+0800 INFO minicap starting by 1s
+2025-02-02T02:51:17.467362+0800 INFO 成功连接到 127.0.0.1:40206
+2025-02-02T02:51:17.468335+0800 INFO 线程已启动
+2025-02-02T02:51:17.468335+0800 INFO banner {'version': 1, 'length': 24, 'pid': 5466, 'realWidth': 1440, 'realHeight': 2560, 'virtualWidth': 1440, 'virtualHeight': 2560, 'orientation': 90, 'quirks': 2}
+2025-02-02T02:51:17.852541+0800 INFO 图片已保存至：F:\python_project\Strange_ideas\AutoSnapManager\AutoSnapManager/resource/temp/MiniCap_2025_02_02_025114.png
+2025-02-02T02:51:33.818708+0800 INFO {
+    "id": 0,
+    "width": 2560,
+    "height": 1440,
+    "xdpi": 360.00,
+    "ydpi": 360.00,
+    "size": 10.06,
+    "density": 2.25,
+    "fps": 60.00,
+    "secure": true,
+    "rotation": 90
+}
+2025-02-02T02:51:33.830987+0800 INFO ['F:\\python_project\\Strange_ideas\\Arknights\\adb\\platform-tools\\adb.EXE', '-s', '127.0.0.1:16384', 'shell', 'LD_LIBRARY_PATH=/data/local/tmp', '/data/local/tmp/minicap', '-P', '1440x2560@1440x2560/90', '-Q', '100', '-r', '60.0', '-S']
+2025-02-02T02:51:33.839763+0800 INFO minicap connection takes a long time, please be patient.
+2025-02-02T02:51:33.839763+0800 INFO minicap starting by 3s
+2025-02-02T02:51:34.840414+0800 INFO minicap starting by 2s
+2025-02-02T02:51:35.841286+0800 INFO minicap starting by 1s
+2025-02-02T02:51:36.843528+0800 INFO 成功连接到 127.0.0.1:40206
+2025-02-02T02:51:36.844509+0800 INFO 线程已启动
+2025-02-02T02:51:36.846460+0800 INFO banner {'version': 1, 'length': 24, 'pid': 5497, 'realWidth': 1440, 'realHeight': 2560, 'virtualWidth': 1440, 'virtualHeight': 2560, 'orientation': 90, 'quirks': 2}
+2025-02-02T02:52:30.533469+0800 INFO {
+    "id": 0,
+    "width": 2560,
+    "height": 1440,
+    "xdpi": 360.00,
+    "ydpi": 360.00,
+    "size": 10.06,
+    "density": 2.25,
+    "fps": 60.00,
+    "secure": true,
+    "rotation": 90
+}
+2025-02-02T02:52:30.554950+0800 INFO ['F:\\python_project\\Strange_ideas\\Arknights\\adb\\platform-tools\\adb.EXE', '-s', '127.0.0.1:16384', 'shell', 'LD_LIBRARY_PATH=/data/local/tmp', '/data/local/tmp/minicap', '-P', '1440x2560@1440x2560/90', '-Q', '100', '-r', '60.0', '-S']
+2025-02-02T02:52:30.562765+0800 INFO minicap connection takes a long time, please be patient.
+2025-02-02T02:52:30.562765+0800 INFO minicap starting by 3s
+2025-02-02T02:52:31.562931+0800 INFO minicap starting by 2s
+2025-02-02T02:52:32.563678+0800 INFO minicap starting by 1s
+2025-02-02T02:52:33.563853+0800 INFO 成功连接到 127.0.0.1:40206
+2025-02-02T02:52:33.564830+0800 INFO 线程已启动
+2025-02-02T02:52:33.564830+0800 INFO banner {'version': 1, 'length': 24, 'pid': 5535, 'realWidth': 1440, 'realHeight': 2560, 'virtualWidth': 1440, 'virtualHeight': 2560, 'orientation': 90, 'quirks': 2}
+2025-02-02T02:52:53.298583+0800 INFO {
+    "id": 0,
+    "width": 2560,
+    "height": 1440,
+    "xdpi": 360.00,
+    "ydpi": 360.00,
+    "size": 10.06,
+    "density": 2.25,
+    "fps": 60.00,
+    "secure": true,
+    "rotation": 90
+}
+2025-02-02T02:52:53.319089+0800 INFO ['F:\\python_project\\Strange_ideas\\Arknights\\adb\\platform-tools\\adb.EXE', '-s', '127.0.0.1:16384', 'shell', 'LD_LIBRARY_PATH=/data/local/tmp', '/data/local/tmp/minicap', '-P', '1440x2560@1440x2560/90', '-Q', '100', '-r', '60.0', '-S']
+2025-02-02T02:52:53.326903+0800 INFO minicap connection takes a long time, please be patient.
+2025-02-02T02:52:53.326903+0800 INFO minicap starting by 3s
+2025-02-02T02:52:54.328717+0800 INFO minicap starting by 2s
+2025-02-02T02:52:55.328770+0800 INFO minicap starting by 1s
+2025-02-02T02:52:56.330933+0800 INFO 成功连接到 127.0.0.1:40206
+2025-02-02T02:52:56.331915+0800 INFO 线程已启动
+2025-02-02T02:52:56.334875+0800 INFO banner {'version': 1, 'length': 24, 'pid': 5569, 'realWidth': 1440, 'realHeight': 2560, 'virtualWidth': 1440, 'virtualHeight': 2560, 'orientation': 90, 'quirks': 2}
+2025-02-02T02:54:43.078775+0800 INFO {
+    "id": 0,
+    "width": 2560,
+    "height": 1440,
+    "xdpi": 360.00,
+    "ydpi": 360.00,
+    "size": 10.06,
+    "density": 2.25,
+    "fps": 60.00,
+    "secure": true,
+    "rotation": 90
+}
+2025-02-02T02:54:43.099277+0800 INFO ['F:\\python_project\\Strange_ideas\\Arknights\\adb\\platform-tools\\adb.EXE', '-s', '127.0.0.1:16384', 'shell', 'LD_LIBRARY_PATH=/data/local/tmp', '/data/local/tmp/minicap', '-P', '1440x2560@1440x2560/90', '-Q', '100', '-r', '60.0', '-S']
+2025-02-02T02:54:43.107100+0800 INFO minicap connection takes a long time, please be patient.
+2025-02-02T02:54:43.107100+0800 INFO minicap starting by 3s
+2025-02-02T02:54:44.107538+0800 INFO minicap starting by 2s
+2025-02-02T02:54:45.107828+0800 INFO minicap starting by 1s
+2025-02-02T02:54:46.118688+0800 INFO 成功连接到 127.0.0.1:40206
+2025-02-02T02:54:46.118688+0800 INFO 线程已启动
+2025-02-02T02:54:46.118688+0800 INFO banner {'version': 1, 'length': 24, 'pid': 5606, 'realWidth': 1440, 'realHeight': 2560, 'virtualWidth': 1440, 'virtualHeight': 2560, 'orientation': 90, 'quirks': 2}
+2025-02-02T02:54:46.530198+0800 INFO 图片已保存至：F:\python_project\Strange_ideas\AutoSnapManager\AutoSnapManager/resource/temp/MiniCap_2025_02_02_025442.png
+2025-02-02T02:58:45.562106+0800 INFO {
+    "id": 0,
+    "width": 2560,
+    "height": 1440,
+    "xdpi": 360.00,
+    "ydpi": 360.00,
+    "size": 10.06,
+    "density": 2.25,
+    "fps": 60.00,
+    "secure": true,
+    "rotation": 90
+}
+2025-02-02T02:58:45.587496+0800 INFO ['F:\\python_project\\Strange_ideas\\Arknights\\adb\\platform-tools\\adb.EXE', '-s', '127.0.0.1:16384', 'shell', 'LD_LIBRARY_PATH=/data/local/tmp', '/data/local/tmp/minicap', '-P', '1440x2560@1440x2560/90', '-Q', '100', '-r', '60.0', '-S']
+2025-02-02T02:58:45.600197+0800 INFO minicap connection takes a long time, please be patient.
+2025-02-02T02:58:45.601169+0800 INFO minicap starting by 3s
+2025-02-02T02:58:46.601226+0800 INFO minicap starting by 2s
+2025-02-02T02:58:47.601439+0800 INFO minicap starting by 1s
+2025-02-02T02:58:48.602867+0800 INFO 成功连接到 127.0.0.1:40206
+2025-02-02T02:58:48.604819+0800 INFO 线程已启动
+2025-02-02T02:58:48.604819+0800 INFO banner {'version': 1, 'length': 24, 'pid': 5664, 'realWidth': 1440, 'realHeight': 2560, 'virtualWidth': 1440, 'virtualHeight': 2560, 'orientation': 90, 'quirks': 2}
+2025-02-02T02:58:55.626209+0800 INFO {
+    "id": 0,
+    "width": 2560,
+    "height": 1440,
+    "xdpi": 360.00,
+    "ydpi": 360.00,
+    "size": 10.06,
+    "density": 2.25,
+    "fps": 60.00,
+    "secure": true,
+    "rotation": 90
+}
+2025-02-02T02:58:55.635940+0800 INFO ['F:\\python_project\\Strange_ideas\\Arknights\\adb\\platform-tools\\adb.EXE', '-s', '127.0.0.1:16384', 'shell', 'LD_LIBRARY_PATH=/data/local/tmp', '/data/local/tmp/minicap', '-P', '1440x2560@1440x2560/90', '-Q', '100', '-r', '60.0', '-S']
+2025-02-02T02:58:55.644732+0800 INFO minicap connection takes a long time, please be patient.
+2025-02-02T02:58:55.644732+0800 INFO minicap starting by 3s
+2025-02-02T02:58:56.645408+0800 INFO minicap starting by 2s
+2025-02-02T02:58:57.645670+0800 INFO minicap starting by 1s
+2025-02-02T02:58:58.646200+0800 INFO 成功连接到 127.0.0.1:40206
+2025-02-02T02:58:58.648159+0800 INFO 线程已启动
+2025-02-02T02:58:58.650112+0800 INFO banner {'version': 1, 'length': 24, 'pid': 5696, 'realWidth': 1440, 'realHeight': 2560, 'virtualWidth': 1440, 'virtualHeight': 2560, 'orientation': 90, 'quirks': 2}
+2025-02-02T02:58:59.031685+0800 INFO 图片已保存至：F:\python_project\Strange_ideas\AutoSnapManager\AutoSnapManager/resource/temp/MiniCap_2025_02_02_025855.png
+2025-02-02T02:59:44.623394+0800 INFO {
+    "id": 0,
+    "width": 2560,
+    "height": 1440,
+    "xdpi": 360.00,
+    "ydpi": 360.00,
+    "size": 10.06,
+    "density": 2.25,
+    "fps": 60.00,
+    "secure": true,
+    "rotation": 90
+}
+2025-02-02T02:59:44.633159+0800 INFO ['F:\\python_project\\Strange_ideas\\Arknights\\adb\\platform-tools\\adb.EXE', '-s', '127.0.0.1:16384', 'shell', 'LD_LIBRARY_PATH=/data/local/tmp', '/data/local/tmp/minicap', '-P', '1440x2560@1440x2560/90', '-Q', '100', '-r', '60.0', '-S']
+2025-02-02T02:59:44.640971+0800 INFO minicap connection takes a long time, please be patient.
+2025-02-02T02:59:44.640971+0800 INFO minicap starting by 3s
+2025-02-02T02:59:45.641537+0800 INFO minicap starting by 2s
+2025-02-02T02:59:46.641540+0800 INFO minicap starting by 1s
+2025-02-02T02:59:47.663348+0800 INFO 成功连接到 127.0.0.1:40206
+2025-02-02T02:59:47.663348+0800 INFO 线程已启动
+2025-02-02T02:59:47.664295+0800 INFO banner {'version': 1, 'length': 24, 'pid': 5731, 'realWidth': 1440, 'realHeight': 2560, 'virtualWidth': 1440, 'virtualHeight': 2560, 'orientation': 90, 'quirks': 2}
+2025-02-02T02:59:48.036325+0800 INFO 图片已保存至：F:\python_project\Strange_ideas\AutoSnapManager\AutoSnapManager/resource/temp/MiniCap_2025_02_02_025944.png
+2025-02-02T15:01:07.858193+0800 INFO {
+    "id": 0,
+    "width": 2560,
+    "height": 1440,
+    "xdpi": 360.00,
+    "ydpi": 360.00,
+    "size": 10.06,
+    "density": 2.25,
+    "fps": 60.00,
+    "secure": true,
+    "rotation": 90
+}
+2025-02-02T15:01:07.880959+0800 INFO ['F:\\python_project\\Strange_ideas\\Arknights\\adb\\platform-tools\\adb.EXE', '-s', '127.0.0.1:16384', 'shell', 'LD_LIBRARY_PATH=/data/local/tmp', '/data/local/tmp/minicap', '-P', '1440x2560@1440x2560/90', '-Q', '100', '-r', '60.0', '-S']
+2025-02-02T15:01:07.890366+0800 INFO minicap connection takes a long time, please be patient.
+2025-02-02T15:01:07.890366+0800 INFO minicap starting by 3s
+2025-02-02T15:01:08.891918+0800 INFO minicap starting by 2s
+2025-02-02T15:01:09.892090+0800 INFO minicap starting by 1s
+2025-02-02T15:01:10.914345+0800 INFO 成功连接到 127.0.0.1:24660
+2025-02-02T15:01:10.914345+0800 INFO 线程已启动
+2025-02-02T15:01:10.914345+0800 INFO banner {'version': 1, 'length': 24, 'pid': 3692, 'realWidth': 1440, 'realHeight': 2560, 'virtualWidth': 1440, 'virtualHeight': 2560, 'orientation': 90, 'quirks': 2}
+2025-02-02T15:01:11.372039+0800 INFO 图片已保存至：F:\python_project\Strange_ideas\AutoSnapManager\AutoSnapManager/resource/temp/MiniCap_2025_02_02_150107.png
+2025-02-02T15:02:19.542872+0800 INFO {
+    "id": 0,
+    "width": 2560,
+    "height": 1440,
+    "xdpi": 360.00,
+    "ydpi": 360.00,
+    "size": 10.06,
+    "density": 2.25,
+    "fps": 60.00,
+    "secure": true,
+    "rotation": 90
+}
+2025-02-02T15:02:19.556112+0800 INFO ['F:\\python_project\\Strange_ideas\\Arknights\\adb\\platform-tools\\adb.EXE', '-s', '127.0.0.1:16384', 'shell', 'LD_LIBRARY_PATH=/data/local/tmp', '/data/local/tmp/minicap', '-P', '1440x2560@1440x2560/90', '-Q', '100', '-r', '60.0', '-S']
+2025-02-02T15:02:19.569853+0800 INFO minicap connection takes a long time, please be patient.
+2025-02-02T15:02:19.569853+0800 INFO minicap starting by 3s
+2025-02-02T15:02:20.569986+0800 INFO minicap starting by 2s
+2025-02-02T15:02:21.570355+0800 INFO minicap starting by 1s
+2025-02-02T15:02:22.581357+0800 INFO 成功连接到 127.0.0.1:24660
+2025-02-02T15:02:22.581357+0800 INFO 线程已启动
+2025-02-02T15:02:22.581357+0800 INFO banner {'version': 1, 'length': 24, 'pid': 3740, 'realWidth': 1440, 'realHeight': 2560, 'virtualWidth': 1440, 'virtualHeight': 2560, 'orientation': 90, 'quirks': 2}
+2025-02-02T15:02:23.032111+0800 INFO 图片已保存至：F:\python_project\Strange_ideas\AutoSnapManager\AutoSnapManager/resource/temp/MiniCap_2025_02_02_150219.png
+2025-02-02T15:03:13.684695+0800 INFO {
+    "id": 0,
+    "width": 2560,
+    "height": 1440,
+    "xdpi": 360.00,
+    "ydpi": 360.00,
+    "size": 10.06,
+    "density": 2.25,
+    "fps": 60.00,
+    "secure": true,
+    "rotation": 90
+}
+2025-02-02T15:03:13.705155+0800 INFO ['F:\\python_project\\Strange_ideas\\Arknights\\adb\\platform-tools\\adb.EXE', '-s', '127.0.0.1:16384', 'shell', 'LD_LIBRARY_PATH=/data/local/tmp', '/data/local/tmp/minicap', '-P', '1440x2560@1440x2560/90', '-Q', '100', '-r', '60.0', '-S']
+2025-02-02T15:03:13.716356+0800 INFO minicap connection takes a long time, please be patient.
+2025-02-02T15:03:13.716356+0800 INFO minicap starting by 3s
+2025-02-02T15:03:14.717329+0800 INFO minicap starting by 2s
+2025-02-02T15:03:15.718275+0800 INFO minicap starting by 1s
+2025-02-02T15:03:16.729332+0800 INFO 成功连接到 127.0.0.1:24660
+2025-02-02T15:03:16.729332+0800 INFO 线程已启动
+2025-02-02T15:03:16.729332+0800 INFO banner {'version': 1, 'length': 24, 'pid': 3788, 'realWidth': 1440, 'realHeight': 2560, 'virtualWidth': 1440, 'virtualHeight': 2560, 'orientation': 90, 'quirks': 2}
+2025-02-02T15:03:17.159273+0800 INFO 图片已保存至：F:\python_project\Strange_ideas\AutoSnapManager\AutoSnapManager/resource/temp/MiniCap_2025_02_02_150313.png
+2025-02-02T15:03:42.033727+0800 INFO {
+    "id": 0,
+    "width": 2560,
+    "height": 1440,
+    "xdpi": 360.00,
+    "ydpi": 360.00,
+    "size": 10.06,
+    "density": 2.25,
+    "fps": 60.00,
+    "secure": true,
+    "rotation": 90
+}
+2025-02-02T15:03:42.047040+0800 INFO ['F:\\python_project\\Strange_ideas\\Arknights\\adb\\platform-tools\\adb.EXE', '-s', '127.0.0.1:16384', 'shell', 'LD_LIBRARY_PATH=/data/local/tmp', '/data/local/tmp/minicap', '-P', '1440x2560@1440x2560/90', '-Q', '100', '-r', '60.0', '-S']
+2025-02-02T15:03:42.058430+0800 INFO minicap connection takes a long time, please be patient.
+2025-02-02T15:03:42.058430+0800 INFO minicap starting by 3s
+2025-02-02T15:03:43.058987+0800 INFO minicap starting by 2s
+2025-02-02T15:03:44.059956+0800 INFO minicap starting by 1s
+2025-02-02T15:03:45.061710+0800 INFO 成功连接到 127.0.0.1:24660
+2025-02-02T15:03:45.061710+0800 INFO 线程已启动
+2025-02-02T15:03:45.064087+0800 INFO banner {'version': 1, 'length': 24, 'pid': 3825, 'realWidth': 1440, 'realHeight': 2560, 'virtualWidth': 1440, 'virtualHeight': 2560, 'orientation': 90, 'quirks': 2}
+2025-02-02T15:03:45.504130+0800 INFO 图片已保存至：F:\python_project\Strange_ideas\AutoSnapManager\AutoSnapManager/resource/temp/MiniCap_2025_02_02_150341.png
+2025-02-02T15:47:04.467756+0800 INFO {
+    "id": 0,
+    "width": 2560,
+    "height": 1440,
+    "xdpi": 360.00,
+    "ydpi": 360.00,
+    "size": 10.06,
+    "density": 2.25,
+    "fps": 60.00,
+    "secure": true,
+    "rotation": 90
+}
+2025-02-02T15:47:04.488958+0800 INFO ['F:\\python_project\\Strange_ideas\\Arknights\\adb\\platform-tools\\adb.EXE', '-s', '127.0.0.1:16384', 'shell', 'LD_LIBRARY_PATH=/data/local/tmp', '/data/local/tmp/minicap', '-P', '1440x2560@1440x2560/90', '-Q', '100', '-r', '60.0', '-S']
+2025-02-02T15:47:04.500448+0800 INFO minicap connection takes a long time, please be patient.
+2025-02-02T15:47:04.500448+0800 INFO minicap starting by 3s
+2025-02-02T15:47:05.500700+0800 INFO minicap starting by 2s
+2025-02-02T15:47:06.500807+0800 INFO minicap starting by 1s
+2025-02-02T15:47:07.501654+0800 INFO 成功连接到 127.0.0.1:24660
+2025-02-02T15:47:07.502633+0800 INFO 线程已启动
+2025-02-02T15:47:07.502633+0800 INFO banner {'version': 1, 'length': 24, 'pid': 4115, 'realWidth': 1440, 'realHeight': 2560, 'virtualWidth': 1440, 'virtualHeight': 2560, 'orientation': 90, 'quirks': 2}
+2025-02-02T15:48:09.352658+0800 INFO {
+    "id": 0,
+    "width": 2560,
+    "height": 1440,
+    "xdpi": 360.00,
+    "ydpi": 360.00,
+    "size": 10.06,
+    "density": 2.25,
+    "fps": 60.00,
+    "secure": true,
+    "rotation": 90
+}
+2025-02-02T15:48:09.362853+0800 INFO ['F:\\python_project\\Strange_ideas\\Arknights\\adb\\platform-tools\\adb.EXE', '-s', '127.0.0.1:16384', 'shell', 'LD_LIBRARY_PATH=/data/local/tmp', '/data/local/tmp/minicap', '-P', '1440x2560@1440x2560/90', '-Q', '100', '-r', '60.0', '-S']
+2025-02-02T15:48:09.375133+0800 INFO minicap connection takes a long time, please be patient.
+2025-02-02T15:48:09.375133+0800 INFO minicap starting by 3s
+2025-02-02T15:48:10.375959+0800 INFO minicap starting by 2s
+2025-02-02T15:48:11.376031+0800 INFO minicap starting by 1s
+2025-02-02T15:48:12.377083+0800 INFO 成功连接到 127.0.0.1:24660
+2025-02-02T15:48:12.377083+0800 INFO 线程已启动
+2025-02-02T15:48:12.379050+0800 INFO banner {'version': 1, 'length': 24, 'pid': 4158, 'realWidth': 1440, 'realHeight': 2560, 'virtualWidth': 1440, 'virtualHeight': 2560, 'orientation': 90, 'quirks': 2}
+2025-02-02T15:48:43.121296+0800 INFO {
+    "id": 0,
+    "width": 2560,
+    "height": 1440,
+    "xdpi": 360.00,
+    "ydpi": 360.00,
+    "size": 10.06,
+    "density": 2.25,
+    "fps": 60.00,
+    "secure": true,
+    "rotation": 90
+}
+2025-02-02T15:48:43.134934+0800 INFO ['F:\\python_project\\Strange_ideas\\Arknights\\adb\\platform-tools\\adb.EXE', '-s', '127.0.0.1:16384', 'shell', 'LD_LIBRARY_PATH=/data/local/tmp', '/data/local/tmp/minicap', '-P', '1440x2560@1440x2560/90', '-Q', '100', '-r', '60.0', '-S']
+2025-02-02T15:48:43.147824+0800 INFO minicap connection takes a long time, please be patient.
+2025-02-02T15:48:43.148923+0800 INFO minicap starting by 3s
+2025-02-02T15:48:44.149597+0800 INFO minicap starting by 2s
+2025-02-02T15:48:45.149856+0800 INFO minicap starting by 1s
+2025-02-02T15:48:46.150825+0800 INFO 成功连接到 127.0.0.1:24660
+2025-02-02T15:48:46.151771+0800 INFO 线程已启动
+2025-02-02T15:48:46.152778+0800 INFO banner {'version': 1, 'length': 24, 'pid': 4190, 'realWidth': 1440, 'realHeight': 2560, 'virtualWidth': 1440, 'virtualHeight': 2560, 'orientation': 90, 'quirks': 2}
+2025-02-02T15:48:46.566697+0800 INFO 图片已保存至：F:\python_project\Strange_ideas\AutoSnapManager\AutoSnapManager/resource/temp/MiniCap_2025_02_02_154842.png
+2025-02-02T16:33:12.409273+0800 INFO {
+    "id": 0,
+    "width": 2560,
+    "height": 1440,
+    "xdpi": 360.00,
+    "ydpi": 360.00,
+    "size": 10.06,
+    "density": 2.25,
+    "fps": 60.00,
+    "secure": true,
+    "rotation": 90
+}
+2025-02-02T16:33:12.420496+0800 INFO ['F:\\python_project\\Strange_ideas\\Arknights\\adb\\platform-tools\\adb.EXE', '-s', '127.0.0.1:16384', 'shell', 'LD_LIBRARY_PATH=/data/local/tmp', '/data/local/tmp/minicap', '-P', '1440x2560@1440x2560/90', '-Q', '100', '-r', '60.0', '-S']
+2025-02-02T16:33:12.432995+0800 INFO minicap connection takes a long time, please be patient.
+2025-02-02T16:33:12.432995+0800 INFO minicap starting by 3s
+2025-02-02T16:33:13.433193+0800 INFO minicap starting by 2s
+2025-02-02T16:33:14.433364+0800 INFO minicap starting by 1s
+2025-02-02T16:33:15.434326+0800 INFO 成功连接到 127.0.0.1:24660
+2025-02-02T16:33:15.437294+0800 INFO 线程已启动
+2025-02-02T16:34:03.446423+0800 INFO {
+    "id": 0,
+    "width": 2560,
+    "height": 1440,
+    "xdpi": 360.00,
+    "ydpi": 360.00,
+    "size": 10.06,
+    "density": 2.25,
+    "fps": 60.00,
+    "secure": true,
+    "rotation": 90
+}
+2025-02-02T16:34:03.468662+0800 INFO ['F:\\python_project\\Strange_ideas\\Arknights\\adb\\platform-tools\\adb.EXE', '-s', '127.0.0.1:16384', 'shell', 'LD_LIBRARY_PATH=/data/local/tmp', '/data/local/tmp/minicap', '-P', '1440x2560@1440x2560/90', '-Q', '100', '-r', '60.0', '-S']
+2025-02-02T16:34:03.482050+0800 INFO minicap connection takes a long time, please be patient.
+2025-02-02T16:34:03.483033+0800 INFO minicap starting by 3s
+2025-02-02T16:34:04.485383+0800 INFO minicap starting by 2s
+2025-02-02T16:34:05.485616+0800 INFO minicap starting by 1s
+2025-02-02T16:34:06.486585+0800 INFO 成功连接到 127.0.0.1:24660
+2025-02-02T16:34:06.486585+0800 INFO 线程已启动
+2025-02-02T16:34:06.487597+0800 INFO banner {'version': 1, 'length': 24, 'pid': 4475, 'realWidth': 1440, 'realHeight': 2560, 'virtualWidth': 1440, 'virtualHeight': 2560, 'orientation': 90, 'quirks': 2}
+2025-02-02T16:34:06.907681+0800 INFO 图片已保存至：F:\python_project\Strange_ideas\AutoSnapManager\AutoSnapManager/resource/temp/MiniCap_2025_02_02_163403.png
+2025-02-02T16:49:03.672524+0800 INFO {
+    "id": 0,
+    "width": 2560,
+    "height": 1440,
+    "xdpi": 360.00,
+    "ydpi": 360.00,
+    "size": 10.06,
+    "density": 2.25,
+    "fps": 60.00,
+    "secure": true,
+    "rotation": 90
+}
+2025-02-02T16:49:03.696890+0800 INFO ['F:\\python_project\\Strange_ideas\\Arknights\\adb\\platform-tools\\adb.EXE', '-s', '127.0.0.1:16384', 'shell', 'LD_LIBRARY_PATH=/data/local/tmp', '/data/local/tmp/minicap', '-P', '1440x2560@1440x2560/90', '-Q', '100', '-r', '60.0', '-S']
+2025-02-02T16:49:03.710671+0800 INFO minicap connection takes a long time, please be patient.
+2025-02-02T16:49:03.710671+0800 INFO minicap starting by 3s
+2025-02-02T16:49:04.711703+0800 INFO minicap starting by 2s
+2025-02-02T16:49:05.712533+0800 INFO minicap starting by 1s
+2025-02-02T16:49:06.713431+0800 INFO 成功连接到 127.0.0.1:24660
+2025-02-02T16:49:06.713431+0800 INFO 线程已启动
+2025-02-02T16:52:09.530021+0800 INFO {
+    "id": 0,
+    "width": 2560,
+    "height": 1440,
+    "xdpi": 360.00,
+    "ydpi": 360.00,
+    "size": 10.06,
+    "density": 2.25,
+    "fps": 60.00,
+    "secure": true,
+    "rotation": 90
+}
+2025-02-02T16:52:09.551529+0800 INFO ['F:\\python_project\\Strange_ideas\\Arknights\\adb\\platform-tools\\adb.EXE', '-s', '127.0.0.1:16384', 'shell', 'LD_LIBRARY_PATH=/data/local/tmp', '/data/local/tmp/minicap', '-P', '1440x2560@1440x2560/90', '-Q', '100', '-r', '60.0', '-S']
+2025-02-02T16:52:09.562513+0800 INFO minicap connection takes a long time, please be patient.
+2025-02-02T16:52:09.562513+0800 INFO minicap starting by 3s
+2025-02-02T16:52:10.563033+0800 INFO minicap starting by 2s
+2025-02-02T16:52:11.563975+0800 INFO minicap starting by 1s
+2025-02-02T16:52:12.564856+0800 INFO 成功连接到 127.0.0.1:24660
+2025-02-02T16:52:12.565883+0800 INFO 线程已启动
+2025-02-02T16:52:12.566859+0800 INFO banner {'version': 1, 'length': 24, 'pid': 4627, 'realWidth': 1440, 'realHeight': 2560, 'virtualWidth': 1440, 'virtualHeight': 2560, 'orientation': 90, 'quirks': 2}
+2025-02-02T16:52:12.982052+0800 INFO 图片已保存至：F:\python_project\Strange_ideas\AutoSnapManager\AutoSnapManager/resource/temp/MiniCap_2025_02_02_165209.png
+2025-02-02T16:56:08.584682+0800 INFO {
+    "id": 0,
+    "width": 2560,
+    "height": 1440,
+    "xdpi": 360.00,
+    "ydpi": 360.00,
+    "size": 10.06,
+    "density": 2.25,
+    "fps": 60.00,
+    "secure": true,
+    "rotation": 90
+}
+2025-02-02T16:56:08.603538+0800 INFO ['F:\\python_project\\Strange_ideas\\Arknights\\adb\\platform-tools\\adb.EXE', '-s', '127.0.0.1:16384', 'shell', 'LD_LIBRARY_PATH=/data/local/tmp', '/data/local/tmp/minicap', '-P', '1440x2560@1440x2560/90', '-Q', '100', '-r', '60.0', '-S']
+2025-02-02T16:56:08.616763+0800 INFO minicap connection takes a long time, please be patient.
+2025-02-02T16:56:08.616763+0800 INFO minicap starting by 3s
+2025-02-02T16:56:09.618548+0800 INFO minicap starting by 2s
+2025-02-02T16:56:10.618757+0800 INFO minicap starting by 1s
+2025-02-02T16:56:11.618843+0800 INFO 成功连接到 127.0.0.1:24660
+2025-02-02T16:56:11.619819+0800 INFO 线程已启动
+2025-02-02T16:56:11.621777+0800 INFO banner {'version': 1, 'length': 24, 'pid': 4680, 'realWidth': 1440, 'realHeight': 2560, 'virtualWidth': 1440, 'virtualHeight': 2560, 'orientation': 90, 'quirks': 2}
+2025-02-02T16:56:12.052467+0800 INFO 图片已保存至：F:\python_project\Strange_ideas\AutoSnapManager\AutoSnapManager/resource/temp/MiniCap_2025_02_02_165608.png
+2025-02-02T16:58:28.332967+0800 INFO {
+    "id": 0,
+    "width": 2560,
+    "height": 1440,
+    "xdpi": 360.00,
+    "ydpi": 360.00,
+    "size": 10.06,
+    "density": 2.25,
+    "fps": 60.00,
+    "secure": true,
+    "rotation": 90
+}
+2025-02-02T16:58:28.348644+0800 INFO ['F:\\python_project\\Strange_ideas\\Arknights\\adb\\platform-tools\\adb.EXE', '-s', '127.0.0.1:16384', 'shell', 'LD_LIBRARY_PATH=/data/local/tmp', '/data/local/tmp/minicap', '-P', '1440x2560@1440x2560/90', '-Q', '100', '-r', '60.0', '-S']
+2025-02-02T16:58:28.359900+0800 INFO minicap connection takes a long time, please be patient.
+2025-02-02T16:58:28.359900+0800 INFO minicap starting by 3s
+2025-02-02T16:58:29.360763+0800 INFO minicap starting by 2s
+2025-02-02T16:58:30.361530+0800 INFO minicap starting by 1s
+2025-02-02T16:58:31.372727+0800 INFO 成功连接到 127.0.0.1:24660
+2025-02-02T16:58:31.372727+0800 INFO 线程已启动
+2025-02-02T16:58:31.372727+0800 INFO banner {'version': 1, 'length': 24, 'pid': 4727, 'realWidth': 1440, 'realHeight': 2560, 'virtualWidth': 1440, 'virtualHeight': 2560, 'orientation': 90, 'quirks': 2}
+2025-02-02T16:58:31.794480+0800 INFO 图片已保存至：F:\python_project\Strange_ideas\AutoSnapManager\AutoSnapManager/resource/temp/MiniCap_2025_02_02_165828.png
+2025-02-02T16:58:44.476626+0800 INFO {
+    "id": 0,
+    "width": 2560,
+    "height": 1440,
+    "xdpi": 360.00,
+    "ydpi": 360.00,
+    "size": 10.06,
+    "density": 2.25,
+    "fps": 60.00,
+    "secure": true,
+    "rotation": 90
+}
+2025-02-02T16:58:44.496768+0800 INFO ['F:\\python_project\\Strange_ideas\\Arknights\\adb\\platform-tools\\adb.EXE', '-s', '127.0.0.1:16384', 'shell', 'LD_LIBRARY_PATH=/data/local/tmp', '/data/local/tmp/minicap', '-P', '1440x2560@1440x2560/90', '-Q', '100', '-r', '60.0', '-S']
+2025-02-02T16:58:44.506405+0800 INFO minicap connection takes a long time, please be patient.
+2025-02-02T16:58:44.506405+0800 INFO minicap starting by 3s
+2025-02-02T16:58:45.506468+0800 INFO minicap starting by 2s
+2025-02-02T16:58:46.506504+0800 INFO minicap starting by 1s
+2025-02-02T16:58:47.517864+0800 INFO 成功连接到 127.0.0.1:24660
+2025-02-02T16:58:47.518368+0800 INFO 线程已启动
+2025-02-02T16:58:47.518368+0800 INFO banner {'version': 1, 'length': 24, 'pid': 4761, 'realWidth': 1440, 'realHeight': 2560, 'virtualWidth': 1440, 'virtualHeight': 2560, 'orientation': 90, 'quirks': 2}
+2025-02-02T16:58:47.948838+0800 INFO 图片已保存至：F:\python_project\Strange_ideas\AutoSnapManager\AutoSnapManager/resource/temp/MiniCap_2025_02_02_165844.png
+2025-02-02T16:59:35.229284+0800 INFO {
+    "id": 0,
+    "width": 2560,
+    "height": 1440,
+    "xdpi": 360.00,
+    "ydpi": 360.00,
+    "size": 10.06,
+    "density": 2.25,
+    "fps": 60.00,
+    "secure": true,
+    "rotation": 90
+}
+2025-02-02T16:59:35.240657+0800 INFO ['F:\\python_project\\Strange_ideas\\Arknights\\adb\\platform-tools\\adb.EXE', '-s', '127.0.0.1:16384', 'shell', 'LD_LIBRARY_PATH=/data/local/tmp', '/data/local/tmp/minicap', '-P', '1440x2560@1440x2560/90', '-Q', '100', '-r', '60.0', '-S']
+2025-02-02T16:59:35.252582+0800 INFO minicap connection takes a long time, please be patient.
+2025-02-02T16:59:35.253559+0800 INFO minicap starting by 3s
+2025-02-02T16:59:36.253740+0800 INFO minicap starting by 2s
+2025-02-02T16:59:37.253957+0800 INFO minicap starting by 1s
+2025-02-02T16:59:38.255969+0800 INFO 成功连接到 127.0.0.1:24660
+2025-02-02T16:59:38.255969+0800 INFO 线程已启动
+2025-02-02T16:59:38.256943+0800 INFO banner {'version': 1, 'length': 24, 'pid': 4795, 'realWidth': 1440, 'realHeight': 2560, 'virtualWidth': 1440, 'virtualHeight': 2560, 'orientation': 90, 'quirks': 2}
+2025-02-02T16:59:38.367789+0800 DEBUG 获取图像数据超时，返回缓存图像
+2025-02-02T16:59:38.583631+0800 INFO 图片已保存至：F:\python_project\Strange_ideas\AutoSnapManager\AutoSnapManager/resource/temp/MiniCap_2025_02_02_165935.png
+2025-02-02T17:13:18.202635+0800 INFO {
+    "id": 0,
+    "width": 2560,
+    "height": 1440,
+    "xdpi": 360.00,
+    "ydpi": 360.00,
+    "size": 10.06,
+    "density": 2.25,
+    "fps": 60.00,
+    "secure": true,
+    "rotation": 90
+}
+2025-02-02T17:13:18.223513+0800 INFO ['F:\\python_project\\Strange_ideas\\Arknights\\adb\\platform-tools\\adb.EXE', '-s', '127.0.0.1:16384', 'shell', 'LD_LIBRARY_PATH=/data/local/tmp', '/data/local/tmp/minicap', '-P', '1440x2560@1440x2560/90', '-Q', '100', '-r', '60.0', '-S']
+2025-02-02T17:13:18.235499+0800 INFO minicap connection takes a long time, please be patient.
+2025-02-02T17:13:18.235499+0800 INFO minicap starting by 3s
+2025-02-02T17:13:19.236498+0800 INFO minicap starting by 2s
+2025-02-02T17:13:20.236666+0800 INFO minicap starting by 1s
+2025-02-02T17:13:21.247176+0800 INFO 成功连接到 127.0.0.1:24660
+2025-02-02T17:13:21.248183+0800 INFO 线程已启动
+2025-02-02T17:13:21.248183+0800 INFO banner {'version': 1, 'length': 24, 'pid': 4903, 'realWidth': 1440, 'realHeight': 2560, 'virtualWidth': 1440, 'virtualHeight': 2560, 'orientation': 90, 'quirks': 2}
+2025-02-02T17:13:21.707777+0800 INFO 图片已保存至：F:\python_project\Strange_ideas\AutoSnapManager\AutoSnapManager/resource/temp/MiniCap_2025_02_02_171318.png
+2025-02-02T20:14:41.854465+0800 INFO {
+    "id": 0,
+    "width": 2560,
+    "height": 1440,
+    "xdpi": 360.00,
+    "ydpi": 360.00,
+    "size": 10.06,
+    "density": 2.25,
+    "fps": 60.00,
+    "secure": true,
+    "rotation": 90
+}
+2025-02-02T20:14:41.855009+0800 INFO info {'id': 0, 'width': 2560, 'height': 1440, 'xdpi': 360.0, 'ydpi': 360.0, 'size': 10.06, 'density': 2.25, 'fps': 60.0, 'secure': True, 'rotation': 90}
+2025-02-02T20:18:51.840971+0800 INFO {
+    "id": 0,
+    "width": 2560,
+    "height": 1440,
+    "xdpi": 360.00,
+    "ydpi": 360.00,
+    "size": 10.06,
+    "density": 2.25,
+    "fps": 60.00,
+    "secure": true,
+    "rotation": 90
+}
+2025-02-02T20:18:51.934298+0800 INFO ['F:\\python_project\\Strange_ideas\\Arknights\\adb\\platform-tools\\adb.EXE', '-s', '127.0.0.1:16384', 'shell', 'LD_LIBRARY_PATH=/data/local/tmp', '/data/local/tmp/minicap', '-P', '1440x2560@1440x2560/90', '-Q', '100', '-r', 'None', '-S']
+2025-02-02T20:18:51.946205+0800 INFO minicap connection takes a long time, please be patient.
+2025-02-02T20:18:51.946205+0800 INFO minicap starting by 3s
+2025-02-02T20:18:52.946505+0800 INFO minicap starting by 2s
+2025-02-02T20:18:53.947405+0800 INFO minicap starting by 1s
+2025-02-02T20:18:54.959472+0800 INFO 已连接到 127.0.0.1:24660
+2025-02-02T20:18:54.959472+0800 INFO 数据流处理线程已启动
+2025-02-02T20:20:00.580293+0800 INFO {
+    "id": 0,
+    "width": 2560,
+    "height": 1440,
+    "xdpi": 360.00,
+    "ydpi": 360.00,
+    "size": 10.06,
+    "density": 2.25,
+    "fps": 60.00,
+    "secure": true,
+    "rotation": 90
+}
+2025-02-02T20:21:47.243572+0800 INFO {
+    "id": 0,
+    "width": 2560,
+    "height": 1440,
+    "xdpi": 360.00,
+    "ydpi": 360.00,
+    "size": 10.06,
+    "density": 2.25,
+    "fps": 60.00,
+    "secure": true,
+    "rotation": 90
+}
+2025-02-02T20:21:47.343346+0800 INFO ['F:\\python_project\\Strange_ideas\\Arknights\\adb\\platform-tools\\adb.EXE', '-s', '127.0.0.1:16384', 'shell', 'LD_LIBRARY_PATH=/data/local/tmp', '/data/local/tmp/minicap', '-P', '1440x2560@1440x2560/90', '-Q', '100', '-r', 'None', '-S', '0']
+2025-02-02T20:21:47.354157+0800 INFO minicap connection takes a long time, please be patient.
+2025-02-02T20:21:47.354157+0800 INFO minicap starting by 3s
+2025-02-02T20:21:48.354650+0800 INFO minicap starting by 2s
+2025-02-02T20:21:49.355298+0800 INFO minicap starting by 1s
+2025-02-02T20:21:50.377317+0800 INFO 已连接到 127.0.0.1:24660
+2025-02-02T20:21:50.377317+0800 INFO 数据流处理线程已启动
+2025-02-02T20:22:15.289527+0800 INFO {
+    "id": 0,
+    "width": 2560,
+    "height": 1440,
+    "xdpi": 360.00,
+    "ydpi": 360.00,
+    "size": 10.06,
+    "density": 2.25,
+    "fps": 60.00,
+    "secure": true,
+    "rotation": 90
+}
+2025-02-02T20:22:15.362664+0800 INFO ['F:\\python_project\\Strange_ideas\\Arknights\\adb\\platform-tools\\adb.EXE', '-s', '127.0.0.1:16384', 'shell', 'LD_LIBRARY_PATH=/data/local/tmp', '/data/local/tmp/minicap', '-P', '1440x2560@1440x2560/90', '-Q', '100', '-r', 'None', '-S', '0']
+2025-02-02T20:22:15.378476+0800 INFO minicap connection takes a long time, please be patient.
+2025-02-02T20:22:15.378476+0800 INFO minicap starting by 3s
+2025-02-02T20:22:16.380375+0800 INFO minicap starting by 2s
+2025-02-02T20:22:17.381317+0800 INFO minicap starting by 1s
+2025-02-02T20:22:28.728115+0800 INFO {
+    "id": 0,
+    "width": 2560,
+    "height": 1440,
+    "xdpi": 360.00,
+    "ydpi": 360.00,
+    "size": 10.06,
+    "density": 2.25,
+    "fps": 60.00,
+    "secure": true,
+    "rotation": 90
+}
+2025-02-02T20:22:28.820321+0800 INFO ['F:\\python_project\\Strange_ideas\\Arknights\\adb\\platform-tools\\adb.EXE', '-s', '127.0.0.1:16384', 'shell', 'LD_LIBRARY_PATH=/data/local/tmp', '/data/local/tmp/minicap', '-P', '1440x2560@1440x2560/90', '-Q', '100', '-r', 'None', '-S', '0']
+2025-02-02T20:22:28.834372+0800 INFO minicap connection takes a long time, please be patient.
+2025-02-02T20:22:28.835349+0800 INFO minicap starting by 3s
+2025-02-02T20:22:29.835371+0800 INFO minicap starting by 2s
+2025-02-02T20:22:30.836368+0800 INFO minicap starting by 1s
+2025-02-02T20:22:31.858376+0800 INFO 已连接到 127.0.0.1:24660
+2025-02-02T20:22:31.859354+0800 INFO 数据流处理线程已启动
+2025-02-02T20:25:07.900429+0800 INFO {
+    "id": 0,
+    "width": 2560,
+    "height": 1440,
+    "xdpi": 360.00,
+    "ydpi": 360.00,
+    "size": 10.06,
+    "density": 2.25,
+    "fps": 60.00,
+    "secure": true,
+    "rotation": 90
+}
+2025-02-02T20:25:07.965609+0800 INFO ['F:\\python_project\\Strange_ideas\\Arknights\\adb\\platform-tools\\adb.EXE', '-s', '127.0.0.1:16384', 'shell', 'LD_LIBRARY_PATH=/data/local/tmp', '/data/local/tmp/minicap', '-P', '1440x2560@1440x2560/90', '-Q', '100', '-r', 'None', '-S', '0']
+2025-02-02T20:25:07.975327+0800 INFO minicap connection takes a long time, please be patient.
+2025-02-02T20:25:07.975327+0800 INFO minicap starting by 3s
+2025-02-02T20:25:08.975523+0800 INFO minicap starting by 2s
+2025-02-02T20:25:09.975567+0800 INFO minicap starting by 1s
+2025-02-02T20:25:10.987614+0800 INFO 已连接到 127.0.0.1:24660
+2025-02-02T20:25:10.987614+0800 INFO 数据流处理线程已启动
+2025-02-02T20:25:51.846360+0800 INFO {
+    "id": 0,
+    "width": 2560,
+    "height": 1440,
+    "xdpi": 360.00,
+    "ydpi": 360.00,
+    "size": 10.06,
+    "density": 2.25,
+    "fps": 60.00,
+    "secure": true,
+    "rotation": 90
+}
+2025-02-02T20:25:51.929654+0800 INFO ['F:\\python_project\\Strange_ideas\\Arknights\\adb\\platform-tools\\adb.EXE', '-s', '127.0.0.1:16384', 'shell', 'LD_LIBRARY_PATH=/data/local/tmp', '/data/local/tmp/minicap', '-P', '1440x2560@1440x2560/90', '-Q', '100', '-r', 'None', '-S', '0']
+2025-02-02T20:25:51.940529+0800 INFO minicap connection takes a long time, please be patient.
+2025-02-02T20:25:51.940529+0800 INFO minicap starting by 3s
+2025-02-02T20:25:52.940547+0800 INFO minicap starting by 2s
+2025-02-02T20:25:53.940554+0800 INFO minicap starting by 1s
+2025-02-02T20:25:54.963560+0800 INFO 已连接到 127.0.0.1:24660
+2025-02-02T20:25:54.963560+0800 INFO 数据流处理线程已启动
+2025-02-02T20:26:17.722256+0800 INFO {
+    "id": 0,
+    "width": 2560,
+    "height": 1440,
+    "xdpi": 360.00,
+    "ydpi": 360.00,
+    "size": 10.06,
+    "density": 2.25,
+    "fps": 60.00,
+    "secure": true,
+    "rotation": 90
+}
+2025-02-02T20:26:17.807438+0800 INFO ['F:\\python_project\\Strange_ideas\\Arknights\\adb\\platform-tools\\adb.EXE', '-s', '127.0.0.1:16384', 'shell', 'LD_LIBRARY_PATH=/data/local/tmp', '/data/local/tmp/minicap', '-P', '1440x2560@1440x2560/90', '-Q', '100', '-r', 'None', '-S', '0']
+2025-02-02T20:26:17.818754+0800 INFO minicap connection takes a long time, please be patient.
+2025-02-02T20:26:17.818754+0800 INFO minicap starting by 3s
+2025-02-02T20:26:18.819407+0800 INFO minicap starting by 2s
+2025-02-02T20:26:19.820349+0800 INFO minicap starting by 1s
+2025-02-02T20:26:20.822075+0800 INFO 已连接到 127.0.0.1:24660
+2025-02-02T20:26:20.822075+0800 INFO 数据流处理线程已启动
+2025-02-02T20:27:04.651650+0800 INFO {
+    "id": 0,
+    "width": 2560,
+    "height": 1440,
+    "xdpi": 360.00,
+    "ydpi": 360.00,
+    "size": 10.06,
+    "density": 2.25,
+    "fps": 60.00,
+    "secure": true,
+    "rotation": 90
+}
+2025-02-02T20:27:04.730403+0800 INFO ['F:\\python_project\\Strange_ideas\\Arknights\\adb\\platform-tools\\adb.EXE', '-s', '127.0.0.1:16384', 'shell', 'LD_LIBRARY_PATH=/data/local/tmp', '/data/local/tmp/minicap', '-P', '1440x2560@1440x2560/90', '-Q', '100', '-r', 'None', '-S', '0']
+2025-02-02T20:27:04.741501+0800 INFO minicap connection takes a long time, please be patient.
+2025-02-02T20:27:04.742477+0800 INFO minicap starting by 3s
+2025-02-02T20:27:05.742720+0800 INFO minicap starting by 2s
+2025-02-02T20:27:06.743462+0800 INFO minicap starting by 1s
+2025-02-02T20:27:07.755588+0800 INFO 已连接到 127.0.0.1:24660
+2025-02-02T20:27:07.756538+0800 INFO 数据流处理线程已启动
+2025-02-02T20:27:43.635376+0800 INFO {
+    "id": 0,
+    "width": 2560,
+    "height": 1440,
+    "xdpi": 360.00,
+    "ydpi": 360.00,
+    "size": 10.06,
+    "density": 2.25,
+    "fps": 60.00,
+    "secure": true,
+    "rotation": 90
+}
+2025-02-02T20:27:43.761588+0800 INFO ['F:\\python_project\\Strange_ideas\\Arknights\\adb\\platform-tools\\adb.EXE', '-s', '127.0.0.1:16384', 'shell', 'LD_LIBRARY_PATH=/data/local/tmp', '/data/local/tmp/minicap', '-P', '1440x2560@1440x2560/90', '-Q', '100', '-r', 'None', '-S', '0']
+2025-02-02T20:27:43.773134+0800 INFO minicap connection takes a long time, please be patient.
+2025-02-02T20:27:43.773134+0800 INFO minicap starting by 3s
+2025-02-02T20:27:44.773917+0800 INFO minicap starting by 2s
+2025-02-02T20:27:45.774498+0800 INFO minicap starting by 1s
+2025-02-02T20:27:46.787700+0800 INFO 已连接到 127.0.0.1:24660
+2025-02-02T20:27:46.787700+0800 INFO 数据流处理线程已启动
+2025-02-02T20:28:02.688406+0800 INFO {
+    "id": 0,
+    "width": 2560,
+    "height": 1440,
+    "xdpi": 360.00,
+    "ydpi": 360.00,
+    "size": 10.06,
+    "density": 2.25,
+    "fps": 60.00,
+    "secure": true,
+    "rotation": 90
+}
+2025-02-02T20:28:02.787682+0800 INFO ['F:\\python_project\\Strange_ideas\\Arknights\\adb\\platform-tools\\adb.EXE', '-s', '127.0.0.1:16384', 'shell', 'LD_LIBRARY_PATH=/data/local/tmp', '/data/local/tmp/minicap', '-P', '1440x2560@1440x2560/90', '-Q', '100', '-r', 'None', '-S', '0']
+2025-02-02T20:28:02.801506+0800 INFO minicap connection takes a long time, please be patient.
+2025-02-02T20:28:02.801506+0800 INFO minicap starting by 3s
+2025-02-02T20:28:03.801534+0800 INFO minicap starting by 2s
+2025-02-02T20:28:04.801679+0800 INFO minicap starting by 1s
+2025-02-02T20:28:05.802530+0800 INFO 已连接到 127.0.0.1:24660
+2025-02-02T20:28:05.803827+0800 INFO 数据流处理线程已启动
+2025-02-02T20:28:43.027648+0800 INFO {
+    "id": 0,
+    "width": 2560,
+    "height": 1440,
+    "xdpi": 360.00,
+    "ydpi": 360.00,
+    "size": 10.06,
+    "density": 2.25,
+    "fps": 60.00,
+    "secure": true,
+    "rotation": 90
+}
+2025-02-02T20:28:43.096306+0800 INFO ['F:\\python_project\\Strange_ideas\\Arknights\\adb\\platform-tools\\adb.EXE', '-s', '127.0.0.1:16384', 'shell', 'LD_LIBRARY_PATH=/data/local/tmp', '/data/local/tmp/minicap', '-P', '1440x2560@1440x2560/90', '-Q', '100', '-r', 'None', '-S', '0']
+2025-02-02T20:28:43.108478+0800 INFO minicap connection takes a long time, please be patient.
+2025-02-02T20:28:43.108478+0800 INFO minicap starting by 3s
+2025-02-02T20:28:44.109235+0800 INFO minicap starting by 2s
+2025-02-02T20:28:45.109721+0800 INFO minicap starting by 1s
+2025-02-02T20:28:46.111488+0800 INFO 已连接到 127.0.0.1:24660
+2025-02-02T20:28:46.111488+0800 INFO 数据流处理线程已启动
+2025-02-02T20:28:46.112463+0800 ERROR 未读取到线程数据流
+2025-02-02T20:29:12.606634+0800 INFO {
+    "id": 0,
+    "width": 2560,
+    "height": 1440,
+    "xdpi": 360.00,
+    "ydpi": 360.00,
+    "size": 10.06,
+    "density": 2.25,
+    "fps": 60.00,
+    "secure": true,
+    "rotation": 90
+}
+2025-02-02T20:29:12.694382+0800 INFO ['F:\\python_project\\Strange_ideas\\Arknights\\adb\\platform-tools\\adb.EXE', '-s', '127.0.0.1:16384', 'shell', 'LD_LIBRARY_PATH=/data/local/tmp', '/data/local/tmp/minicap', '-P', '1440x2560@1440x2560/90', '-Q', '100', '-r', 'None', '-S', '0']
+2025-02-02T20:29:12.705705+0800 INFO minicap connection takes a long time, please be patient.
+2025-02-02T20:29:12.705705+0800 INFO minicap starting by 3s
+2025-02-02T20:29:13.707640+0800 INFO minicap starting by 2s
+2025-02-02T20:29:14.707668+0800 INFO minicap starting by 1s
+2025-02-02T20:29:15.709532+0800 INFO 已连接到 127.0.0.1:24660
+2025-02-02T20:29:15.710537+0800 INFO 数据流处理线程已启动
+2025-02-02T20:29:15.711519+0800 ERROR 未读取到线程数据流
+2025-02-02T20:29:27.745648+0800 INFO {
+    "id": 0,
+    "width": 2560,
+    "height": 1440,
+    "xdpi": 360.00,
+    "ydpi": 360.00,
+    "size": 10.06,
+    "density": 2.25,
+    "fps": 60.00,
+    "secure": true,
+    "rotation": 90
+}
+2025-02-02T20:29:27.820572+0800 INFO ['F:\\python_project\\Strange_ideas\\Arknights\\adb\\platform-tools\\adb.EXE', '-s', '127.0.0.1:16384', 'shell', 'LD_LIBRARY_PATH=/data/local/tmp', '/data/local/tmp/minicap', '-P', '1440x2560@1440x2560/90', '-Q', '100', '-r', 'None', '-S', '0']
+2025-02-02T20:29:27.834324+0800 INFO minicap connection takes a long time, please be patient.
+2025-02-02T20:29:27.834324+0800 INFO minicap starting by 3s
+2025-02-02T20:29:28.835262+0800 INFO minicap starting by 2s
+2025-02-02T20:29:29.835643+0800 INFO minicap starting by 1s
+2025-02-02T20:29:30.846691+0800 INFO 已连接到 127.0.0.1:24660
+2025-02-02T20:29:30.847702+0800 INFO 数据流处理线程已启动
+2025-02-02T20:29:30.847702+0800 ERROR 未读取到线程数据流
+2025-02-02T20:29:54.458567+0800 INFO {
+    "id": 0,
+    "width": 2560,
+    "height": 1440,
+    "xdpi": 360.00,
+    "ydpi": 360.00,
+    "size": 10.06,
+    "density": 2.25,
+    "fps": 60.00,
+    "secure": true,
+    "rotation": 90
+}
+2025-02-02T20:29:54.521520+0800 INFO ['F:\\python_project\\Strange_ideas\\Arknights\\adb\\platform-tools\\adb.EXE', '-s', '127.0.0.1:16384', 'shell', 'LD_LIBRARY_PATH=/data/local/tmp', '/data/local/tmp/minicap', '-P', '1440x2560@1440x2560/90', '-Q', '100', '-r', 'None', '-S', '0']
+2025-02-02T20:29:54.533967+0800 INFO minicap connection takes a long time, please be patient.
+2025-02-02T20:29:54.533967+0800 INFO minicap starting by 3s
+2025-02-02T20:29:55.534804+0800 INFO minicap starting by 2s
+2025-02-02T20:29:56.535372+0800 INFO minicap starting by 1s
+2025-02-02T20:29:57.547737+0800 INFO 已连接到 127.0.0.1:24660
+2025-02-02T20:29:57.547737+0800 INFO 数据流处理线程已启动
+2025-02-02T21:50:15.751974+0800 INFO {
+    "id": 0,
+    "width": 2560,
+    "height": 1440,
+    "xdpi": 360.00,
+    "ydpi": 360.00,
+    "size": 10.06,
+    "density": 2.25,
+    "fps": 60.00,
+    "secure": true,
+    "rotation": 90
+}
+2025-02-02T21:50:15.828712+0800 INFO ['F:\\python_project\\Strange_ideas\\Arknights\\adb\\platform-tools\\adb.EXE', '-s', '127.0.0.1:16384', 'shell', 'LD_LIBRARY_PATH=/data/local/tmp', '/data/local/tmp/minicap', '-P', '1440x2560@1440x2560/90', '-Q', '100', '-r', 'None', '-S', '0']
+2025-02-02T21:50:15.839535+0800 INFO minicap connection takes a long time, please be patient.
+2025-02-02T21:50:15.839535+0800 INFO minicap starting by 3s
+2025-02-02T21:50:16.840123+0800 INFO minicap starting by 2s
+2025-02-02T21:50:17.840348+0800 INFO minicap starting by 1s
+2025-02-02T21:50:18.842850+0800 INFO 已连接到 127.0.0.1:24660
+2025-02-02T21:50:18.842850+0800 INFO 数据流处理线程已启动
+2025-02-02T21:50:18.843831+0800 ERROR 未读取到线程数据流
+2025-02-02T21:52:01.150483+0800 INFO {
+    "id": 0,
+    "width": 2560,
+    "height": 1440,
+    "xdpi": 360.00,
+    "ydpi": 360.00,
+    "size": 10.06,
+    "density": 2.25,
+    "fps": 60.00,
+    "secure": true,
+    "rotation": 90
+}
+2025-02-02T21:52:01.252765+0800 INFO ['F:\\python_project\\Strange_ideas\\Arknights\\adb\\platform-tools\\adb.EXE', '-s', '127.0.0.1:16384', 'shell', 'LD_LIBRARY_PATH=/data/local/tmp', '/data/local/tmp/minicap', '-P', '1440x2560@1440x2560/90', '-Q', '100', '-r', 'None', '-S', '0']
+2025-02-02T21:52:01.263535+0800 INFO minicap connection takes a long time, please be patient.
+2025-02-02T21:52:01.263535+0800 INFO minicap starting by 3s
+2025-02-02T21:52:02.264432+0800 INFO minicap starting by 2s
+2025-02-02T21:52:03.264600+0800 INFO minicap starting by 1s
+2025-02-02T21:52:04.286515+0800 INFO 已连接到 127.0.0.1:24660
+2025-02-02T21:52:04.287463+0800 INFO 数据流处理线程已启动
+2025-02-02T21:52:04.287463+0800 ERROR 未读取到线程数据流
+2025-02-02T21:52:44.640286+0800 INFO {
+    "id": 0,
+    "width": 2560,
+    "height": 1440,
+    "xdpi": 360.00,
+    "ydpi": 360.00,
+    "size": 10.06,
+    "density": 2.25,
+    "fps": 60.00,
+    "secure": true,
+    "rotation": 90
+}
+2025-02-02T21:52:44.698686+0800 INFO ['F:\\python_project\\Strange_ideas\\Arknights\\adb\\platform-tools\\adb.EXE', '-s', '127.0.0.1:16384', 'shell', 'LD_LIBRARY_PATH=/data/local/tmp', '/data/local/tmp/minicap', '-P', '1440x2560@1440x2560/90', '-Q', '100', '-r', 'None', '-S', '0']
+2025-02-02T21:52:44.712527+0800 INFO minicap connection takes a long time, please be patient.
+2025-02-02T21:52:44.712527+0800 INFO minicap starting by 3s
+2025-02-02T21:52:45.712542+0800 INFO minicap starting by 2s
+2025-02-02T21:52:46.712725+0800 INFO minicap starting by 1s
+2025-02-02T21:52:47.713417+0800 INFO 已连接到 127.0.0.1:24660
+2025-02-02T21:52:47.713417+0800 INFO 数据流处理线程已启动
+2025-02-02T21:52:47.714805+0800 ERROR 未读取到线程数据流
+2025-02-02T21:53:02.930421+0800 INFO {
+    "id": 0,
+    "width": 2560,
+    "height": 1440,
+    "xdpi": 360.00,
+    "ydpi": 360.00,
+    "size": 10.06,
+    "density": 2.25,
+    "fps": 60.00,
+    "secure": true,
+    "rotation": 90
+}
+2025-02-02T21:53:03.029223+0800 INFO ['F:\\python_project\\Strange_ideas\\Arknights\\adb\\platform-tools\\adb.EXE', '-s', '127.0.0.1:16384', 'shell', 'LD_LIBRARY_PATH=/data/local/tmp', '/data/local/tmp/minicap', '-P', '1440x2560@1440x2560/90', '-Q', '100', '-r', 'None', '-S', '0']
+2025-02-02T21:53:03.054530+0800 INFO minicap connection takes a long time, please be patient.
+2025-02-02T21:53:03.054530+0800 INFO minicap starting by 3s
+2025-02-02T21:53:04.054737+0800 INFO minicap starting by 2s
+2025-02-02T21:53:05.054863+0800 INFO minicap starting by 1s
+2025-02-02T21:53:06.066573+0800 INFO 已连接到 127.0.0.1:24660
+2025-02-02T21:53:06.067548+0800 INFO 数据流处理线程已启动
+2025-02-02T21:53:06.067548+0800 ERROR 未读取到线程数据流
+2025-02-02T21:53:28.745173+0800 INFO {
+    "id": 0,
+    "width": 2560,
+    "height": 1440,
+    "xdpi": 360.00,
+    "ydpi": 360.00,
+    "size": 10.06,
+    "density": 2.25,
+    "fps": 60.00,
+    "secure": true,
+    "rotation": 90
+}
+2025-02-02T21:53:28.812833+0800 INFO ['F:\\python_project\\Strange_ideas\\Arknights\\adb\\platform-tools\\adb.EXE', '-s', '127.0.0.1:16384', 'shell', 'LD_LIBRARY_PATH=/data/local/tmp', '/data/local/tmp/minicap', '-P', '1440x2560@1440x2560/90', '-Q', '100', '-r', 'None', '-S', '0']
+2025-02-02T21:53:28.826013+0800 INFO minicap connection takes a long time, please be patient.
+2025-02-02T21:53:28.826990+0800 INFO minicap starting by 3s
+2025-02-02T21:53:29.827950+0800 INFO minicap starting by 2s
+2025-02-02T21:53:30.828415+0800 INFO minicap starting by 1s
+2025-02-02T21:53:31.840817+0800 INFO 已连接到 127.0.0.1:24660
+2025-02-02T21:53:31.841826+0800 INFO 数据流处理线程已启动
+2025-02-02T21:53:31.841826+0800 ERROR 未读取到线程数据流
+2025-02-02T22:06:02.683600+0800 INFO {
+    "id": 0,
+    "width": 2560,
+    "height": 1440,
+    "xdpi": 360.00,
+    "ydpi": 360.00,
+    "size": 10.06,
+    "density": 2.25,
+    "fps": 60.00,
+    "secure": true,
+    "rotation": 90
+}
+2025-02-02T22:06:02.785559+0800 INFO ['F:\\python_project\\Strange_ideas\\Arknights\\adb\\platform-tools\\adb.EXE', '-s', '127.0.0.1:16384', 'shell', 'LD_LIBRARY_PATH=/data/local/tmp', '/data/local/tmp/minicap', '-P', '1440x2560@1440x2560/90', '-Q', '100', '-r', 'None', '-S']
+2025-02-02T22:06:02.795442+0800 INFO minicap connection takes a long time, please be patient.
+2025-02-02T22:06:02.795442+0800 INFO minicap starting by 3s
+2025-02-02T22:06:03.797307+0800 INFO minicap starting by 2s
+2025-02-02T22:06:04.797805+0800 INFO minicap starting by 1s
+2025-02-02T22:06:05.810521+0800 INFO 已连接到 127.0.0.1:24660
+2025-02-02T22:06:05.810521+0800 ERROR 未读取到线程数据流
+2025-02-02T22:06:05.810521+0800 INFO 数据流处理线程已启动
+2025-02-02T22:10:16.025478+0800 INFO {
+    "id": 0,
+    "width": 2560,
+    "height": 1440,
+    "xdpi": 360.00,
+    "ydpi": 360.00,
+    "size": 10.06,
+    "density": 2.25,
+    "fps": 60.00,
+    "secure": true,
+    "rotation": 90
+}
+2025-02-02T22:10:16.120534+0800 INFO ['F:\\python_project\\Strange_ideas\\Arknights\\adb\\platform-tools\\adb.EXE', '-s', '127.0.0.1:16384', 'shell', 'LD_LIBRARY_PATH=/data/local/tmp', '/data/local/tmp/minicap', '-P', '1440x2560@1440x2560/90', '-Q', '100', '-r', '60.0', '-S']
+2025-02-02T22:10:16.129330+0800 INFO minicap connection takes a long time, please be patient.
+2025-02-02T22:10:16.129330+0800 INFO minicap starting by 3s
+2025-02-02T22:10:17.130594+0800 INFO minicap starting by 2s
+2025-02-02T22:10:18.131667+0800 INFO minicap starting by 1s
+2025-02-02T22:10:19.143578+0800 INFO 已连接到 127.0.0.1:24660
+2025-02-02T22:10:19.144527+0800 INFO 数据流处理线程已启动
+2025-02-02T22:10:19.146476+0800 INFO banner {'version': 1, 'length': 24, 'pid': 7005, 'realWidth': 1440, 'realHeight': 2560, 'virtualWidth': 1440, 'virtualHeight': 2560, 'orientation': 90, 'quirks': 2}
+2025-02-02T22:10:19.579092+0800 INFO 图片已保存至：F:\python_project\Strange_ideas\AutoSnapManager\AutoSnapManager/resource/temp/MiniCap_2025_02_02_221015.png
+2025-02-02T22:23:13.194748+0800 INFO {
+    "id": 0,
+    "width": 2560,
+    "height": 1440,
+    "xdpi": 360.00,
+    "ydpi": 360.00,
+    "size": 10.06,
+    "density": 2.25,
+    "fps": 60.00,
+    "secure": true,
+    "rotation": 90
+}
+2025-02-02T22:23:13.278489+0800 INFO ['F:\\python_project\\Strange_ideas\\Arknights\\adb\\platform-tools\\adb.EXE', '-s', '127.0.0.1:16384', 'shell', 'LD_LIBRARY_PATH=/data/local/tmp', '/data/local/tmp/minicap', '-P', 'None@None/90', '-Q', '100', '-r', '60.0', '-S']
+2025-02-02T22:23:13.290868+0800 INFO minicap connection takes a long time, please be patient.
+2025-02-02T22:23:13.291872+0800 INFO minicap starting by 3s
+2025-02-02T22:23:14.292576+0800 INFO minicap starting by 2s
+2025-02-02T22:23:15.293481+0800 INFO minicap starting by 1s
+2025-02-02T22:23:16.293748+0800 INFO 已连接到 127.0.0.1:24660
+2025-02-02T22:23:16.294724+0800 INFO 数据流处理线程已启动
+2025-02-02T22:23:16.294724+0800 ERROR 未读取到线程数据流
+2025-02-02T22:25:48.159116+0800 INFO {
+    "id": 0,
+    "width": 2560,
+    "height": 1440,
+    "xdpi": 360.00,
+    "ydpi": 360.00,
+    "size": 10.06,
+    "density": 2.25,
+    "fps": 60.00,
+    "secure": true,
+    "rotation": 90
+}
+2025-02-02T22:25:48.215126+0800 INFO ['F:\\python_project\\Strange_ideas\\Arknights\\adb\\platform-tools\\adb.EXE', '-s', '127.0.0.1:16384', 'shell', 'LD_LIBRARY_PATH=/data/local/tmp', '/data/local/tmp/minicap', '-P', '2560x1440@2560x1440/90', '-Q', '100', '-r', '60.0', '-S']
+2025-02-02T22:25:48.227490+0800 INFO minicap connection takes a long time, please be patient.
+2025-02-02T22:25:48.227490+0800 INFO minicap starting by 3s
+2025-02-02T22:25:49.227528+0800 INFO minicap starting by 2s
+2025-02-02T22:25:50.227678+0800 INFO minicap starting by 1s
+2025-02-02T22:25:51.228294+0800 INFO 已连接到 127.0.0.1:24660
+2025-02-02T22:25:51.229512+0800 INFO 数据流处理线程已启动
+2025-02-02T22:25:51.229512+0800 INFO banner {'version': 1, 'length': 24, 'pid': 7127, 'realWidth': 2560, 'realHeight': 1440, 'virtualWidth': 2560, 'virtualHeight': 1440, 'orientation': 90, 'quirks': 2}
+2025-02-02T22:25:51.521687+0800 INFO 图片已保存至：F:\python_project\Strange_ideas\AutoSnapManager\AutoSnapManager/resource/temp/MiniCap_2025_02_02_222548.png
+2025-02-02T22:26:20.161731+0800 INFO {
+    "id": 0,
+    "width": 2560,
+    "height": 1440,
+    "xdpi": 360.00,
+    "ydpi": 360.00,
+    "size": 10.06,
+    "density": 2.25,
+    "fps": 60.00,
+    "secure": true,
+    "rotation": 90
+}
+2025-02-02T22:26:20.234456+0800 INFO ['F:\\python_project\\Strange_ideas\\Arknights\\adb\\platform-tools\\adb.EXE', '-s', '127.0.0.1:16384', 'shell', 'LD_LIBRARY_PATH=/data/local/tmp', '/data/local/tmp/minicap', '-P', '2560x1440@2560x1440/90', '-Q', '100', '-r', '60.0', '-S']
+2025-02-02T22:26:20.246760+0800 INFO minicap connection takes a long time, please be patient.
+2025-02-02T22:26:20.246760+0800 INFO minicap starting by 3s
+2025-02-02T22:26:21.247550+0800 INFO minicap starting by 2s
+2025-02-02T22:26:22.248638+0800 INFO minicap starting by 1s
+2025-02-02T22:26:23.259618+0800 INFO 已连接到 127.0.0.1:24660
+2025-02-02T22:26:23.259618+0800 INFO 数据流处理线程已启动
+2025-02-02T22:26:23.259618+0800 INFO banner {'version': 1, 'length': 24, 'pid': 7156, 'realWidth': 2560, 'realHeight': 1440, 'virtualWidth': 2560, 'virtualHeight': 1440, 'orientation': 90, 'quirks': 2}
+2025-02-02T22:26:23.528513+0800 INFO 图片已保存至：F:\python_project\Strange_ideas\AutoSnapManager\AutoSnapManager/resource/temp/MiniCap_2025_02_02_222620.png
+2025-02-02T22:27:15.691787+0800 INFO {
+    "id": 0,
+    "width": 2560,
+    "height": 1440,
+    "xdpi": 360.00,
+    "ydpi": 360.00,
+    "size": 10.06,
+    "density": 2.25,
+    "fps": 60.00,
+    "secure": true,
+    "rotation": 90
+}
+2025-02-02T22:27:15.776671+0800 INFO ['F:\\python_project\\Strange_ideas\\Arknights\\adb\\platform-tools\\adb.EXE', '-s', '127.0.0.1:16384', 'shell', 'LD_LIBRARY_PATH=/data/local/tmp', '/data/local/tmp/minicap', '-P', '1440x2560@1440x2560/90', '-Q', '100', '-r', '60.0', '-S']
+2025-02-02T22:27:15.789529+0800 INFO minicap connection takes a long time, please be patient.
+2025-02-02T22:27:15.789529+0800 INFO minicap starting by 3s
+2025-02-02T22:27:16.790455+0800 INFO minicap starting by 2s
+2025-02-02T22:27:17.790813+0800 INFO minicap starting by 1s
+2025-02-02T22:27:18.791659+0800 INFO 已连接到 127.0.0.1:24660
+2025-02-02T22:27:18.792688+0800 INFO 数据流处理线程已启动
+2025-02-02T22:27:18.793510+0800 INFO banner {'version': 1, 'length': 24, 'pid': 7194, 'realWidth': 1440, 'realHeight': 2560, 'virtualWidth': 1440, 'virtualHeight': 2560, 'orientation': 90, 'quirks': 2}
+2025-02-02T22:27:19.244108+0800 INFO 图片已保存至：F:\python_project\Strange_ideas\AutoSnapManager\AutoSnapManager/resource/temp/MiniCap_2025_02_02_222715.png
+2025-02-02T22:28:24.807241+0800 INFO {
+    "id": 0,
+    "width": 2560,
+    "height": 1440,
+    "xdpi": 360.00,
+    "ydpi": 360.00,
+    "size": 10.06,
+    "density": 2.25,
+    "fps": 60.00,
+    "secure": true,
+    "rotation": 90
+}
+2025-02-02T22:28:24.876453+0800 INFO ['F:\\python_project\\Strange_ideas\\Arknights\\adb\\platform-tools\\adb.EXE', '-s', '127.0.0.1:16384', 'shell', 'LD_LIBRARY_PATH=/data/local/tmp', '/data/local/tmp/minicap', '-P', '1440x2560@1440x2560/90', '-Q', '100', '-r', '60.0', '-S']
+2025-02-02T22:28:24.887395+0800 INFO minicap connection takes a long time, please be patient.
+2025-02-02T22:28:24.887395+0800 INFO minicap starting by 3s
+2025-02-02T22:28:25.887577+0800 INFO minicap starting by 2s
+2025-02-02T22:28:26.888150+0800 INFO minicap starting by 1s
+2025-02-02T22:28:27.888592+0800 INFO 已连接到 127.0.0.1:24660
+2025-02-02T22:28:27.889568+0800 INFO 数据流处理线程已启动
+2025-02-02T22:28:27.889568+0800 INFO banner {'version': 1, 'length': 24, 'pid': 7224, 'realWidth': 1440, 'realHeight': 2560, 'virtualWidth': 1440, 'virtualHeight': 2560, 'orientation': 90, 'quirks': 2}
+2025-02-02T22:28:28.290758+0800 INFO 图片已保存至：F:\python_project\Strange_ideas\AutoSnapManager\AutoSnapManager/resource/temp/MiniCap_2025_02_02_222824.png
+2025-02-02T22:28:28.291765+0800 INFO 正在停止数据流
+2025-02-02T22:28:28.292792+0800 INFO Socket已关闭
+2025-02-02T22:30:09.179657+0800 INFO {
+    "id": 0,
+    "width": 2560,
+    "height": 1440,
+    "xdpi": 360.00,
+    "ydpi": 360.00,
+    "size": 10.06,
+    "density": 2.25,
+    "fps": 60.00,
+    "secure": true,
+    "rotation": 90
+}
+2025-02-02T22:30:09.246552+0800 INFO ['F:\\python_project\\Strange_ideas\\Arknights\\adb\\platform-tools\\adb.EXE', '-s', '127.0.0.1:16384', 'shell', 'LD_LIBRARY_PATH=/data/local/tmp', '/data/local/tmp/minicap', '-P', '1440x2560@1440x2560/90', '-Q', '100', '-r', '60.0', '-S']
+2025-02-02T22:30:09.257436+0800 INFO minicap connection takes a long time, please be patient.
+2025-02-02T22:30:09.257436+0800 INFO minicap starting by 3s
+2025-02-02T22:30:10.257627+0800 INFO minicap starting by 2s
+2025-02-02T22:30:11.257646+0800 INFO minicap starting by 1s
+2025-02-02T22:30:12.268623+0800 INFO 已连接到 127.0.0.1:24660
+2025-02-02T22:30:12.269572+0800 INFO 数据流处理线程已启动
+2025-02-02T22:30:12.269572+0800 INFO banner {'version': 1, 'length': 24, 'pid': 7254, 'realWidth': 1440, 'realHeight': 2560, 'virtualWidth': 1440, 'virtualHeight': 2560, 'orientation': 90, 'quirks': 2}
+2025-02-02T22:30:12.664404+0800 INFO 图片已保存至：F:\python_project\Strange_ideas\AutoSnapManager\AutoSnapManager/resource/temp/MiniCap_2025_02_02_223009.png
+2025-02-02T22:30:12.665395+0800 INFO 正在停止数据流
+2025-02-02T22:30:12.699239+0800 INFO Socket已关闭
+2025-02-02T22:32:18.676286+0800 INFO {
+    "id": 0,
+    "width": 2560,
+    "height": 1440,
+    "xdpi": 360.00,
+    "ydpi": 360.00,
+    "size": 10.06,
+    "density": 2.25,
+    "fps": 60.00,
+    "secure": true,
+    "rotation": 90
+}
+2025-02-02T22:32:18.740334+0800 INFO ['F:\\python_project\\Strange_ideas\\Arknights\\adb\\platform-tools\\adb.EXE', '-s', '127.0.0.1:16384', 'shell', 'LD_LIBRARY_PATH=/data/local/tmp', '/data/local/tmp/minicap', '-P', '1440x2560@1440x2560/90', '-Q', '100', '-r', '60.0']
+2025-02-02T22:32:18.752775+0800 INFO minicap starting by 3s
+2025-02-02T22:32:19.753525+0800 INFO minicap starting by 2s
+2025-02-02T22:32:20.754600+0800 INFO minicap starting by 1s
+2025-02-02T22:32:21.756526+0800 INFO 已连接到 127.0.0.1:24660
+2025-02-02T22:32:21.757571+0800 INFO 已启动数据流
+2025-02-02T22:32:21.757571+0800 INFO banner {'version': 1, 'length': 24, 'pid': 7292, 'realWidth': 1440, 'realHeight': 2560, 'virtualWidth': 1440, 'virtualHeight': 2560, 'orientation': 90, 'quirks': 2}
+2025-02-02T22:32:22.150716+0800 INFO 图片已保存至：F:\python_project\Strange_ideas\AutoSnapManager\AutoSnapManager/resource/temp/MiniCap_2025_02_02_223218.png
+2025-02-02T22:32:22.151724+0800 INFO 正在停止数据流
+2025-02-02T22:32:22.186462+0800 INFO Socket已关闭
+2025-02-02T22:39:47.317287+0800 INFO {
+    "id": 0,
+    "width": 2560,
+    "height": 1440,
+    "xdpi": 360.00,
+    "ydpi": 360.00,
+    "size": 10.06,
+    "density": 2.25,
+    "fps": 60.00,
+    "secure": true,
+    "rotation": 90
+}
+2025-02-02T22:39:47.374646+0800 INFO ['F:\\python_project\\Strange_ideas\\Arknights\\adb\\platform-tools\\adb.EXE', '-s', '127.0.0.1:16384', 'shell', 'LD_LIBRARY_PATH=/data/local/tmp', '/data/local/tmp/minicap', '-P', '1440x2560@1440x2560/90', '-Q', '100', '-r', '60.0', '-S', '1']
+2025-02-02T22:39:47.385599+0800 INFO minicap starting by 3s
+2025-02-02T22:39:48.385830+0800 INFO minicap starting by 2s
+2025-02-02T22:39:49.385966+0800 INFO minicap starting by 1s
+2025-02-02T22:39:50.387747+0800 INFO 已连接到 127.0.0.1:24660
+2025-02-02T22:39:50.388725+0800 INFO 已启动数据流
+2025-02-02T22:39:50.391681+0800 INFO banner {'version': 1, 'length': 24, 'pid': 7359, 'realWidth': 1440, 'realHeight': 2560, 'virtualWidth': 1440, 'virtualHeight': 2560, 'orientation': 90, 'quirks': 2}
+2025-02-02T22:39:50.776754+0800 INFO 图片已保存至：F:\python_project\Strange_ideas\AutoSnapManager\AutoSnapManager/resource/temp/MiniCap_2025_02_02_223947.png
+2025-02-02T22:39:50.777702+0800 INFO 正在停止数据流
+2025-02-02T22:39:50.817688+0800 INFO Socket已关闭
+2025-02-02T22:40:02.420585+0800 INFO {
+    "id": 0,
+    "width": 2560,
+    "height": 1440,
+    "xdpi": 360.00,
+    "ydpi": 360.00,
+    "size": 10.06,
+    "density": 2.25,
+    "fps": 60.00,
+    "secure": true,
+    "rotation": 90
+}
+2025-02-02T22:40:02.477489+0800 INFO ['F:\\python_project\\Strange_ideas\\Arknights\\adb\\platform-tools\\adb.EXE', '-s', '127.0.0.1:16384', 'shell', 'LD_LIBRARY_PATH=/data/local/tmp', '/data/local/tmp/minicap', '-P', '1440x2560@1440x2560/90', '-Q', '100', '-r', '60.0', '-S', '10']
+2025-02-02T22:40:02.498659+0800 INFO minicap starting by 3s
+2025-02-02T22:40:03.500476+0800 INFO minicap starting by 2s
+2025-02-02T22:40:04.500645+0800 INFO minicap starting by 1s
+2025-02-02T22:40:05.502452+0800 INFO 已连接到 127.0.0.1:24660
+2025-02-02T22:40:05.503433+0800 INFO 已启动数据流
+2025-02-02T22:40:05.505385+0800 INFO banner {'version': 1, 'length': 24, 'pid': 7385, 'realWidth': 1440, 'realHeight': 2560, 'virtualWidth': 1440, 'virtualHeight': 2560, 'orientation': 90, 'quirks': 2}
+2025-02-02T22:40:05.887486+0800 INFO 图片已保存至：F:\python_project\Strange_ideas\AutoSnapManager\AutoSnapManager/resource/temp/MiniCap_2025_02_02_224002.png
+2025-02-02T22:40:05.888465+0800 INFO 正在停止数据流
+2025-02-02T22:40:05.919295+0800 INFO Socket已关闭
+2025-02-02T22:41:17.303599+0800 INFO {
+    "id": 0,
+    "width": 2560,
+    "height": 1440,
+    "xdpi": 360.00,
+    "ydpi": 360.00,
+    "size": 10.06,
+    "density": 2.25,
+    "fps": 60.00,
+    "secure": true,
+    "rotation": 90
+}
+2025-02-02T22:41:17.397294+0800 INFO ['F:\\python_project\\Strange_ideas\\Arknights\\adb\\platform-tools\\adb.EXE', '-s', '127.0.0.1:16384', 'shell', 'LD_LIBRARY_PATH=/data/local/tmp', '/data/local/tmp/minicap', '-P', '1440x2560@1440x2560/90', '-Q', '100', '-r', '60.0', '-S', '10']
+2025-02-02T22:41:17.410624+0800 INFO minicap starting by 3s
+2025-02-02T22:41:18.410694+0800 INFO minicap starting by 2s
+2025-02-02T22:41:19.410706+0800 INFO minicap starting by 1s
+2025-02-02T22:41:20.422861+0800 INFO 已连接到 127.0.0.1:24660
+2025-02-02T22:41:20.423807+0800 INFO 已启动数据流
+2025-02-02T22:41:20.424819+0800 INFO banner {'version': 1, 'length': 24, 'pid': 7416, 'realWidth': 1440, 'realHeight': 2560, 'virtualWidth': 1440, 'virtualHeight': 2560, 'orientation': 90, 'quirks': 2}
+2025-02-02T22:41:20.819409+0800 INFO 图片已保存至：F:\python_project\Strange_ideas\AutoSnapManager\AutoSnapManager/resource/temp/MiniCap_2025_02_02_224117.png
+2025-02-02T22:41:21.070800+0800 INFO 图片已保存至：F:\python_project\Strange_ideas\AutoSnapManager\AutoSnapManager/resource/temp/MiniCap_2025_02_02_224117.png
+2025-02-02T22:41:21.255265+0800 INFO 图片已保存至：F:\python_project\Strange_ideas\AutoSnapManager\AutoSnapManager/resource/temp/MiniCap_2025_02_02_224117.png
+2025-02-02T22:41:21.446613+0800 INFO 图片已保存至：F:\python_project\Strange_ideas\AutoSnapManager\AutoSnapManager/resource/temp/MiniCap_2025_02_02_224117.png
+2025-02-02T22:41:21.656230+0800 INFO 图片已保存至：F:\python_project\Strange_ideas\AutoSnapManager\AutoSnapManager/resource/temp/MiniCap_2025_02_02_224117.png
+2025-02-02T22:41:21.657206+0800 INFO 正在停止数据流
+2025-02-02T22:41:21.659157+0800 INFO Socket已关闭
+2025-02-02T22:41:47.772019+0800 INFO {
+    "id": 0,
+    "width": 2560,
+    "height": 1440,
+    "xdpi": 360.00,
+    "ydpi": 360.00,
+    "size": 10.06,
+    "density": 2.25,
+    "fps": 60.00,
+    "secure": true,
+    "rotation": 90
+}
+2025-02-02T22:41:47.831639+0800 INFO ['F:\\python_project\\Strange_ideas\\Arknights\\adb\\platform-tools\\adb.EXE', '-s', '127.0.0.1:16384', 'shell', 'LD_LIBRARY_PATH=/data/local/tmp', '/data/local/tmp/minicap', '-P', '1440x2560@1440x2560/90', '-Q', '100', '-r', '60.0', '-S', '60']
+2025-02-02T22:41:47.844473+0800 INFO minicap starting by 3s
+2025-02-02T22:41:48.845343+0800 INFO minicap starting by 2s
+2025-02-02T22:41:49.845459+0800 INFO minicap starting by 1s
+2025-02-02T22:41:50.856575+0800 INFO 已连接到 127.0.0.1:24660
+2025-02-02T22:41:50.857557+0800 INFO 已启动数据流
+2025-02-02T22:41:50.858562+0800 INFO banner {'version': 1, 'length': 24, 'pid': 7447, 'realWidth': 1440, 'realHeight': 2560, 'virtualWidth': 1440, 'virtualHeight': 2560, 'orientation': 90, 'quirks': 2}
+2025-02-02T22:41:51.244341+0800 INFO 图片已保存至：F:\python_project\Strange_ideas\AutoSnapManager\AutoSnapManager/resource/temp/MiniCap_2025_02_02_224147.png
+2025-02-02T22:41:51.515613+0800 INFO 图片已保存至：F:\python_project\Strange_ideas\AutoSnapManager\AutoSnapManager/resource/temp/MiniCap_2025_02_02_224147.png
+2025-02-02T22:41:51.714095+0800 INFO 图片已保存至：F:\python_project\Strange_ideas\AutoSnapManager\AutoSnapManager/resource/temp/MiniCap_2025_02_02_224147.png
+2025-02-02T22:41:51.905866+0800 INFO 图片已保存至：F:\python_project\Strange_ideas\AutoSnapManager\AutoSnapManager/resource/temp/MiniCap_2025_02_02_224147.png
+2025-02-02T22:41:52.089290+0800 INFO 图片已保存至：F:\python_project\Strange_ideas\AutoSnapManager\AutoSnapManager/resource/temp/MiniCap_2025_02_02_224147.png
+2025-02-02T22:41:52.090269+0800 INFO 正在停止数据流
+2025-02-02T22:41:52.096764+0800 INFO Socket已关闭
+2025-02-02T22:42:01.290619+0800 INFO {
+    "id": 0,
+    "width": 2560,
+    "height": 1440,
+    "xdpi": 360.00,
+    "ydpi": 360.00,
+    "size": 10.06,
+    "density": 2.25,
+    "fps": 60.00,
+    "secure": true,
+    "rotation": 90
+}
+2025-02-02T22:42:01.371894+0800 INFO ['F:\\python_project\\Strange_ideas\\Arknights\\adb\\platform-tools\\adb.EXE', '-s', '127.0.0.1:16384', 'shell', 'LD_LIBRARY_PATH=/data/local/tmp', '/data/local/tmp/minicap', '-P', '1440x2560@1440x2560/90', '-Q', '100', '-r', '60.0', '-S', '500']
+2025-02-02T22:42:01.382918+0800 INFO minicap starting by 3s
+2025-02-02T22:42:02.383565+0800 INFO minicap starting by 2s
+2025-02-02T22:42:03.384162+0800 INFO minicap starting by 1s
+2025-02-02T22:42:04.395807+0800 INFO 已连接到 127.0.0.1:24660
+2025-02-02T22:42:04.396755+0800 INFO 已启动数据流
+2025-02-02T22:42:04.396755+0800 INFO banner {'version': 1, 'length': 24, 'pid': 7473, 'realWidth': 1440, 'realHeight': 2560, 'virtualWidth': 1440, 'virtualHeight': 2560, 'orientation': 90, 'quirks': 2}
+2025-02-02T22:42:04.799287+0800 INFO 图片已保存至：F:\python_project\Strange_ideas\AutoSnapManager\AutoSnapManager/resource/temp/MiniCap_2025_02_02_224201.png
+2025-02-02T22:42:05.072655+0800 INFO 图片已保存至：F:\python_project\Strange_ideas\AutoSnapManager\AutoSnapManager/resource/temp/MiniCap_2025_02_02_224201.png
+2025-02-02T22:42:05.283354+0800 INFO 图片已保存至：F:\python_project\Strange_ideas\AutoSnapManager\AutoSnapManager/resource/temp/MiniCap_2025_02_02_224201.png
+2025-02-02T22:42:05.471645+0800 INFO 图片已保存至：F:\python_project\Strange_ideas\AutoSnapManager\AutoSnapManager/resource/temp/MiniCap_2025_02_02_224201.png
+2025-02-02T22:42:05.687305+0800 INFO 图片已保存至：F:\python_project\Strange_ideas\AutoSnapManager\AutoSnapManager/resource/temp/MiniCap_2025_02_02_224201.png
+2025-02-02T22:42:05.688280+0800 INFO 正在停止数据流
+2025-02-02T22:42:05.689258+0800 INFO Socket已关闭
+2025-02-02T23:43:03.825769+0800 INFO 设备信息: {"id": 0, "width": 2560, "height": 1440, "xdpi": 360.0, "ydpi": 360.0, "size": 10.06, "density": 2.25, "fps": 60.0, "secure": true, "rotation": 90}
+2025-02-02T23:43:03.933567+0800 INFO MiniCap 安装完成
+2025-02-02T23:43:03.933567+0800 INFO 启动命令: F:\python_project\Strange_ideas\Arknights\adb\platform-tools\adb.EXE -s 127.0.0.1:16384 shell LD_LIBRARY_PATH=/data/local/tmp /data/local/tmp/minicap -P 1440x2560@1440x2560/90 -Q 100 -r 60.0 -S
+2025-02-02T23:43:03.947409+0800 INFO minicap启动中: 3秒
+2025-02-02T23:43:04.947737+0800 INFO minicap启动中: 2秒
+2025-02-02T23:43:05.948376+0800 INFO minicap启动中: 1秒
+2025-02-02T23:43:06.970312+0800 INFO 已连接到 127.0.0.1:24660
+2025-02-02T23:43:06.970312+0800 INFO 数据流已启动
+2025-02-02T23:43:06.970312+0800 INFO banner {'version': 1, 'length': 24, 'pid': 7813, 'realWidth': 1440, 'realHeight': 2560, 'virtualWidth': 1440, 'virtualHeight': 2560, 'orientation': 90, 'quirks': 2}
+2025-02-02T23:43:07.352735+0800 INFO 图片已保存至：F:\python_project\Strange_ideas\AutoSnapManager\AutoSnapManager/resource/temp/MiniCap_2025_02_02_234303.png
+2025-02-02T23:43:07.353717+0800 INFO 正在停止数据流
+2025-02-02T23:43:07.403443+0800 INFO Socket已关闭
+2025-02-02T23:43:07.405502+0800 INFO MiniCap 资源清理完成
+2025-02-02T23:43:43.315740+0800 INFO 设备信息: {"id": 0, "width": 2560, "height": 1440, "xdpi": 360.0, "ydpi": 360.0, "size": 10.06, "density": 2.25, "fps": 60.0, "secure": true, "rotation": 90}
+2025-02-02T23:43:43.401760+0800 INFO 启动命令: F:\python_project\Strange_ideas\Arknights\adb\platform-tools\adb.EXE -s 127.0.0.1:16384 shell LD_LIBRARY_PATH=/data/local/tmp /data/local/tmp/minicap -P 1440x2560@1440x2560/90 -Q 100 -r 60.0 -S
+2025-02-02T23:43:43.412799+0800 INFO minicap启动中: 3秒
+2025-02-02T23:43:44.414532+0800 INFO minicap启动中: 2秒
+2025-02-02T23:43:45.414883+0800 INFO minicap启动中: 1秒
+2025-02-02T23:43:46.428545+0800 INFO 已连接到 127.0.0.1:24660
+2025-02-02T23:43:46.429525+0800 INFO 数据流已启动
+2025-02-02T23:43:46.430495+0800 INFO banner {'version': 1, 'length': 24, 'pid': 7842, 'realWidth': 1440, 'realHeight': 2560, 'virtualWidth': 1440, 'virtualHeight': 2560, 'orientation': 90, 'quirks': 2}
+2025-02-02T23:43:46.783620+0800 INFO 图片已保存至：F:\python_project\Strange_ideas\AutoSnapManager\AutoSnapManager/resource/temp/MiniCap_2025_02_02_234343.png
+2025-02-02T23:43:46.784675+0800 INFO 正在停止数据流
+2025-02-02T23:43:46.785652+0800 INFO Socket已关闭
+2025-02-02T23:43:46.788089+0800 INFO MiniCap 资源清理完成
+2025-02-02T23:44:17.321980+0800 INFO 设备信息: {'id': 0, 'width': 2560, 'height': 1440, 'xdpi': 360.0, 'ydpi': 360.0, 'size': 10.06, 'density': 2.25, 'fps': 60.0, 'secure': True, 'rotation': 90}
+2025-02-02T23:44:17.400584+0800 INFO 启动命令: F:\python_project\Strange_ideas\Arknights\adb\platform-tools\adb.EXE -s 127.0.0.1:16384 shell LD_LIBRARY_PATH=/data/local/tmp /data/local/tmp/minicap -P 1440x2560@1440x2560/90 -Q 100 -r 60.0 -S
+2025-02-02T23:44:17.413492+0800 INFO minicap启动中: 3秒
+2025-02-02T23:44:18.413515+0800 INFO minicap启动中: 2秒
+2025-02-02T23:44:19.413695+0800 INFO minicap启动中: 1秒
+2025-02-02T23:44:20.437357+0800 INFO 已连接到 127.0.0.1:24660
+2025-02-02T23:44:20.437357+0800 INFO banner {'version': 1, 'length': 24, 'pid': 7873, 'realWidth': 1440, 'realHeight': 2560, 'virtualWidth': 1440, 'virtualHeight': 2560, 'orientation': 90, 'quirks': 2}
+2025-02-02T23:44:20.437357+0800 INFO 数据流已启动
+2025-02-02T23:44:20.789069+0800 INFO 图片已保存至：F:\python_project\Strange_ideas\AutoSnapManager\AutoSnapManager/resource/temp/MiniCap_2025_02_02_234417.png
+2025-02-02T23:44:20.790040+0800 INFO 正在停止数据流
+2025-02-02T23:44:20.809542+0800 INFO Socket已关闭
+2025-02-02T23:44:20.810520+0800 INFO MiniCap 资源清理完成
+2025-02-02T23:44:29.127402+0800 ERROR 资源清理过程中出错: 'MiniCap' object has no attribute '_stream'
+2025-02-02T23:44:39.902549+0800 ERROR 资源清理过程中出错: 'MiniCap' object has no attribute '_stream'
+2025-02-02T23:45:27.110283+0800 INFO 设备信息: {
+    "id": 0,
+    "width": 2560,
+    "height": 1440,
+    "xdpi": 360.00,
+    "ydpi": 360.00,
+    "size": 10.06,
+    "density": 2.25,
+    "fps": 60.00,
+    "secure": true,
+    "rotation": 90
+}
+2025-02-02T23:45:27.197781+0800 INFO 启动命令: F:\python_project\Strange_ideas\Arknights\adb\platform-tools\adb.EXE -s 127.0.0.1:16384 shell LD_LIBRARY_PATH=/data/local/tmp /data/local/tmp/minicap -P 1440x2560@1440x2560/90 -Q 100 -r 60.0 -S
+2025-02-02T23:45:27.211704+0800 INFO minicap启动中: 3秒
+2025-02-02T23:45:28.212826+0800 INFO minicap启动中: 2秒
+2025-02-02T23:45:29.213698+0800 INFO minicap启动中: 1秒
+2025-02-02T23:45:30.224844+0800 INFO 已连接到 127.0.0.1:24660
+2025-02-02T23:45:30.224844+0800 INFO 数据流已启动
+2025-02-02T23:45:30.225821+0800 INFO banner {'version': 1, 'length': 24, 'pid': 7922, 'realWidth': 1440, 'realHeight': 2560, 'virtualWidth': 1440, 'virtualHeight': 2560, 'orientation': 90, 'quirks': 2}
+2025-02-02T23:45:30.565489+0800 INFO 图片已保存至：F:\python_project\Strange_ideas\AutoSnapManager\AutoSnapManager/resource/temp/MiniCap_2025_02_02_234527.png
+2025-02-02T23:45:30.565489+0800 INFO 正在停止数据流
+2025-02-02T23:45:30.593498+0800 INFO Socket已关闭
+2025-02-02T23:45:30.595475+0800 INFO MiniCap 资源清理完成
+2025-02-02T23:46:46.061623+0800 INFO 设备信息: {
+    "id": 0,
+    "width": 2560,
+    "height": 1440,
+    "xdpi": 360.00,
+    "ydpi": 360.00,
+    "size": 10.06,
+    "density": 2.25,
+    "fps": 60.00,
+    "secure": true,
+    "rotation": 90
+}
+2025-02-02T23:46:46.151744+0800 INFO 启动命令: F:\python_project\Strange_ideas\Arknights\adb\platform-tools\adb.EXE -s 127.0.0.1:16384 shell LD_LIBRARY_PATH=/data/local/tmp /data/local/tmp/minicap -P 1440x2560@1440x2560/90 -Q 100 -r 60.0 -S
+2025-02-02T23:46:46.206232+0800 INFO minicap启动中: 3秒
+2025-02-02T23:46:47.207159+0800 INFO minicap启动中: 2秒
+2025-02-02T23:46:48.207554+0800 INFO minicap启动中: 1秒
+2025-02-02T23:46:49.229489+0800 INFO 已连接到 127.0.0.1:24660
+2025-02-02T23:46:49.229489+0800 INFO 数据流已启动
+2025-02-02T23:46:49.229489+0800 INFO banner {'version': 1, 'length': 24, 'pid': 7951, 'realWidth': 1440, 'realHeight': 2560, 'virtualWidth': 1440, 'virtualHeight': 2560, 'orientation': 90, 'quirks': 2}
+2025-02-02T23:46:49.580086+0800 INFO 图片已保存至：F:\python_project\Strange_ideas\AutoSnapManager\AutoSnapManager/resource/temp/MiniCap_2025_02_02_234646.png
+2025-02-02T23:46:49.580086+0800 INFO 正在停止数据流
+2025-02-02T23:46:49.604355+0800 INFO Socket已关闭
+2025-02-02T23:46:49.606308+0800 INFO MiniCap 资源清理完成
+2025-02-02T23:47:52.016646+0800 INFO 设备信息: {
+    "id": 0,
+    "width": 2560,
+    "height": 1440,
+    "xdpi": 360.00,
+    "ydpi": 360.00,
+    "size": 10.06,
+    "density": 2.25,
+    "fps": 60.00,
+    "secure": true,
+    "rotation": 90
+}
+2025-02-02T23:47:52.078797+0800 INFO 启动命令: F:\python_project\Strange_ideas\Arknights\adb\platform-tools\adb.EXE -s 127.0.0.1:16384 shell LD_LIBRARY_PATH=/data/local/tmp /data/local/tmp/minicap -P 1440x2560@1440x2560/90 -Q 100 -r 60.0 -S
+2025-02-02T23:47:52.090663+0800 INFO minicap启动中: 3秒
+2025-02-02T23:47:53.092779+0800 INFO minicap启动中: 2秒
+2025-02-02T23:47:54.093485+0800 INFO minicap启动中: 1秒
+2025-02-02T23:47:55.105944+0800 INFO 已连接到 127.0.0.1:24660
+2025-02-02T23:47:55.106922+0800 INFO 数据流已启动
+2025-02-02T23:47:55.108875+0800 INFO banner {'version': 1, 'length': 24, 'pid': 7988, 'realWidth': 1440, 'realHeight': 2560, 'virtualWidth': 1440, 'virtualHeight': 2560, 'orientation': 90, 'quirks': 2}
+2025-02-02T23:47:55.459552+0800 INFO 图片已保存至：F:\python_project\Strange_ideas\AutoSnapManager\AutoSnapManager/resource/temp/MiniCap_2025_02_02_234751.png
+2025-02-02T23:47:55.460528+0800 INFO 正在停止数据流
+2025-02-02T23:47:55.477487+0800 INFO Socket已关闭
+2025-02-02T23:47:55.478463+0800 INFO MiniCap 资源清理完成
+2025-02-02T23:58:34.750389+0800 INFO 设备信息: {
+    "id": 0,
+    "width": 2560,
+    "height": 1440,
+    "xdpi": 360.00,
+    "ydpi": 360.00,
+    "size": 10.06,
+    "density": 2.25,
+    "fps": 60.00,
+    "secure": true,
+    "rotation": 90
+}
+2025-02-02T23:58:34.836373+0800 INFO 启动命令: F:\python_project\Strange_ideas\Arknights\adb\platform-tools\adb.EXE -s 127.0.0.1:16384 shell LD_LIBRARY_PATH=/data/local/tmp /data/local/tmp/minicap -P 1440x2560@1440x2560/90 -Q 100 -r 60.0 -S
+2025-02-02T23:58:34.847801+0800 INFO minicap启动中: 3秒
+2025-02-02T23:58:35.849394+0800 INFO minicap启动中: 2秒
+2025-02-02T23:58:36.849970+0800 INFO minicap启动中: 1秒
+2025-02-02T23:58:37.862548+0800 INFO 已连接到 127.0.0.1:24660
+2025-02-02T23:58:37.862548+0800 INFO 数据流已启动
+2025-02-02T23:58:38.192473+0800 INFO 图片已保存至：F:\python_project\Strange_ideas\AutoSnapManager\AutoSnapManager/resource/temp/MiniCap_2025_02_02_235834.png
+2025-02-02T23:58:38.192473+0800 INFO 正在停止数据流
+2025-02-02T23:58:38.237667+0800 INFO Socket已关闭
+2025-02-02T23:58:38.238643+0800 INFO MiniCap 资源清理完成
+2025-02-02T23:59:44.569549+0800 INFO 设备信息: {
+    "id": 0,
+    "width": 2560,
+    "height": 1440,
+    "xdpi": 360.00,
+    "ydpi": 360.00,
+    "size": 10.06,
+    "density": 2.25,
+    "fps": 60.00,
+    "secure": true,
+    "rotation": 90
+}
+2025-02-02T23:59:44.640803+0800 INFO 启动命令: F:\python_project\Strange_ideas\Arknights\adb\platform-tools\adb.EXE -s 127.0.0.1:16384 shell LD_LIBRARY_PATH=/data/local/tmp /data/local/tmp/minicap -P 1440x2560@1440x2560/90 -Q 100 -r 60.0 -S
+2025-02-02T23:59:44.650044+0800 INFO minicap启动中: 3秒
+2025-02-02T23:59:45.650245+0800 INFO minicap启动中: 2秒
+2025-02-02T23:59:46.651779+0800 INFO minicap启动中: 1秒
+2025-02-02T23:59:47.652366+0800 INFO 已连接到 127.0.0.1:24660
+2025-02-02T23:59:47.652366+0800 INFO 数据流已启动
+2025-02-02T23:59:48.117421+0800 INFO 图片已保存至：F:\python_project\Strange_ideas\AutoSnapManager\AutoSnapManager/resource/temp/MiniCap_2025_02_02_235944.png
+2025-02-02T23:59:48.118397+0800 INFO 正在停止数据流
+2025-02-02T23:59:48.165400+0800 INFO Socket已关闭
+2025-02-02T23:59:48.167352+0800 INFO MiniCap 资源清理完成

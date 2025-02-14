@@ -46,9 +46,8 @@ dev = [
 autosnap = "asm.cli:main"
 
 [project.urls]
-Homepage = "https://github.com/yourusername/AutoSnapManager"
-Documentation = "https://your-docs-url.com"
-Repository = "https://github.com/yourusername/AutoSnapManager"
+Homepage = "https://github.com/kibo1313/AutoSnapManager"
+Repository = "https://github.com/kibo1313/AutoSnapManager"
 
 [tool.setuptools]
 package-dir = { "" = "asm" }

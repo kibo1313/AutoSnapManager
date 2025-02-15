@@ -3,10 +3,8 @@ from adbutils import adb_path
 from datetime import datetime
 
 WORK_DIR = os.path.dirname(__file__)
-PROJECT_DIR = os.path.dirname(os.path.dirname(WORK_DIR))
 
 NOW_TIME = datetime.now().strftime('%Y-%m-%d_%H_%M_%S')
-IMG_SAVE_PATH = f"{PROJECT_DIR}/resource/temp"
 
 # adb
 ADB_EXE = adb_path()
@@ -31,6 +29,6 @@ MINICAP_COMMAND = [
 ]
 
 if __name__ == "__main__":
-    from utils.print_config import print_config
+    from autosnapmanager.utils.print_config import print_config
 
     print_config()

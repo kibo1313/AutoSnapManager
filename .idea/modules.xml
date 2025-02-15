@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/AutoSnapManager.iml" filepath="$PROJECT_DIR$/.idea/AutoSnapManager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/autosnapmanager.iml" filepath="$PROJECT_DIR$/.idea/autosnapmanager.iml" />
     </modules>
   </component>
 </project>

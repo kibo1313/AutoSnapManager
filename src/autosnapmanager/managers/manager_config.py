@@ -27,7 +27,7 @@ class Clicks(StrEnum):
     PyAutoGui = 'pyautogui'
     Win32Api = 'win32api'
     Win32Gui = 'win32gui'
-    ADB = 'adb'
+    Adb = 'adb'
     MiniTouch = 'minitouch'
     MAATouch = 'maatouch'
 

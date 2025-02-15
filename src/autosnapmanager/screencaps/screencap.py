@@ -1,10 +1,11 @@
+import os
 from abc import ABC, abstractmethod
 import cv2
 import numpy as np
 from autosnapmanager.utils.process_file_tools import check_path
 from autosnapmanager.utils.process_image_tools import check_image_array
 from autosnapmanager.utils.logger import logger
-from autosnapmanager.screencaps.screencap_config import IMG_SAVE_PATH, NOW_TIME
+from autosnapmanager.screencaps.screencap_config import NOW_TIME
 
 
 class ScreenCap(ABC):
@@ -36,11 +37,11 @@ class ScreenCap(ABC):
             check_image_array(img, channels=3, dtype=np.uint8)
 
             if save_path is None:
-                save_path = IMG_SAVE_PATH
+                save_path = os.getcwd()
             check_path(save_path)
 
             img_bgr = cv2.cvtColor(img, cv2.COLOR_RGB2BGR)
-            save_filename = f"{save_path}/{self.class_name}_{NOW_TIME}.png"
+            save_filename = f"{save_path}\\{self.class_name}_{NOW_TIME}.png"
 
             logger.info(f"图片已保存至：{save_filename}") \
                 if cv2.imwrite(save_filename, img_bgr) \

@@ -67,7 +67,7 @@ class Win32ApiClick(Click):
 
 
 if __name__ == "__main__":
-    from utils.dpi_tools import set_dpi_awareness
+    from autosnapmanager.utils.dpi_tools import set_dpi_awareness
 
     # 设置DPI感知
     set_dpi_awareness()

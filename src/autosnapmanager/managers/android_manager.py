@@ -6,7 +6,7 @@ from adbutils import adb
 
 from autosnapmanager.actions.clicks.android.touch import Touch
 from autosnapmanager.managers.manager import Manager
-from autosnapmanager.managers.manager_config import System, ScreenCaps, Matches, Clicks
+from autosnapmanager.managers.manager_config import System, ScreenCaps, Matches, Clicks, DefaultArgs
 from autosnapmanager.matches.match import Match
 from autosnapmanager.screencaps.screencap import ScreenCap
 from autosnapmanager.utils.logger import logger
@@ -30,7 +30,11 @@ class AndroidManager(Manager):
         """
         logger.info(f"正在连接设备: {adb.connect(serial)}")
 
-        super().__init__(System.Android, serial, screencap, match, click)
+        for key in ['ScreenCap', 'Click']:
+            DefaultArgs[System.Android][key]['serial'] = serial
+
+        super().__init__(system=System.Android, param=DefaultArgs[System.Android], screencap=screencap, match=match,
+                         click=click)
 
         self.click_lock = Lock()
 

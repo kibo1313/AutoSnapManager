@@ -5,7 +5,7 @@ import numpy as np
 
 from autosnapmanager.actions.clicks.click import Click
 from autosnapmanager.managers.manager import Manager
-from autosnapmanager.managers.manager_config import System, ScreenCaps, Matches, Clicks
+from autosnapmanager.managers.manager_config import System, ScreenCaps, Matches, Clicks, DefaultArgs
 from autosnapmanager.matches.match import Match
 from autosnapmanager.screencaps.screencap import ScreenCap
 from autosnapmanager.utils.dpi_tools import set_dpi_awareness
@@ -29,7 +29,11 @@ class WindowsManager(Manager):
         """
         set_dpi_awareness()  # 设置DPI感知
 
-        super().__init__(System.Windows, window_name, screencap, match, click)
+        for key in ['ScreenCap', 'Click']:
+            DefaultArgs[System.Windows][key]['window_name'] = window_name
+
+        super().__init__(system=System.Windows, param=DefaultArgs[System.Windows], screencap=screencap, match=match,
+                         click=click)
 
         self.click_lock = Lock()
 
@@ -58,4 +62,4 @@ class WindowsManager(Manager):
 
 if __name__ == "__main__":
     win = WindowsManager()
-    win.screenshot()
+    # win.screenshot()

@@ -15,21 +15,23 @@ from autosnapmanager.utils.window_tools import get_screen_scale_factors
 
 class OpenCVMatch(Match):
     def __init__(self,
-                 param: str = None,
                  threshold: float = 0.9,
                  method: int = cv2.TM_CCOEFF_NORMED,
                  colors=False,
-                 scale=False
+                 scale=False,
+                 window_name=None,
+                 serial=None
                  ):
         """
         初始化 OpenCVMatch 对象
 
         Args:
-            param: 占位
             threshold: 指定匹配阈值
             method: 指定匹配方法
             colors: 是否使用颜色匹配
             scale: 是否使用缩放（应对一个缩放率模板匹配多个缩放率图像的场景，模板缩放率默认100%）
+            window_name: 占位
+            serial: 占位
         """
         self.threshold = threshold
         self.method = method

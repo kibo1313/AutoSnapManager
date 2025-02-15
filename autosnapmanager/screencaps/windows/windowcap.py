@@ -88,7 +88,7 @@ class WindowCap(ScreenCap):
 
 if __name__ == "__main__":
     import time
-    from asm.utils.dpi_tools import set_dpi_awareness
+    from autosnapmanager.utils.dpi_tools import set_dpi_awareness
 
     start_time = time.time()
     set_dpi_awareness()

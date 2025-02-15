@@ -42,18 +42,18 @@ dev = [
     "flake8>=5.0.0",
 ]
 
-[project.scripts]
-autosnap = "asm.cli:main"
+#[project.scripts]
+#autosnap = "autosnapmanager.cli:main"
 
 [project.urls]
 Homepage = "https://github.com/kibo1313/AutoSnapManager"
 Repository = "https://github.com/kibo1313/AutoSnapManager"
 
 [tool.setuptools]
-package-dir = { "" = "asm" }
+package-dir = { "" = "autosnapmanager" }
 
 [tool.setuptools.packages.find]
-where = ["asm"]
+where = ["autosnapmanager"]
 
 [tool.black]
 line-length = 88

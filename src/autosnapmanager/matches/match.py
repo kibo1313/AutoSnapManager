@@ -5,7 +5,7 @@ import numpy as np
 
 class Match(ABC):
     @abstractmethod
-    def match(self, image: Union[str, np.ndarray], template: Union[str, np.ndarray]) -> bool:
+    def match(self, image: Union[str, np.ndarray], template: Union[str, np.ndarray], threshold: float) -> bool:
         pass
 
     @abstractmethod

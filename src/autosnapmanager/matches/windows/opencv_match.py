@@ -3,34 +3,33 @@ OpenCV 匹配模块
 使用 OpenCV 实现图像匹配功能
 """
 from typing import Union, Tuple, Generator
+
 import cv2
 import numpy as np
 
 from autosnapmanager.matches.match import Match
+from autosnapmanager.utils.logger import logger
 from autosnapmanager.utils.process_image_tools import image2array, convert_color, resize_image
 from autosnapmanager.utils.window_tools import get_screen_scale_factors
-from autosnapmanager.utils.logger import logger
 
 
 class OpenCVMatch(Match):
     def __init__(self,
+                 param: str = None,
                  threshold: float = 0.9,
                  method: int = cv2.TM_CCOEFF_NORMED,
                  colors=False,
-                 scale=False,
-                 window_name=None,
-                 serial=None
+                 scale=False
                  ):
         """
         初始化 OpenCVMatch 对象
 
         Args:
+            param: 占位
             threshold: 指定匹配阈值
             method: 指定匹配方法
             colors: 是否使用颜色匹配
             scale: 是否使用缩放（应对一个缩放率模板匹配多个缩放率图像的场景，模板缩放率默认100%）
-            window_name: 占位
-            serial: 占位
         """
         self.threshold = threshold
         self.method = method
@@ -51,25 +50,38 @@ class OpenCVMatch(Match):
             raise ValueError("缩放率必须大于0")
         self._template_scale_ratio = value
 
-    def match(self, image: Union[str, np.ndarray], template: Union[str, np.ndarray]) -> bool:
+    def _get_threshold(self, threshold: float):
+        """设置匹配阈值"""
+        if threshold is not None:
+            if not (0 <= threshold <= 1):
+                raise ValueError("阈值必须在 [0, 1] 范围内")
+            return threshold
+        else:
+            return self.threshold
+
+    def match(self, image: Union[str, np.ndarray], template: Union[str, np.ndarray], threshold: float = None) -> bool:
         """
         匹配图像与模板
 
         Args:
             image: 输入图像，可以是路径或numpy数组
             template: 模板图像，可以是路径或numpy数组
+            threshold: 指定匹配阈值
 
         Returns:
             bool: 匹配是否成功
         """
+        threshold = self._get_threshold(threshold)
         try:
-            self._get_matches(image, template)
+            self._get_matches(image, template, threshold)
             return True
 
         except ValueError:
             return False
 
-    def _get_matches(self, image: Union[str, np.ndarray], template: Union[str, np.ndarray]) -> np.ndarray:
+    def _get_matches(self, image: Union[str, np.ndarray],
+                     template: Union[str, np.ndarray],
+                     threshold: float = None) -> np.ndarray:
         """获取匹配结果"""
         image = self._resize_img(image) if self.scale else image2array(image)
         template = image2array(template)
@@ -80,10 +92,11 @@ class OpenCVMatch(Match):
         result = cv2.matchTemplate(image, template, self.method)
         min_var, max_var, min_loc, max_loc = cv2.minMaxLoc(result)
 
-        if max_var < self.threshold:
-            raise ValueError(f"匹配失败 | 相似度: {max_var} | 阈值: {self.threshold}")
+        threshold = self._get_threshold(threshold)
+        if max_var < threshold:
+            raise ValueError(f"匹配失败 | 相似度: {max_var} | 阈值: {threshold}")
 
-        logger.info(f"匹配成功 | 相似度: {max_var} | 阈值: {self.threshold}")
+        logger.info(f"匹配成功 | 相似度: {max_var} | 阈值: {threshold}")
         return result
 
     def _locate_matches(self, image: Union[str, np.ndarray], template: Union[str, np.ndarray]):

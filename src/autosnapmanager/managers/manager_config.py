@@ -86,19 +86,21 @@ CLASSMAP = {
 DefaultMethods = {
     'ScreenCap': {
         System.Windows: ('window', 'fullscreen'),
-        System.Android: ('minicap',),
+        System.Android: ('minicap', 'minicap'),
     },
     'Match': {
         System.Windows: ('opencv', 'opencv'),
-        System.Android: ('opencv',),
+        System.Android: ('opencv', 'opencv'),
     },
     'Click': {
         System.Windows: ('win32gui', 'pyautogui'),
+        System.Android: ('adb', 'adb'),
     },
-    'Touch': {
-        System.Android: ('adb',),
-    }
+}
 
+DefaultArgs = {
+    System.Windows: {'window_name'},
+    System.Android: {'serial'},
 }
 
 if __name__ == '__main__':

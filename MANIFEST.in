@@ -1,4 +1,4 @@
 include README.md
 include LICENSE
-recursive-include asm/screencaps/android/bin *
-recursive-include asm/actions/clicks/android/bin *
+recursive-include autosnapmanager/screencaps/android/bin *
+recursive-include autosnapmanager/actions/clicks/android/bin *

@@ -50,10 +50,18 @@ Homepage = "https://github.com/kibo1313/AutoSnapManager"
 Repository = "https://github.com/kibo1313/AutoSnapManager"
 
 [tool.setuptools]
-package-dir = { "" = "autosnapmanager" }
+package-dir = { "" = "src" }
 
 [tool.setuptools.packages.find]
-where = ["autosnapmanager"]
+where = ["src"]
+#include = ["autosnapmanager*"]
+#exclude = []
+
+[tool.setuptools.package-data]
+autosnapmanager = [
+    "actions/clicks/android/bin/**",
+    "screencaps/android/bin/**"
+]
 
 [tool.black]
 line-length = 88

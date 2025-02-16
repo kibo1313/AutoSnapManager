@@ -74,5 +74,5 @@ class Manager(ABC):
         if system == System.Windows and super_class in (ScreenCap, Click):
             if list(param.values())[0] is None:
                 return module(map_obj, default_methods[1], system)()
-        else:
-            return module(map_obj, default_methods[0], system)(**param)
+
+        return module(map_obj, default_methods[0], system)(**param)

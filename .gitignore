@@ -2,3 +2,4 @@
 /src/autosnapmanager.egg-info/
 /builds/
 /.venv/
+/dist/

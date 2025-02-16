@@ -32,7 +32,7 @@ class MiniTouchUnSupportError(MiniTouchError):
 
 
 class MiniTouchManager:
-    """MiniTouch 服务管理器"""
+    """MiniTouch 服务管理者"""
 
     ROTATION_MAP = {
         0: lambda x, y, w, h: (x, y),

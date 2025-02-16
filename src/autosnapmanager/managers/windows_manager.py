@@ -32,7 +32,7 @@ class WindowsManager(Manager):
         for key in ['ScreenCap', 'Click']:
             DefaultArgs[System.Windows][key]['window_name'] = window_name
 
-        super().__init__(system=System.Windows, param=DefaultArgs[System.Windows], screencap=screencap, match=match,
+        super().__init__(system=System.Windows, params=DefaultArgs[System.Windows], screencap=screencap, match=match,
                          click=click)
 
         self.click_lock = Lock()
@@ -45,14 +45,14 @@ class WindowsManager(Manager):
         """匹配模板"""
         return self.matches.match(self.screenCaps.screencap(), template, threshold)
 
-    def _locate_center(self, template: Union[str, np.ndarray]) -> Tuple[int, int]:
+    def _locate_center(self, template: Union[str, np.ndarray], threshold: float = None) -> Tuple[int, int]:
         """定位匹配区域的中心坐标"""
-        return self.matches.locate_center(self.screenCaps.screencap(), template)
+        return self.matches.locate_center(self.screenCaps.screencap(), template, threshold)
 
-    def click(self, template: Union[str, tuple]) -> None:
-        """点击匹配位置"""
+    def click(self, template: Union[str, tuple], threshold: float = None) -> None:
+        """点击匹配位置, 接受图片路径与点击坐标元组"""
         if isinstance(template, str):
-            x, y = self._locate_center(template)
+            x, y = self._locate_center(template, threshold)
         else:
             x, y = template[0], template[1]
 

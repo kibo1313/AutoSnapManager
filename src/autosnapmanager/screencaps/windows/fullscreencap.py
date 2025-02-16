@@ -14,9 +14,8 @@ class FullScreenCap(ScreenCap):
     继承自ScreenCap抽象基类，实现了全屏截图的具体逻辑
     """
 
-    def __init__(self, window_name: str = None):
+    def __init__(self):
         """初始化全屏截图对象"""
-        self.window_name = window_name  # useless
         # 获取屏幕尺寸
         self.width = windll.user32.GetSystemMetrics(0)  # SM_CXSCREEN
         self.height = windll.user32.GetSystemMetrics(1)  # SM_CYSCREEN
@@ -84,7 +83,7 @@ class FullScreenCap(ScreenCap):
 
 if __name__ == "__main__":
     import time
-    from utils.dpi_tools import set_dpi_awareness
+    from autosnapmanager.utils.dpi_tools import set_dpi_awareness
 
     start_time = time.time()
 

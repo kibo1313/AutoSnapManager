@@ -7,14 +7,16 @@ import pyautogui
 
 from autosnapmanager.actions.clicks.click import Click
 from autosnapmanager.utils.logger import logger
-from autosnapmanager.utils.window_tools import get_window
+from autosnapmanager.utils.window_tools import get_hwnd, get_client_origin
 
 
 class PyAutoGuiClick(Click):
     """使用PyAutoGui实现的点击类"""
 
     def __init__(self, window_name: str = None):
-        self._window = get_window(window_name) if window_name else None
+        self.hwnd = get_hwnd(window_name) if window_name else None
+        self.screen_width = pyautogui.size().width
+        self.screen_height = pyautogui.size().height
 
     def click(self, x: int, y: int) -> None:
         """
@@ -28,12 +30,12 @@ class PyAutoGuiClick(Click):
             RuntimeError: 点击操作失败时抛出
         """
         try:
-            if self._window:
-                window_left, window_top = self._window.left, self._window.top
+            if self.hwnd:
+                window_left, window_top = get_client_origin(self.hwnd)
                 x += window_left
                 y += window_top
 
-            if not (0 <= x < pyautogui.size().width and 0 <= y < pyautogui.size().height):
+            if not (0 <= x < self.screen_width and 0 <= y < self.screen_height):
                 raise ValueError(f"坐标 ({x}, {y}) 超出屏幕范围。")
 
             pyautogui.click(x=x, y=y, button='left')
@@ -41,7 +43,7 @@ class PyAutoGuiClick(Click):
 
         except Exception as e:
             logger.error(f"点击执行失败: {e}")
-            raise RuntimeError(f"PyAutoGui点击失败: {e}")
+            raise
 
     @classmethod
     def click_image(cls, image_path: str) -> bool:

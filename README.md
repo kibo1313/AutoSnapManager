@@ -12,7 +12,7 @@ pip install autosnapmanager
 
 1. **导入模块**  
    ```python
-   import autosnapmanager as asm
+   import asm
    ```
 
 2. **创建管理者对象**  

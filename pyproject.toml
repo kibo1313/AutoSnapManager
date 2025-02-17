@@ -54,8 +54,8 @@ package-dir = { "" = "src" }
 
 [tool.setuptools.packages.find]
 where = ["src"]
-#include = ["autosnapmanager*"]
-#exclude = []
+include = ["autosnapmanager*", "asm*"]
+exclude = []
 
 [tool.setuptools.package-data]
 autosnapmanager = [

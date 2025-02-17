@@ -1,23 +1,28 @@
 import ctypes
 from time import sleep
-import pygetwindow as gw
 from typing import Tuple
+
+import pygetwindow as gw
+import win32gui
+
 from autosnapmanager.utils.logger import logger
 
 
 def get_window(window_name: str) -> gw.Window:
     """
     获取窗口对象
-    
+
+
     Args:
         window_name (str): 要获取的窗口名称
-        
+
     Returns:
         gw.Window: pygetwindow窗口对象
-        
+
     Raises:
         ValueError: 找不到指定窗口时抛出
     """
+
     try:
         if window_name is None:
             raise ValueError("窗口名不能为None！")
@@ -33,22 +38,41 @@ def get_window(window_name: str) -> gw.Window:
 
 def get_hwnd(window_name: str) -> int:
     """
-    获取指定窗口的句柄
-    
+    通过窗口标题获取窗口句柄（支持模糊匹配）
+
     Args:
-        window_name (str): 要获取句柄的窗口名称
-        
+        window_name (str): 窗口标题（支持部分匹配）
+
     Returns:
-        int: 窗口句柄值
-        
+        int: 窗口句柄
+
     Raises:
-        ValueError: 找不到窗口句柄时抛出
+        ValueError: 找不到窗口时抛出
     """
-    window = get_window(window_name)
-    hwnd = window._hWnd
-    if not hwnd:
-        raise ValueError(f"窗口句柄未找到: {window_name}")
-    return hwnd
+
+    def enum_handler(hwnd, ctx):
+        if win32gui.IsWindowVisible(hwnd):
+            title = win32gui.GetWindowText(hwnd)
+            if window_name.lower() in title.lower():
+                ctx.append(hwnd)
+        return True
+
+    if not window_name:
+        raise ValueError("窗口名不能为空")
+
+    handles = []
+    win32gui.EnumWindows(enum_handler, handles)
+
+    if not handles:
+        raise ValueError(f"未找到窗口: {window_name}")
+
+    # 返回最顶层匹配窗口
+    return handles[0]
+
+
+def get_client_origin(hwnd: int) -> Tuple[int, int]:
+    """获取窗口客户区在屏幕的位置"""
+    return win32gui.ClientToScreen(hwnd, (0, 0))
 
 
 def window_to_top(window_name: str, width: int, height: int, x: int = 0, y: int = 0) -> None:

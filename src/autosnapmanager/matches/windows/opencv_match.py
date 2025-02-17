@@ -103,7 +103,8 @@ class OpenCVMatch(Match):
         min_var, max_var, min_loc, max_loc = cv2.minMaxLoc(result)
 
         if max_var < threshold:
-            raise OpenCVMatchError(f"匹配失败 | 相似度: {max_var} | 阈值: {threshold}")
+            logger.info(f"匹配失败 | 相似度: {max_var} | 阈值: {threshold}")
+            raise OpenCVMatchError("未能在图像中找到模板")
 
         logger.info(f"匹配成功 | 相似度: {max_var} | 阈值: {threshold}")
         return result

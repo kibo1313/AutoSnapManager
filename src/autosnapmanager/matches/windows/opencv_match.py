@@ -14,6 +14,10 @@ from autosnapmanager.utils.process_image_tools import image2array, convert_color
 from autosnapmanager.utils.window_tools import get_screen_scale_factors
 
 
+class OpenCVMatchError(Exception):
+    pass
+
+
 class OpenCVMatch(Match):
     def __init__(self,
                  threshold: float = 0.9,
@@ -79,22 +83,27 @@ class OpenCVMatch(Match):
             self._get_matches(image, template, threshold)
             return True
 
-        except ValueError:
+        except OpenCVMatchError:
             return False
 
     def _get_matches(self, image: Union[str, np.ndarray],
                      template: Union[str, np.ndarray],
-                     threshold: float = None) -> np.ndarray:
+                     threshold: float = None
+                     ) -> np.ndarray:
         """获取匹配结果"""
+
         image = self._preprocess_image(image)
         template = self._preprocess_image(template, is_template=True)
         threshold = self._get_threshold(threshold)
+
+        if template.shape[0] > image.shape[0] or template.shape[1] > image.shape[1]:
+            raise ValueError("输入模板尺寸大于图像尺寸，请检查图像或模板是否合规")
 
         result = cv2.matchTemplate(image, template, self.method)
         min_var, max_var, min_loc, max_loc = cv2.minMaxLoc(result)
 
         if max_var < threshold:
-            raise ValueError(f"匹配失败 | 相似度: {max_var} | 阈值: {threshold}")
+            raise OpenCVMatchError(f"匹配失败 | 相似度: {max_var} | 阈值: {threshold}")
 
         logger.info(f"匹配成功 | 相似度: {max_var} | 阈值: {threshold}")
         return result

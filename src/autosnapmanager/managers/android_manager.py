@@ -44,7 +44,8 @@ class AndroidManager(Manager):
         return self.matches.match(self.screenCaps.screencap(), template, threshold)
 
     def click(self, template: Union[str, tuple], threshold: float = None,
-              repeat: bool = False, min_distance: Tuple[int, int] = (1, 1)
+              repeat: bool = False, min_distance: Tuple[int, int] = (1, 1),
+              duration: int = None
               ) -> None:
         """点击匹配位置, 接受图片路径与点击坐标元组"""
         if isinstance(template, str):
@@ -55,7 +56,7 @@ class AndroidManager(Manager):
             x, y = template
 
         with self.click_lock:
-            self.clicks.click(x, y)
+            self.clicks.click(x, y, duration=duration)
 
     def swipe(self, start_x: int, start_y: int, end_x: int, end_y: int) -> None:
         self.clicks.swipe(start_x, start_y, end_x, end_y)

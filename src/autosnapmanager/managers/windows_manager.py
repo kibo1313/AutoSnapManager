@@ -1,5 +1,4 @@
-from threading import Lock
-from typing import Union, Tuple, Optional
+from typing import Union, Tuple, Optional, List
 
 import numpy as np
 
@@ -35,8 +34,6 @@ class WindowsManager(Manager):
         super().__init__(system=System.Windows, params=DefaultArgs[System.Windows], screencap=screencap, match=match,
                          click=click)
 
-        self.click_lock = Lock()
-
     def screenshot(self, save_path: str = None) -> None:
         """获取屏幕截图"""
         self.screenCaps.save_screencap(save_path)
@@ -45,19 +42,34 @@ class WindowsManager(Manager):
         """匹配模板"""
         return self.matches.match(self.screenCaps.screencap(), template, threshold)
 
-    def _locate_center(self, template: Union[str, np.ndarray], threshold: float = None) -> Tuple[int, int]:
-        """定位匹配区域的中心坐标"""
-        return self.matches.locate_center(self.screenCaps.screencap(), template, threshold)
-
-    def click(self, template: Union[str, tuple], threshold: float = None) -> None:
+    def click(self, template: Union[str, tuple], threshold: float = None,
+              repeat: bool = False, min_distance: Tuple[int, int] = (1, 1)
+              ) -> None:
         """点击匹配位置, 接受图片路径与点击坐标元组"""
         if isinstance(template, str):
-            x, y = self._locate_center(template, threshold)
+            x, y = self._locate_center(template, threshold) \
+                if not repeat \
+                else self._locate_center_repeated(template, min_distance, threshold)
         else:
-            x, y = template[0], template[1]
+            x, y = template
 
         with self.click_lock:
-            self.clicks.click(x, y)
+            if repeat:
+                for cx, cy in zip(x, y):
+                    self.clicks.click(cx, cy)
+            else:
+                self.clicks.click(x, y)
+
+    def _locate_center(self, template: Union[str, np.ndarray], threshold: float = None) -> Tuple[int, int]:
+        """定位匹配区域最大相似度的中心坐标"""
+        return self.matches.locate_center(self.screenCaps.screencap(), template, threshold)
+
+    def _locate_center_repeated(self, template: Union[str, np.ndarray],
+                                min_distance: Tuple[int, int] = (0, 0),
+                                threshold: float = None
+                                ) -> Tuple[List[int], List[int]]:
+        """定位匹配区域中指定阈值内的所有中心坐标"""
+        return self.matches.locate_center_repeated(self.screenCaps.screencap(), template, min_distance, threshold)
 
 
 if __name__ == "__main__":

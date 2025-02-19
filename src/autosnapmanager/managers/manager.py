@@ -1,4 +1,5 @@
 from abc import ABC, abstractmethod
+from threading import Lock
 from typing import Union, Optional, Any
 
 from autosnapmanager.actions.clicks.click import Click
@@ -28,6 +29,7 @@ class Manager(ABC):
         self.screenCaps = self._init_method(system, params, screencap, ScreenCap)
         self.matches = self._init_method(system, params, match, Match)
         self.clicks = self._init_method(system, params, click, Click)
+        self.click_lock = Lock()
 
     @abstractmethod
     def screenshot(self, save_path: str = None) -> None:
@@ -40,7 +42,7 @@ class Manager(ABC):
         pass
 
     @abstractmethod
-    def click(self, template: Union[str, tuple], threshold: float = None) -> None:
+    def click(self, template: Union[str, tuple], threshold: float, repeat: bool, min_distance: tuple) -> None:
         """点击匹配位置(可选图片路径或元组坐标)"""
         pass
 

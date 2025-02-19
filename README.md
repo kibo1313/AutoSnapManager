@@ -40,6 +40,9 @@ pip install autosnapmanager
    # 点击匹配位置
    manager.click(template='template.png', threshold=0.8)
    
+   # 点击所有匹配位置
+   manager.click(template='template.png', repeat=True, min_distance=(10, 10))
+   
    # 点击指定位置
    manager.click((100, 200)) 
    ```
@@ -65,11 +68,13 @@ pip install autosnapmanager
   - `threshold`: 匹配阈值，默认为 `0.9`。
 - **返回值**: 返回布尔值，表示匹配是否成功。
 
-#### 3. `click(template: Union[str, tuple], threshold: float = None)`
+#### 3. `click(template: Union[str, tuple], threshold: float = None, repeat: bool, min_distance: tuple)`
 - **功能**: 点击匹配位置或指定坐标。
 - **参数**: 
   - `template`: 可以是模板图片路径或元组坐标 `(x, y)`。
   - `threshold`: 匹配阈值（仅当 `template` 为图片时有效）。
+  - `repeat`: 是否重复点击所有匹配位置，默认为 `False`。
+  - `min_distance`: 两个匹配位置的最小距离，默认为 `(10, 10)`。
 - **返回值**: 无
 
 ---
@@ -115,6 +120,11 @@ manager = asm.Android(
 ```
 
 #### 特殊方法
+- **长按操作**:
+  ```python
+  manager.click(template=(100, 200), duration=2000)  # 按住两秒
+  ```
+  
 - **滑动操作**:  
   ```python
   manager.swipe(start_x=100, start_y=200, end_x=400, end_y=200)
@@ -204,6 +214,14 @@ manager = asm.Android(
 - **ADBTouch**: 支持点到点直线滑动。
 - **MiniTouch**: 支持曲线滑动，低延迟，不支持安卓13以上。
 - **MAATouch**: MiniTouch 的增强版本，不支持安卓13以上。
+
+---
+
+## 更新日志
+
+### v0.1.1 (2025-02-19)
+- android端的click方法新增了duration参数, 支持长按操作。
+- windows与android端的click方法新增了repeat重复点击的功能，通过min_distance参数可以控制匹配区域的重叠度。
 
 ---
 

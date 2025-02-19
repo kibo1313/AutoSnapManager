@@ -56,7 +56,11 @@ class AndroidManager(Manager):
             x, y = template
 
         with self.click_lock:
-            self.clicks.click(x, y, duration=duration)
+            if repeat:
+                for cx, cy in zip(x, y):
+                    self.clicks.click(cx, cy, duration=duration)
+            else:
+                self.clicks.click(x, y, duration=duration)
 
     def swipe(self, start_x: int, start_y: int, end_x: int, end_y: int) -> None:
         self.clicks.swipe(start_x, start_y, end_x, end_y)

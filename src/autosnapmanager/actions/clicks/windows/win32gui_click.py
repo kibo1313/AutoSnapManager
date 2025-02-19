@@ -63,7 +63,8 @@ class Win32GuiClick(Click):
         Returns:
             int: 组合后的坐标参数
         """
-        return (y << 16) | x
+        # numpy.int32，可能与 Python 原生int不兼容,必须强转
+        return (int(y) << 16) | int(x)
 
 
 if __name__ == "__main__":
@@ -73,5 +74,5 @@ if __name__ == "__main__":
     set_dpi_awareness()
 
     # 测试点击
-    clicker = Win32GuiClick("智谱清言")
-    clicker.click(166, 45)
+    clicker = Win32GuiClick("历史记录")
+    clicker.click(787, 431)

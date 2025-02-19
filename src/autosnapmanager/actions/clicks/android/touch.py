@@ -4,7 +4,7 @@ from autosnapmanager.actions.clicks.click import Click
 
 class Touch(Click):
     @abstractmethod
-    def click(self, x: int, y: int) -> None:
+    def click(self, x: int, y: int, duration: int) -> None:
         pass
 
     @abstractmethod

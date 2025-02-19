@@ -7,8 +7,11 @@ class ADBTouch(Touch):
     def __init__(self, serial: str):
         self._adb = adb.device(serial)
 
-    def click(self, x: int, y: int) -> None:
-        adb_command = ['input', 'touchscreen', 'tap', str(x), str(y)]
+    def click(self, x: int, y: int, duration: int = None) -> None:
+        if duration:
+            adb_command = ['input', 'swipe', str(x), str(y), str(x), str(y), str(duration / 1000.0)]
+        else:
+            adb_command = ['input', 'touchscreen', 'tap', str(x), str(y)]
         result = self._adb.shell2(adb_command)
         if result.returncode != 0:
             raise RuntimeError(result.output)

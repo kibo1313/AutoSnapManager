@@ -3,7 +3,7 @@ OpenCV 匹配模块
 使用 OpenCV 实现图像匹配功能
 """
 from collections import defaultdict
-from typing import Union, Tuple, Generator
+from typing import Union, Tuple, Generator, List
 
 import cv2
 import numpy as np
@@ -158,7 +158,7 @@ class OpenCVMatch(Match):
         Args:
             min_distance: 匹配模板之间能容忍的最小间距
         yield:
-            Tuple[int, int, float]: 左上角坐标值（x, y）和匹配值
+            Tuple[int, int, float]: 左上角坐标值（x, y）和匹配相似度
         """
         threshold = self._get_threshold(threshold)
         result = self._get_matches(image, template, threshold)
@@ -212,7 +212,7 @@ class OpenCVMatch(Match):
                                template: Union[str, np.ndarray],
                                min_distance: Tuple[int, int] = (0, 0),
                                threshold: float = None
-                               ) -> Generator[Tuple[int, int], None, None]:
+                               ) -> Tuple[List[int], List[int]]:
         """
         定位模板在图像中所有匹配成功的中心坐标
         Args:
@@ -220,8 +220,8 @@ class OpenCVMatch(Match):
             template: 模板图像，可以是路径或numpy数组
             min_distance: 匹配模板之间能容忍的最小间距
             threshold: 匹配阈值
-        yield:
-            Tuple[int, int, float]: 左上角坐标值（x, y）和匹配值
+        Returns:
+            Tuple[List[int], List[int]: 中心坐标值列表（x, y）
         """
         threshold = self._get_threshold(threshold)
         template = image2array(template)
@@ -230,7 +230,9 @@ class OpenCVMatch(Match):
         scale_factor = self.relative_scale_ratio if self.scale else 1
         scaled_width = round(width / scale_factor)
         scaled_height = round(height / scale_factor)
-        # TODO yield convert return ？
+
+        x_arr = []
+        y_arr = []
         for num, (x, y, value) in enumerate(self._locate_matches_repeated(image, template, min_distance, threshold),
                                             start=1):
             # 计算中心坐标
@@ -241,8 +243,10 @@ class OpenCVMatch(Match):
                 f"坐标: {str((x, y)):<14} | "
                 f"中心: {str((center_x, center_y)):<14} | "
                 f"匹配度: {value:.15f}")
+            x_arr.append(center_x)
+            y_arr.append(center_y)
 
-            yield center_x, center_y
+        return x_arr, y_arr
 
     def _check_screen_ratio(self) -> None:
         """检查当前屏幕比例"""
@@ -272,3 +276,9 @@ class OpenCVMatch(Match):
         """
         img = resize_image(img, self.relative_scale_ratio, keep_ratio=keep_ratio, interpolation=interpolation)
         return img
+
+
+if __name__ == '__main__':
+    m = OpenCVMatch()
+    tx, ty = m.locate_center_repeated(r"C:\Users\YXS\Downloads\t1.png", r"C:\Users\YXS\Downloads\t2.png")
+    print(tx, ty)

@@ -8,13 +8,13 @@ from win32con import WM_LBUTTONDOWN, WM_LBUTTONUP, MK_LBUTTON
 
 from autosnapmanager.actions.clicks.click import Click
 from autosnapmanager.utils.logger import logger
-from autosnapmanager.utils.window_tools import get_hwnd
+from autosnapmanager.utils.window_tools import get_window_rect, get_hwnd
 
 
 class Win32ApiClick(Click):
     """使用Win32Api实现的点击类"""
 
-    __slots__ = ('_hwnd',)
+    __slots__ = ('_hwnd', 'window_width', 'window_height')
 
     def __init__(self, window_name: str = None) -> None:
         """
@@ -24,6 +24,7 @@ class Win32ApiClick(Click):
             window_name: 目标窗口名
         """
         self._hwnd = get_hwnd(window_name)
+        _, _, self.window_width, self.window_height = get_window_rect(window_name)
 
     def click(self, x: int, y: int) -> None:
         """
@@ -36,6 +37,9 @@ class Win32ApiClick(Click):
         Raises:
             RuntimeError: 发送消息失败时抛出
         """
+        if x < 0 or x > self.window_width or y < 0 or y > self.window_height:
+            raise ValueError(f"坐标 ({x}, {y}) 超出屏幕范围。")
+
         try:
             # 计算消息参数
             lparam = self._make_lparam(x, y)

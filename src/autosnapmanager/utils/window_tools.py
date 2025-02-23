@@ -36,6 +36,13 @@ def get_window(window_name: str) -> gw.Window:
         raise
 
 
+def get_window_rect(window_name: str) -> Tuple[int, int, int, int]:
+    window = get_window(window_name)
+    rect = window._rect
+    left, top, width, height = rect.left, rect.top, rect.width, rect.height
+    return left, top, width, height
+
+
 def get_hwnd(window_name: str) -> int:
     """
     通过窗口标题获取窗口句柄（支持模糊匹配）
